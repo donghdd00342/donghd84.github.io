@@ -1,0 +1,31 @@
+---
+layout: compress
+---
+[
+
+  {% comment %} ------------------------------ BEGIN COLLECTIONS ------------------------------ {% endcomment %}
+  {% assign serials = site.collections | where: 'isSerial', true | where: 'show', true %}
+  {% if serials.size > 0 %}
+    {% for serial in serials %}
+
+      {% assign docs = serial.docs | where: 'draft', false %}
+      {% if docs.size > 0 %}
+
+        {% for doc in docs %}
+          {
+            "title"    : "{{ doc.title | escape }}",
+            "url"      : "{{ site.baseurl }}{{ doc.url }}",
+            "date"     : "{{ doc.date | date: '%F' }}"
+          }{% unless forloop.last %},{% endunless %}
+        {% endfor %}
+
+      {% endif %}
+      
+      {% if forloop.index > 0 %}
+        {% unless forloop.last %},{% endunless %}
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+  {% comment %} ------------------------------ END COLLECTIONS ------------------------------ {% endcomment %}
+
+]
