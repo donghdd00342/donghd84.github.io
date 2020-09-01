@@ -58,3 +58,17 @@ Part 2 sẽ diễn ra như sau:
 7. Lắng nghe kỹ thì động từ của câu hỏi: không bao giờ chọn một câu trả lời cho việc xảy ra ở tương lai cho một câu hỏi về hoạt động trong quá khứ.
 
 ## Luyện tập
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/mp3-toeic/part2_1.mp3 %}
+
+| **Where** should I keep these company letterheads? => In the cabinet by the door. | Tôi nên giữ những tiêu đề thư của công ty ở đâu? => Trong tủ đựng hồ sơ cạnh cửa
+| **When** will you take off for Paris? => On Tuesday afternoon. | Khi nào bạn sẽ đi Paris? => Chiều thứ Ba.
+| **Who**'s going to attend the executive meeting? => Only the managers. | Ai sẽ tham dự buổi họp cấp cao? => Chỉ có các nhà quản lý.
+| **Why** hasn't Mr. Moreno signed those papers yet? => Because he hasn't had a chance to read them. | Tại sao Ông Moreno chưa ký những giấy tờ này nữa. => Vì ông ấy chưa có cơ hội để đọc qua chúng.
+| **How often** does the CEO visit this office? => Once a month. | Tổng giám đốc điều hành ghé thăm văn phòng này bao lâu một lần? => Mỗi tháng một lần.
+| **Was** the contract approved yesterday? => Yes, I just heard about it this morning. | Hợp đồng được chấp thuận vào hôm qua đúng không? => Vâng, tôi vừa nghe tin này sáng nay.
+| You bought a new copy machine, **didn't you?** => Yes, it's very easy to use. | Bạn đã mua cái máy phô-tô mới đúng không? => Vâng, nó rất dễ sử dụng.
+| You have a sweater like this one, **don't you?** => Yes, but in a different color. | Bạn có một cái áo len giống vậy phải không? => Có, nhưng màu khác.
+| **Which one do you prefer**, the blue or the red envelope? => I think I'll need both of them. | Bạn thích cái nào, cái màu xanh dương hay cái màu đỏ? => Tôi nghĩ mình cần cả hai cái.
+| **Would you like to** take the early flight or catch the afternoon one? => I'd rather take the later plane. | Bạn có muốn đi chuyến bay sớm không hay bắt chuyến vào buổi chiều? => Tôi thà bắt chuyến sau còn hơn.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}

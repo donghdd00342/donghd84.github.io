@@ -189,7 +189,7 @@
 	"donghd.com insert an mp3 player": {
 		"prefix": "dhmp3",
 		"body": [
-			"{% mp3 /assets/mp3/AAAAA.mp3 %}"
+			"{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/mp3-toeic/AAAAA.mp3 %}"
 		],
 		"description": "donghd.com insert an mp3 player"
 	},

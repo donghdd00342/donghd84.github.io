@@ -47,7 +47,7 @@ Part 1 sẽ diễn ra như sau:
 
 ### Một số từ vựng
 
-{% mp3 /assets/mp3/toeic/tuvung-part-1.mp3 %}
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/mp3-toeic/tuvung-part-1.mp3 %}
 
 ##### Động từ chỉ hành động
 
@@ -204,3 +204,65 @@ Part 1 sẽ diễn ra như sau:
 5. Khi nghe câu trả lời thì "**không đoán**" nữa, hãy chọn **câu logic nhất** có thể!
 
 ## Luyện tập
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/mp3-toeic/part1_1.mp3 %}
+
+| The man is **selling** bags on the street. | Người đàn ông **đang bán** túi xách trên phố.
+| The man is **climbing over** the railing. | Người đàn ông **đang leo** qua hàng rào.
+| The man is **carrying** bags in both of his hands. | Người đàn ông **đang xách** túi ở cả hai tay.
+| The man is **tying** a flag on the rail. | Người đàn ông **đang treo** lá cờ lên tay vịn.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+| Chairs have been **placed around** the tables. | Những cái ghế được **đặt quanh** những cái bàn.
+| Customers are being **led to** their tables. | Khách hàng **đang được dắt vào** bàn.
+| The clients are **sitting** on long benches. | Khách hàng **đang ngồi** trên những băng ghế dài.
+| People are **playing** board games outdoors. | Mọi người **đang chơi** trò chơi trên bảng ở ngoài trời.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+| The bus driver is **gathering tickets** from the passengers. | Tài xế xe buýt đang **thu vé** từ hành khách.
+| Some people are **trying to get off** the bus. | Vài người **đang cố xuống** xe.
+| The passengers are **boarding** the bus. | Hành khách **đang lên xe** buýt.
+| A woman is **opening** a window on the bus. | Người phụ nữ **đang mở** cửa sổ trên xe buýt.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+| The road **is off limits to** vehicles. | Xe **không được đi vào** con đường này.
+| The street **is lined with** benches. | Những băng ghế **được đặt dọc** con đường.
+| There are **buildings** standing on either side of the road. | Có những **tòa nhà** ở hai bên đường.
+| There is **a street lamp being fixed** at the moment. | Có **một cây đèn đường đang được sửa**.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+| The woman is **listening to** music. | Người phụ nữ **đang nghe** nhạc.
+| The woman is **buying** some CDs. | Người phụ nữ **đang mua** vài đĩa CD.
+| The woman is **holding** a CD. | Người phụ nữ **đang cầm** một cái đĩa CD.
+| The woman is **recording** a CD. | Người phụ nữ **đang thu** một đĩa CD.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+| He is **cutting** some fruit. | Anh ấy **đang cắt** trái cây.
+| He is **rolling up his sleeves**. | Anh ấy **đang xắn tay áo**.
+| He is **holding** a plate. | Anh ấy **đang cầm** cái dĩa.
+| He is **throwing** something away. | Anh ấy **đang ném** cái gì đó.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+| The men are **repairing** their boats. | Những người đàn ông **đang sửa** chiếc tàu của họ.
+| The boats are being **loaded** with goods. | Hàng hóa **đang được chất lên tàu**.
+| The boats are **sinking**. | Những chiếc tàu **đang chìm**.
+| The men are **standing** in their boats. | Những người đàn ông **đang đứng** trên tàu.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+| There is **a lone walker** on a country road. | Có một **người du hành cô độc** trên con đường quê.
+| The land near the farm is **fenced**. | Mảnh đất gần nông trại **được rào lại**.
+| The hay is **piled neatly** on the ground. | Cỏ khô **được chất gọn gàng** trên mặt đất.
+| The road **curves** into the distance. | Con đường **uốn cong** chạy ra xa xa.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+| The pilots are **packing** their suitcases. | Các phi công **đang đóng gói** hành lý.
+| The passengers are **closing** the overhead bins. | Các hành khách **đang đóng** những ngăn chứa đồ phía trên đầu.
+| The travelers are **checking in** for the flight. | Các hành khách **đang làm thủ tục** lên máy bay.
+| The attendants are **shutting** the door to the plane. | Các tiếp viên **đang đóng cửa** máy bay.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+| The lane is **crowded** with villagers. | Đường đi **đông người** dân làng.
+| You can see **mountains** in the background. | Bạn **có thể thấy núi** ở đằng sau.
+| The road is **divided into** two lanes. | Con đường **được chia thành 2** làn đường.
+| The photo **shows** a street with detached houses. | Bức hình **cho thấy** một con đường với những ngôi nhà riêng biệt.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}

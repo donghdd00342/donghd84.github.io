@@ -72,3 +72,43 @@ Phải làm thế nào nếu không hiểu được được nội dung audio? =
         - Câu hỏi nghe hiểu ngụ ý
 
 ## Luyện tập
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/mp3-toeic/1jFOD.mp3 %}
+
+| W: Do you have any more of these chairs available? I need three, but there are only two here. | W: Anh có còn mấy cái ghế này không? Tôi cần 3 cái nhưng ở đây chỉ có 2 cái.
+| M: I think there is in the warehouse. Let me check. Yes, there are two in the warehouse. They're $129.00 each. | M: Tôi nghĩ trong kho có. Để tôi kiểm tra xem. Vâng, trong kho có 2 cái. Mỗi cái giá 129 đô.
+| W: Good. I'll take three then. I'd like to have them delivered. | W: Tốt. Tôi sẽ lấy 3 cái. Tôi muốn chúng được giao đến.
+| M: No problem. Just give us your address. | M: Không vấn đề gì. Chỉ cần cho chúng tôi địa chỉ.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/mp3-toeic/LLsDH.mp3 %}
+
+| W: Hi, I'm looking for a printer that's a good value. Which one do you recommend? | W: Chào, tôi đang tìm một chiếc máy in tốt. Anh có cái nào để giới thiệu không?
+| M: Just follow me and have a look at the Laser X2. It can print high-quality pictures, and it only costs 275 dollars. | M: Xin đi theo tôi để xem chiếc Laser X2. Nó có thể in ảnh chất lượng cao và giá chỉ có 275 đô.
+| W: Actually, I was hoping to find a cheaper one. The features of the Laser X2 seem nice, but do you have one at a lower price? | W: Thật ra tôi đang muốn tìm một chiếc rẻ hơn. Đặc tính của chiếc Laser X2 có vẻ tốt nhưng anh có cái nào giá thấp hơn không?
+| M: Yes, we do. The printer on the bottom shelf over there is the Print-Plus 7, and it's very popular. | M: Có. Chiếc máy in ở ngăn dưới cùng kia là chiếc Print-Plus 7 và nó rất phổ biến.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/mp3-toeic/noRux.mp3 %}
+
+| M: Could I get my checking account bankbook updated? I also need two rolls of quarters and four rolls of dimes. | M: Tôi có thể được cập nhật thông tin tài khoản trong sổ ngân hàng của tôi được không? Tôi cũng cần 20 đô tiền 25 cent và 20 đô tiền 10 cent.
+| W: Of course, may I have your account book? | W: Dĩ nhiên là được, tôi có thể xem sổ ngân hàng của bạn được không?
+| M: Here you go. And also, can you tell me if your loan officer is in today? I want to speak to him about a possible loan. | M: Đây ạ. À bạn có thể cho tôi biết nhân viên vay vốn có ở văn phòng hôm nay không? Tôi muốn nói chuyện với anh ấy về một số khoản vay.
+| W: Mr. Smith is in with a client at the moment. If you'd like, I can ask him if he has time later. | W: Anh Smith đang gặp một khách hàng khác hiện tại. Nếu bạn muốn, tôi có thể nói với anh ấy để xem anh ấy có thời gian sau đó không.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/mp3-toeic/hAaus.mp3 %}
+
+| M: I'm feeling a bit under the weather. I think I am going to call it a day and visit my family doctor. | M: Tôi cảm thấy hơi mệt. Tôi nghĩ tôi sẽ ngưng ở đây và đi khám bác sĩ của gia đình tôi.
+| W: You do look rather pale. Are you going to be okay? | W: Bạn trông xanh xao quá. Bạn ổn chứ?
+| M: No, I suddenly feel cold, and I have this slight headache coming on. I also feel nauseated. | M: Không, tự dưng tôi thấy lạnh, và tôi cảm thấy nhức đầu nhẹ. Và cũng thấy buồn nôn nữa.
+| W: Hmm, I think you may have caught the flu. You'd better take a couple of days off and get some rest because I need you here next week when the people from Hong Kong will be here to take a look at our operation. | W: Hmm, tôi nghĩ chắc bạn bị cảm cúm rồi. Tối hơn bạn nên xin nghỉ vài ngày và nghỉ ngơi vì tôi cần bạn ở văn phòng vào tuần sau khi một số nhân viên bên Hong Kong sang kiểm tra việc điều hành của chúng ta.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/mp3-toeic/aRHHB.mp3 %}
+
+| M: You do realize that we are going to have to increase the number of workers in our plant once the contract is signed. Maybe it would be wise for us to take out an ad in the local paper now since it's almost a done deal? | M: Bạn biết rằng chúng ta sẽ phải tăng số lượng công nhân trong nhà máy khi hợp đồng được ký. Có thể sẽ thông minh nếu chúng ta đăng bài quảng cáo ở tờ báo địa phương vì việc ký hợp đồng xem như là không thay đổi rồi.
+| W: Yes, I think you may be right. If we wait until the contract is signed, we might not be able to meet their first order since it's so big. | W: Được rồi, tôi nghĩ có lẽ bạn đúng. Nếu chúng ta chờ đến khi hộp đồng được ký, chúng ta sẽ không thể đáp ứng cho đơn hàng đợt một vì số lượng khá lớn.
+| M: Well, we can't afford to do that. This deal is very important to us, and we have to do a good job so that it can lead to other contracts. | M: Uhm, chúng ta không thể không làm việc này rồi. Hợp đồng này rất quan trọng với chúng ta, và chúng ta phải làm tốt để có thể ký được những hợp đồng khác.
+| W: Don't worry. We are going to be fine. | W: Yên tâm. Chúng ta sẽ làm được.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
