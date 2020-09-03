@@ -123,26 +123,27 @@ function openAudioSettings() {
   document.getElementById('audioSettings').style.display = 'block';
 }
 
+/**
+ * Ưu tiên: Repeat > Next > Random
+ * Phần này chỉ xử lý logic uncheck và apply rate, còn đâu ended event đã xử lý audio tiếp theo sẽ là gì...
+ */
 function onClickApplyAs() {
   var audios = document.getElementsByTagName('audio');
   var asSpeed = document.getElementById('asSpeedSelect');
+  var asRepeat = document.getElementById('asRepeatCheck');
   var asRandom = document.getElementById('asRandomCheck');
   var asAutoNext = document.getElementById('asAutoNextCheck');
   if (audios) {
     for (let i = 0; i < audios.length; i++) {
       audios.item(i).playbackRate = asSpeed.value;
-
-      if (asRandom.checked || asAutoNext.checked) {
-        // uncheck repeat
-        audios.item(i).loop = false;
-        // uncheck random or autoNext
-        if (asAutoNext.checked) {
-          asRandom.checked = false;
-        }
-        if (asRandom.checked) {
-          asAutoNext.checked = false;
-        }
-      }
+      // uncheck repeat
+      audios.item(i).loop = false;
+    }
+    if (asRepeat.checked) {
+      asAutoNext.checked = false;
+      asRandom.checked = false;
+    } else if (asAutoNext.checked) {
+      asRandom.checked = false;
     }
   }
   document.getElementById('audioSettings').style.display='none';
@@ -151,6 +152,8 @@ function onClickApplyAs() {
 function applyEventsForAudios() {
   var audios = document.getElementsByTagName('audio');
   if (audios) {
+    window.audioList = audios;
+    window.audiosLength = audios.length;
     for (let i = 0; i < audios.length; i++) {
       if (! window.addedEventListenerFlag) {
         // ended
@@ -161,6 +164,7 @@ function applyEventsForAudios() {
         // play
         audios.item(i).addEventListener('play', () => {
           console.log('audio play =>', i);
+          window.audioCurrentIndex = i;
           handleAudioPlay(audios, i, audios.length);
         });
         // pause
@@ -183,9 +187,21 @@ function resetCurrentAudio() {
 
 function skipCurrentAudioAndNext() {
   if (window.currentAudioPlaying) {
-    document.getElementById('asAutoNextCheck').checked = true;
-    window.currentAudioPlaying.currentTime = window.currentAudioPlaying.duration;
+    window.currentAudioPlaying.currentTime = 0; // reset
+    window.currentAudioPlaying.pause(); // pause
+    window.currentAudioPlaying = window.audioList.item(forceNext());
+    window.currentAudioPlaying.scrollIntoView();
+    window.currentAudioPlaying.play();
   }
+}
+
+function forceNext() {
+  console.log('forceNext => ', window.audioCurrentIndex, window.audiosLength);
+  var nextIndex = window.audioCurrentIndex + 1;
+  if (nextIndex >= window.audiosLength) {
+    nextIndex = 0;
+  }
+  return nextIndex;
 }
 
 function handleAudioEnd(audios, currentIndex, audiosLength) {
@@ -194,8 +210,14 @@ function handleAudioEnd(audios, currentIndex, audiosLength) {
   window.currentAudioPlaying.play();
 }
 
+/**
+ * Ưu tiên Repeat > Auto Next > Random
+ */
 function getNextAudio(currentIndex, audiosLength) {
   var nextIndex = currentIndex + 1;
+  if (document.getElementById('asRepeatCheck').checked) {
+    return currentIndex;
+  }
   if (document.getElementById('asAutoNextCheck').checked) {
     if (nextIndex >= audiosLength) {
       nextIndex = 0;
