@@ -29,7 +29,7 @@ layout: default
         {% assign categories = page.categories %}
       {% endif %}
       {% for category in categories %}
-      <a href="{{site.baseurl}}/pages/categories#{{category|slugize}}" class="hvr-float-shadow">{{category}}</a>
+      <a href="{{site.baseurl}}/pages/categories#{{category|slugize}}" class="hvr-float-shadow">{{category | replace: "_", " "}}</a>
       {% unless forloop.last %}&nbsp;{% endunless %}
       {% endfor %}
     </span>
