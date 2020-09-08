@@ -61,6 +61,8 @@ Part 2 sẽ diễn ra như sau:
 
 ### Question Patterns WHEN
 
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/mp3-toeic/20200908part2-001.mp3 %}
+
 |	Past Events	|	When did + S + V ~ ?	|	When did John leave?	|	John rời đi khi nào?
 |		|	When was [were] + S + P2?	|	When was the report done?	|	Báo cáo được thực hiện khi nào?
 |		|		|	When were the rooms last cleaned?	|	Các phòng được dọn dẹp lần cuối khi nào?
@@ -72,6 +74,8 @@ Part 2 sẽ diễn ra như sau:
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 ##### More Expressions WHEN
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/mp3-toeic/20200908part2-002.mp3 %}
 
 |	Past Events	|	When did he go home? - At 5 o'clock.	|	Anh ấy về nhà khi nào? - Vào lúc 5 giờ.	|	
 |		|	When was John supposed to show up? - Ten minutes ago.	|	John phải xuất hiện khi nào? - Mười phút trước.	|	
@@ -86,6 +90,8 @@ Part 2 sẽ diễn ra như sau:
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 ### Question Patterns WHO
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/mp3-toeic/20200908part2-003.mp3 %}
 
 |	Past Events	|	Who + V-ed ~?	|	Who sketched the new design?	|	Ai là người phác thảo thiết kế mới?
 |		|		|	Who mailed the package?	|	Ai đã gửi gói hàng qua đường bưu điện?
@@ -102,6 +108,8 @@ Part 2 sẽ diễn ra như sau:
 
 ##### More Expressions WHO
 
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/mp3-toeic/20200908part2-004.mp3 %}
+
 |	Past Events	|	Who drew up the blueprints? - Jack, the architect.	|	Ai đã vẽ ra các bản thiết kế? - Jack, kiến trúc sư.	|	
 |		|	Who sent out the boxes? - Mary did, Why?	|	Ai đã gửi các hộp? - Mary đã làm, Tại sao?	|	
 |	Present Events	|	Who is your new partner? - The guy we just hired.	|	Đối tác mới của bạn là ai? - Người mà chúng tôi vừa thuê.	|	
@@ -117,6 +125,8 @@ Part 2 sẽ diễn ra như sau:
 
 ### Question Patterns WHERE
 
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/mp3-toeic/20200908part2-005.mp3 %}
+
 |	Where + Be	|	Where is [are] + S + ~?	|	Where is your new car?	|	Xe mới của bạn ở đâu?
 |		|		|	Where are the computers that came in today?	|	Máy tính ngày nay ở đâu?
 |	Where + Do	|	Where do [does] + S + V ~?	|	Where do you live now?	|	Hiện tại bạn sống ở đâu?
@@ -129,6 +139,8 @@ Part 2 sẽ diễn ra như sau:
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 ##### More Expressions WHERE
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/mp3-toeic/20200908part2-006.mp3 %}
 
 |	Where + Be	|	Where is your new apartment? - It's close to the office.	|	Căn hộ mới của bạn ở đâu? - Nó gần văn phòng.	|	
 |		|	Where are the boxes Mr.Lee asked us to deliver? - They should be in the storage room.	|	Những hộp Mr.Lee yêu cầu chúng tôi giao hàng ở đâu? - Họ nên ở trong phòng chứa đồ.	|	
@@ -143,6 +155,8 @@ Part 2 sẽ diễn ra như sau:
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 ### Question Patterns WHAT
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/mp3-toeic/20200908part2-007.mp3 %}
 
 |	What + Noun	|	What ~ + did + S + V ~?	|	What suggestion did he make?	|	Anh ấy đã đề nghị gì?
 |		|	What kind of [type of / sort of] ~ + do [does / did] + S + V ~?	|	What kind of movies do you like watching?	|	Bạn thích xem loại phim nào?
@@ -159,6 +173,8 @@ Part 2 sẽ diễn ra như sau:
 
 ##### More Expressions WHAT
 
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/mp3-toeic/20200908part2-008.mp3 %}
+
 |	What + Noun	|	What suggestion did your boss make? - He offered me a pay raise.	|	Ông chủ của bạn đã đưa ra đề xuất gì? - Anh ấy đề nghị tôi tăng lương.	|	
 |		|	What kind of books do you like reading? - I like detective novels.	|	Bạn thích đọc loại sách nào? - Tôi thích tiểu thuyết trinh thám.	|	
 |	What + Verb	|	What is happening with the book you are writing? - I need more time to finish it.	|	Điều gì đang xảy ra với cuốn sách bạn đang viết? - Tôi cần thêm thời gian để hoàn thành nó.	|	
@@ -172,6 +188,8 @@ Part 2 sẽ diễn ra như sau:
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 ### Question Patterns HOW
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/mp3-toeic/20200908part2-009.mp3 %}
 
 |	Method	|	How are you getting to ~?	|	How are you getting to the airport tomorrow?	|	Làm thế nào bạn đến sân bay vào ngày mai?
 |		|	How do [will] + S + V ~?	|	How do I use this copy machine?	|	Làm cách nào để sử dụng máy sao chép này?
@@ -189,6 +207,8 @@ Part 2 sẽ diễn ra như sau:
 
 ##### More Expressions HOW
 
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/mp3-toeic/20200908part2-0010.mp3 %}
+
 |	Method	|	How are you getting to the company retirement party this evening? - Jim will come to pick me up at five.	|	Làm thế nào bạn đến bữa tiệc nghỉ hưu của công ty vào tối nay? - Jim sẽ đến đón tôi lúc năm giờ.	|	
 |		|	How do I use this fax machine? - Don't worry, I'll show you.	|	Làm cách nào để sử dụng máy fax này? - Đừng lo, tôi sẽ chỉ cho bạn.	|	
 |		|	How will the package be transported? - By ship.	|	Gói hàng sẽ được vận chuyển như thế nào? - Bằng tàu.	|	
@@ -202,6 +222,8 @@ Part 2 sẽ diễn ra như sau:
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 ### Question Patterns WHY
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/mp3-toeic/20200908part2-0011.mp3 %}
 
 |	Why + Verb	|	Why do [does / don't / doesn't] + S + V ~?	|	Why do you take the bus to work?	|	Tại sao bạn đi xe buýt đến nơi làm việc?
 |		|		|	Why don't you come along?	|	Tại sao bạn không đi cùng?
@@ -222,6 +244,8 @@ Part 2 sẽ diễn ra như sau:
 
 ##### More Expressions WHY
 
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/mp3-toeic/20200908part2-0012.mp3 %}
+
 |	Why + Verb	|	Why did you leave your position? - To find a better job.	|	Tại sao bạn rời bỏ vị trí của bạn? - Để tìm một công việc tốt hơn.	|	
 |		|	Why didn't you attend the workshop yesterday? - I thought it had been canceled.	|	Tại sao bạn không tham dự hội thảo ngày hôm qua? - Tôi nghĩ nó đã bị hủy.	|	
 |		|	Why do you want to see the performance? - Because it received good reviews.	|	Tại sao bạn muốn xem buổi biểu diễn? - Bởi vì nó nhận được đánh giá tốt.	|	
@@ -235,6 +259,8 @@ Part 2 sẽ diễn ra như sau:
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 ### Question Patterns WHOSE, WHICH
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/mp3-toeic/20200908part2-0013.mp3 %}
 
 |	Whose (Possession)	|	Whose + Noun + Be + S?	|	Whose bike is this?	|	Đây là chiếc xe đạp của ai?
 |		|		|	Whose job is it to take out the garbage?	|	Công việc của ai để đổ rác?
@@ -250,6 +276,8 @@ Part 2 sẽ diễn ra như sau:
 
 ##### More Expressions WHOSE, WHICH
 
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/mp3-toeic/20200908part2-0014.mp3 %}
+
 |	Whose	|	Whose bag is that on the table? - It belongs to the receptionist.	|	Túi của ai trên bàn? - Nó thuộc về lễ tân.	|	
 |		|	Whose job is it to secure the building tonight? - Mr.Long is on duty tonight.	|	Công việc của ai là bảo vệ tòa nhà tối nay? - Tối nay Mr.Long trực.	|	
 |	Which	|	Which desk is yours? - The one in the middle.	|	Bàn nào là của bạn? - Cái ở giữa.	|	
@@ -263,6 +291,8 @@ Part 2 sẽ diễn ra như sau:
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 ### Question Patterns BE, DO, HAVE, WILL / WOULD
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/mp3-toeic/20200908part2-0015.mp3 %}
 
 |	Be	|	Is [were] there + S ~?	|	Is there a way to get to the station quicker?	|	Có cách nào để đến nhà ga nhanh hơn không?
 |		|		|	Were there any calls for me?	|	Có cuộc gọi nào cho tôi không?
@@ -280,6 +310,8 @@ Part 2 sẽ diễn ra như sau:
 
 ##### More Expressions BE, DO, HAVE, WILL / WOULD
 
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/mp3-toeic/20200908part2-0016.mp3 %}
+
 |	Be	|	Is there a bus to City Hall from here? - Yes, there's one every ten minutes.	|	Có xe buýt đến Tòa thị chính từ đây không? - Có, cứ mười phút lại có một.	|	
 |		|	Are you going to order office supplies? - No, not until the end of the week.	|	Bạn sắp đặt đồ dùng văn phòng? - Không, phải đến cuối tuần.	|	
 |	Do	|	Do you carry any toothbrushes here? - Yes, they're in the fourth aisle.	|	Bạn có mang theo bàn chải đánh răng nào ở đây không? - Vâng, họ đang ở lối đi thứ tư.	|	
@@ -294,6 +326,8 @@ Part 2 sẽ diễn ra như sau:
 
 ### Question Patterns "Choice"
 
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/mp3-toeic/20200908part2-0017.mp3 %}
+
 |	Choice of an Object	|	~ Object 1 or Object 2?	|	Would you prefer coffee or tea?	|	Bạn thích cà phê hay trà hơn?
 |		|		|	Are you taking the bus or the train to New York?	|	Bạn đang đi xe buýt hoặc xe lửa đến New York?
 |	Choice of Time	|	~ Time 1 or Time 2?	|	Do you want to see the picture now or late?	|	Bạn muốn xem hình ảnh bây giờ hay muộn?
@@ -306,6 +340,8 @@ Part 2 sẽ diễn ra như sau:
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 ##### More Expressions "Choice"
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/mp3-toeic/20200908part2-0018.mp3 %}
 
 |	Object	|	Would you prefer a blue shirt or a red one? - Actually, I'd like a green one.	|	Bạn thích áo sơ mi màu xanh lam hay màu đỏ? - Thực ra, tôi muốn một cái màu xanh lá cây.	|	
 |		|	Would you be interested in pizza or pasta? - It doesn't matter to me.	|	Bạn có thích pizza hay mì ống không? - Đối với tôi không thành vấn đề.	|	
@@ -320,6 +356,8 @@ Part 2 sẽ diễn ra như sau:
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 ### Question Patterns "Suggestion" - "Request"
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/mp3-toeic/20200908part2-0019.mp3 %}
 
 |	Suggestion	|	Why don't you [we] + V ~?	|	Why don't you take it with you?	|	Tại sao bạn không mang nó theo bên mình?
 |		|		|	Why don't we go to a movie tonight?	|	Tại sao chúng ta không đi xem phim tối nay?
@@ -337,6 +375,8 @@ Part 2 sẽ diễn ra như sau:
 
 ##### More Expressions "Suggestion" - "Request"
 
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/mp3-toeic/20200908part2-0020.mp3 %}
+
 |	Suggestion	|	Why don't we take off at six today? - That sounds good.	|	Tại sao chúng ta không cất cánh lúc sáu giờ hôm nay? - Nghe hay đấy.	|	
 |		|	Why don't you come to Gordon Park with us? - Certainly, I'd love to go.	|	Tại sao bạn không đến Gordon Park với chúng tôi? - Chắc chắn, tôi rất muốn đi.	|	
 |		|	How about taking the subway to the bus terminal? - That's a good idea.	|	Làm thế nào về việc đi tàu điện ngầm đến bến xe buýt? - Đó là một ý kiến hay.	|	
@@ -350,6 +390,8 @@ Part 2 sẽ diễn ra như sau:
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 ### Question Patterns "question tags"
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/mp3-toeic/20200908part2-0021.mp3 %}
 
 |	Negative question tags	|	Affirmative sentence, V + not + S?	|	This is your new bag, isn't it?	|	Đây là túi mới của bạn, phải không?
 |		|		|	That was a great presentation, wasn't it?	|	Đó là một bài thuyết trình tuyệt vời, phải không?
@@ -370,6 +412,8 @@ Part 2 sẽ diễn ra như sau:
 
 ##### More Expressions "question tags"
 
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/mp3-toeic/20200908part2-0022.mp3 %}
+
 |	Negative question tags	|	We're getting a bit behind, aren't we? - Don't worry. We'll catch up soon.	|	Chúng ta đang bị tụt lại một chút, phải không? - Đừng lo lắng. Chúng tôi sẽ sớm bắt kịp.	|	
 |		|	That was a perfect game, wasn't it? - Yes, it was amazing.	|	Đó là một trò chơi hoàn hảo, phải không? - Vâng, thật tuyệt vời.	|	
 |		|	Our new car looks nice, doesn't it? - Yes, I like it very much.	|	Chiếc xe mới của chúng tôi trông đẹp, phải không? - Ừ, thích lắm.	|	
@@ -384,6 +428,8 @@ Part 2 sẽ diễn ra như sau:
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 ### Question Patterns "Negative Questions" - "Statements"
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/mp3-toeic/20200908part2-0023.mp3 %}
 
 |	Negative Questions	|	Isn't [Aren't / Weren't] + S + going [scheduled / supposed] to-V ~?	|	Isn't Peter going to the meeting today?	|	Hôm nay Peter không đi họp sao?
 |		|		|	Aren't we scheduled to have a meeting today?	|	Hôm nay chúng ta không hẹn gặp nhau sao?
@@ -407,6 +453,8 @@ Part 2 sẽ diễn ra như sau:
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 ##### More Expressions "Negative Questions" - "Statements"
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/mp3-toeic/20200908part2-0024.mp3 %}
 
 |	Negative Questions	|	Aren't you going to deliver the product today? - No, it's not urgent.	|	Bạn không định giao sản phẩm hôm nay sao? - Không, không gấp đâu.	|	
 |		|	Wasn't the seminar held in June? - No, in July.	|	Không phải hội thảo được tổ chức vào tháng Sáu? - Không, vào tháng Bảy.	|	
