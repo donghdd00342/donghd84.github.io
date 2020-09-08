@@ -14,7 +14,9 @@ header: Hello World
 # coverImg: /assets/img/articles/demo/940-900x500-grayscale.jpg
 effect: true
 # thumbnail image size: 300x251
-thumbnailImg: /assets/img/articles/demo/940-900x500-grayscale.jpg
+# thumbnailImg: /assets/img/articles/demo/940-900x500-grayscale.jpg
+thumbnailImg: /assets/img/articles/demo/helloword4.jpg
+# thumbnailImg: https://picsum.photos/900/500?grayscale
 # categories: mỗi category cách nhau bởi dấu cách!
 # categories: Jekyll
 # chế độ hiển thị (bài viết nháp: template mặc định true)

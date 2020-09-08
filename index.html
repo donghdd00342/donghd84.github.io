@@ -18,7 +18,7 @@ pagination:
 <div class="w3-row">
 
 	<!-- Post & Paging -->
-	<div class="w3-col s8 w3-mobile">
+	<div class="w3-col s8 w3-mobile" id="main-posts">
 
 		<div class="w3-margin-right">
 
@@ -145,11 +145,13 @@ pagination:
 	<!-- Portfolio -->
 	<div class="w3-col s4 w3-mobile">
 
+		{% assign hasPortfolio = false %}
 		{% assign datas = site.data.portfolio %}
 		{% if datas.size > 0 %}
-			{% for data in datas %}
-			{% assign items = data.items | where: 'promo', true %}
+		{% for data in datas %}
+		{% assign items = data.items | where: 'promo', true %}
 			{% for portfolio in items %}
+			{% assign hasPortfolio = true %}
 			<div class="w3-card w3-section">
 				<div class="w3-container">
 					<h3 class="hvr-forward"><a href="{{ portfolio.link }}" target="_blank">{{ portfolio.title }}</a></h3>
@@ -169,7 +171,12 @@ pagination:
 			{% endfor %}
 			{% endfor %}
 		{% endif %}
-
+		
+		{% unless hasPortfolio %}
+		<script>
+			document.getElementById("main-posts").classList.remove("s8");
+		</script>
+		{% endunless %}
 	</div>
 
 </div>

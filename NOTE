@@ -7,8 +7,8 @@
 *) Workflow
 ---
 1. Working on [develop] branch
-1. check local site
-2. run build-and-deploy.sh
+2. check local site
+3. run build-and-deploy.sh
 
 *) Tạo một Serial
 ---
@@ -84,6 +84,9 @@ ___ github / stackoverflow / community
 ___ Study Guides
 ___ Terms to Know
 ___ Technology Definition
+
+*) Tham khảo Liquid
+- https://shopify.github.io/liquid/basics/introduction/
 
 *) Xử lý Audio với Audacity và SOX
 - https://www.audacityteam.org/download/
