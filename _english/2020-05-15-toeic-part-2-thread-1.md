@@ -63,94 +63,94 @@ Part 2 sẽ diễn ra như sau:
 
 {% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/mp3-toeic/20200908part2-001.mp3 %}
 
-|	Past Events	|	When did + S + V ~ ?	|	When did John leave?	|	John rời đi khi nào?
-|		|	When was [were] + S + P2?	|	When was the report done?	|	Báo cáo được thực hiện khi nào?
-|		|		|	When were the rooms last cleaned?	|	Các phòng được dọn dẹp lần cuối khi nào?
-|	Future Events	|	When is [are] + S ~ ?	|	When is the workshop in our head office?	|	Khi nào hội thảo ở trụ sở chính của chúng tôi?
-|		|	When do [does] + S + V ~?	|	When does the meeting start?	|	Khi nào cuộc họp bắt đầu?
-|		|	When will + S + V [be V-ing / be P2]?	|	When will the store close?	|	Khi nào thì cửa hàng đóng cửa?
-|		|	When is [are] + S + going to-V ~?	|	When are you going to take the document?	|	Khi nào bạn sẽ lấy tài liệu?
-|		|	When is [are] + S + expected to-V ~?	|	When are we expected to hand in the report?	|	Khi nào chúng tôi dự kiến sẽ nộp báo cáo?
+|	Past Events	|	**When did** + S + V ~ ?	|	**When did** John *leave?*	|	John rời đi **khi nào?**
+|		|	**When was** [were] + S + P2?	|	**When was** the report *done?*	|	Báo cáo được thực hiện **khi nào?**
+|		|		|	**When were** the rooms *last cleaned?*	|	Các phòng được dọn dẹp lần cuối **khi nào?**
+|	Future Events	|	**When is** [are] + S ~ ?	|	**When is** the workshop *in our head office?*	|	**Khi nào** hội thảo ở trụ sở chính của chúng tôi?
+|		|	**When do** [does] + S + V ~?	|	**When does** the meeting *start?*	|	**Khi nào** cuộc họp bắt đầu?
+|		|	**When will** + S + V [**be V-ing / be P2**]?	|	**When will** the store *close?*	|	**Khi nào** thì cửa hàng đóng cửa?
+|		|	**When is** [are] + S + **going to-V** ~?	|	**When are** you **going to take** the document?	|	**Khi nào** bạn sẽ lấy tài liệu?
+|		|	**When is** [are] + S + **expected to-V** ~?	|	**When are** we **expected to hand** in the report?	|	**Khi nào** chúng tôi dự kiến sẽ nộp báo cáo?
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 ##### More Expressions WHEN
 
 {% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/mp3-toeic/20200908part2-002.mp3 %}
 
-|	Past Events	|	When did he go home? - At 5 o'clock.	|	Anh ấy về nhà khi nào? - Vào lúc 5 giờ.	|	
-|		|	When was John supposed to show up? - Ten minutes ago.	|	John phải xuất hiện khi nào? - Mười phút trước.	|	
-|		|	When were the products sent out? - This morning, I think.	|	Khi nào các sản phẩm được gửi đi? - Tôi nghĩ là sáng nay.	|	
-|		|	When were you going to finish your report? - By this morning.	|	Khi nào bạn sẽ hoàn thành báo cáo của mình? - Đến sáng nay.	|	
-|	Future Events	|	When is the meeting? - In an hour.	|	Cuộc họp diễn ra khi nào? - Trong một tiếng nữa.	|	
-|		|	When does the meeting start? - At ten o'clock.	|	Khi nào cuộc họp bắt đầu? - Lúc mười giờ.	|	
-|		|	When do you think Mr.Lee will make the announcement? - Some time this morning.	|	Bạn nghĩ Mr.Lee sẽ đưa ra thông báo khi nào? - Một lúc sáng nay.	|	
-|		|	When will the ad go out? - This afternoon.	|	Khi nào quảng cáo sẽ ra mắt? - Chiều nay.	|	
-|		|	When are we going out for lunch? - Let's take off at 12.	|	Khi nào chúng ta đi ăn trưa? - Hãy cất cánh lúc 12 giờ.	|	
-|		|	When should I expect to get the proposal? - By the end of the month.	|	Khi nào tôi nên nhận được đề xuất? - Vào cuối tháng.	|	
+|	Past Events	|	**When did** he **go home?** - *At* 5 o'clock.	|	Anh ấy về nhà khi nào? - Vào lúc 5 giờ.	|	
+|		|	**When was** John **supposed to show up?** - Ten minutes *ago*.	|	John phải xuất hiện khi nào? - Mười phút trước.	|	
+|		|	**When were** the products **sent out?** - This morning, I think.	|	Khi nào các sản phẩm được gửi đi? - Tôi nghĩ là sáng nay.	|	
+|		|	**When were** you **going to finish** your report? - *By* this morning.	|	Khi nào bạn sẽ hoàn thành báo cáo của mình? - Đến sáng nay.	|	
+|	Future Events	|	**When is** the meeting? - *In* an hour.	|	Cuộc họp diễn ra khi nào? - Trong một tiếng nữa.	|	
+|		|	**When does** the meeting **start?** - *At* ten o'clock.	|	Khi nào cuộc họp bắt đầu? - Lúc mười giờ.	|	
+|		|	**When do** you **think** Mr.Lee **will make** the announcement? - Some time this morning.	|	Bạn nghĩ Mr.Lee sẽ đưa ra thông báo khi nào? - Một lúc sáng nay.	|	
+|		|	**When will** the ad **go out?** - This afternoon.	|	Khi nào quảng cáo sẽ ra mắt? - Chiều nay.	|	
+|		|	**When are** we **going out** *for lunch?* - Let's take off at 12.	|	Khi nào chúng ta đi ăn trưa? - Hãy cất cánh lúc 12 giờ.	|	
+|		|	**When should** I **expect to get** the proposal? - *By* the end of the month.	|	Khi nào tôi nên nhận được đề xuất? - Vào cuối tháng.	|	
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 ### Question Patterns WHO
 
 {% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/mp3-toeic/20200908part2-003.mp3 %}
 
-|	Past Events	|	Who + V-ed ~?	|	Who sketched the new design?	|	Ai là người phác thảo thiết kế mới?
-|		|		|	Who mailed the package?	|	Ai đã gửi gói hàng qua đường bưu điện?
-|	Future Events	|	Who's going [supposed] to-V ~?	|	Who's going to write the story?	|	Ai sẽ viết câu chuyện?
-|		|		|	Who's supposed to give the speech today?	|	Ai sẽ phát biểu hôm nay?
-|		|	Who's V-ing ~?	|	Who's participating in the charity event?	|	Ai tham gia sự kiện từ thiện?
-|		|	Who will + V ~?	|	Who will look into this matter?	|	Ai sẽ xem xét vấn đề này?
-|	Present Events	|	Who is [are] + C ~?	|	Who is your new supervisor?	|	Người giám sát mới của bạn là ai?
-|		|		|	Who's in charge of the new project?	|	Ai phụ trách dự án mới?
-|		|	Who + V + O ~?	|	Who has the sales records for last year?	|	Ai có hồ sơ bán hàng cho năm ngoái?
-|		|	Who can [should] + (S) + V ~?	|	Who can suggest a better way to do the job?	|	Ai có thể đề xuất một cách tốt hơn để thực hiện công việc?
-|		|		|	Who should I ask for a favor?	|	Tôi nên nhờ ai giúp đỡ?
+|	Past Events	|	**Who + V-ed** ~?	|	**Who sketched** the new design?	|	Ai là người phác thảo thiết kế mới?
+|		|		|	**Who mailed** the package?	|	Ai đã gửi gói hàng qua đường bưu điện?
+|	Future Events	|	**Who's going** [supposed] **to-V** ~?	|	**Who's going** *to write* the story?	|	Ai sẽ viết câu chuyện?
+|		|		|	**Who's supposed** *to give* the speech today?	|	Ai sẽ phát biểu hôm nay?
+|		|	**Who's V-ing** ~?	|	**Who's participating** in the charity event?	|	Ai tham gia sự kiện từ thiện?
+|		|	**Who will + V** ~?	|	**Who will look into** this matter?	|	Ai sẽ xem xét vấn đề này?
+|	Present Events	|	**Who is** [are] + O ~?	|	**Who is** your new supervisor?	|	Người giám sát mới của bạn là ai?
+|		|		|	**Who's** *in charge of* the new project?	|	Ai phụ trách dự án mới?
+|		|	**Who + V + O** ~?	|	**Who has** the sales records for last year?	|	Ai có hồ sơ bán hàng cho năm ngoái?
+|		|	**Who can** [should] + (S) + **V** ~?	|	**Who can suggest** a better way to do the job?	|	Ai có thể đề xuất một cách tốt hơn để thực hiện công việc?
+|		|		|	**Who should** I **ask for** a favor?	|	Tôi nên nhờ ai giúp đỡ?
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 ##### More Expressions WHO
 
 {% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/mp3-toeic/20200908part2-004.mp3 %}
 
-|	Past Events	|	Who drew up the blueprints? - Jack, the architect.	|	Ai đã vẽ ra các bản thiết kế? - Jack, kiến trúc sư.	|	
-|		|	Who sent out the boxes? - Mary did, Why?	|	Ai đã gửi các hộp? - Mary đã làm, Tại sao?	|	
-|	Present Events	|	Who is your new partner? - The guy we just hired.	|	Đối tác mới của bạn là ai? - Người mà chúng tôi vừa thuê.	|	
-|		|	Who's looking after the project? - It has not been decided yet.	|	Ai đang trông coi dự án? - Nó vẫn chưa được quyết định.	|	
-|		|	Who has the keys to the storage room? - Go and speak to Sarah, She knows.	|	Ai có chìa khóa phòng kho? - Đi nói chuyện với Sarah, Cô ấy biết.	|	
-|		|	Who owns the red car in the parking lot? - I believe that belongs to one of our visitors.	|	Ai sở hữu chiếc xe màu đỏ trong bãi đậu xe? - Tôi tin rằng điều đó thuộc về một trong những du khách của chúng tôi.	|	
-|		|	Who can recommend a nice place to eat around here? - You should try the new Italian place across the road.	|	Ai có thể giới thiệu một địa điểm ăn ngon quanh đây? - Bạn nên thử địa điểm Ý mới bên kia đường.	|	
-|		|	Who should I talk to about this project? - Your best bet is to speak to Mr.Smith.	|	Tôi nên nói chuyện với ai về dự án này? - Tốt nhất bạn nên nói chuyện với Mr.Smith.	|	
-|	Future Events	|	Who's going to drive me to the airport? - I thought you were taking a cab?	|	Ai sẽ đưa tôi đến sân bay? - Tôi nghĩ bạn đang đi taxi?	|	
-|		|	Who's supposed to work the night shift tonight? - Jack, but he's not here yet.	|	Ai sẽ làm ca đêm tối nay? - Jack, nhưng anh ấy vẫn chưa ở đây.	|	
-|		|	Who's arranging the company anniversary party? - The receptionist, Jane.	|	Ai sắp xếp bữa tiệc kỷ niệm thành lập? - Lễ tân, Jane.	|	
+|	Past Events	|	**Who drew up** the blueprints? - Jack, the architect.	|	Ai đã vẽ ra các bản thiết kế? - Jack, kiến trúc sư.	|	
+|		|	**Who sent out** the boxes? - Mary **did**, Why?	|	Ai đã gửi các hộp? - Mary đã làm, Tại sao?	|	
+|	Present Events	|	**Who is** your new partner? - The guy we just **hired**.	|	Đối tác mới của bạn là ai? - Người mà chúng tôi vừa thuê.	|	
+|		|	**Who's looking after** the project? - It has not been **decided** yet.	|	Ai đang trông coi dự án? - Nó vẫn chưa được quyết định.	|	
+|		|	**Who has** *the keys* to the storage room? - **Go** and **speak to** Sarah, She **knows**.	|	Ai có chìa khóa phòng kho? - Đi nói chuyện với Sarah, Cô ấy biết.	|	
+|		|	**Who owns** *the red car* in the parking lot? - I **believe that** belongs to one of our visitors.	|	Ai sở hữu chiếc xe màu đỏ trong bãi đậu xe? - Tôi tin rằng điều đó thuộc về một trong những du khách của chúng tôi.	|	
+|		|	**Who can** *recommend* a nice place *to eat* around here? - You **should try** the new Italian place across the road.	|	Ai có thể giới thiệu một địa điểm ăn ngon quanh đây? - Bạn nên thử địa điểm Ý mới bên kia đường.	|	
+|		|	**Who should** I **talk to** about this project? - Your best bet **is to speak to** Mr.Smith.	|	Tôi nên nói chuyện với ai về dự án này? - Tốt nhất bạn nên nói chuyện với Mr.Smith.	|	
+|	Future Events	|	**Who's going** *to drive me* to the airport? - I **thought** you were **taking** a cab?	|	Ai sẽ đưa tôi đến sân bay? - Tôi nghĩ bạn đang đi taxi?	|	
+|		|	**Who's supposed** *to work* the night shift tonight? - Jack, but he's **not here** yet.	|	Ai sẽ làm ca đêm tối nay? - Jack, nhưng anh ấy vẫn chưa ở đây.	|	
+|		|	**Who's arranging** the company anniversary party? - The receptionist, Jane.	|	Ai sắp xếp bữa tiệc kỷ niệm thành lập? - Lễ tân, Jane.	|	
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 ### Question Patterns WHERE
 
 {% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/mp3-toeic/20200908part2-005.mp3 %}
 
-|	Where + Be	|	Where is [are] + S + ~?	|	Where is your new car?	|	Xe mới của bạn ở đâu?
-|		|		|	Where are the computers that came in today?	|	Máy tính ngày nay ở đâu?
-|	Where + Do	|	Where do [does] + S + V ~?	|	Where do you live now?	|	Hiện tại bạn sống ở đâu?
-|		|		|	Where does John work now?	|	John làm việc ở đâu?
-|		|	Where did + S + V + ~?	|	Where did you leave your report?	|	Bạn đã để lại báo cáo của mình ở đâu?
-|	Where + Can / Will / Should	|	Where can + S + V ~?	|	Where can I put this box?	|	Tôi có thể đặt hộp này ở đâu?
-|		|	Where will + S + V ~?	|	Where will the meeting take place?	|	Cuộc họp sẽ diễn ra ở đâu?
-|		|	Where should + S + V ~?	|	Where should I put this package?	|	Tôi nên đặt gói này ở đâu?
-|	Where + Have	|	Where have [has] + S + P2 ~?	|	Where have you been this morning?	|	Bạn đã ở đâu sáng nay?
+|	**Where + Be**	|	**Where is** [are] + S + ~?	|	**Where is** *your new car?*	|	Xe mới của bạn ở đâu?
+|		|		|	**Where are** *the computers* that *came in today*?	|	Máy tính ngày nay ở đâu?
+|	**Where + Do**	|	**Where do** [does] + S + V ~?	|	**Where do** you **live** now?	|	Hiện tại bạn sống ở đâu?
+|		|		|	**Where does** John **work** now?	|	John làm việc ở đâu?
+|		|	**Where did** + S + V + ~?	|	**Where did** you **leave** your report?	|	Bạn đã để lại báo cáo của mình ở đâu?
+|	**Where + Can / Will / Should**	|	**Where can** + S + V ~?	|	**Where can** I **put** this box?	|	Tôi có thể đặt hộp này ở đâu?
+|		|	**Where will** + S + V ~?	|	**Where will** the meeting **take place**?	|	Cuộc họp sẽ diễn ra ở đâu?
+|		|	**Where should** + S + V ~?	|	**Where should** I **put** this package?	|	Tôi nên đặt gói này ở đâu?
+|	**Where + Have**	|	**Where have** [has] + S + **P2** ~?	|	**Where have** you **been** this morning?	|	Bạn đã ở đâu sáng nay?
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 ##### More Expressions WHERE
 
 {% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/mp3-toeic/20200908part2-006.mp3 %}
 
-|	Where + Be	|	Where is your new apartment? - It's close to the office.	|	Căn hộ mới của bạn ở đâu? - Nó gần văn phòng.	|	
-|		|	Where are the boxes Mr.Lee asked us to deliver? - They should be in the storage room.	|	Những hộp Mr.Lee yêu cầu chúng tôi giao hàng ở đâu? - Họ nên ở trong phòng chứa đồ.	|	
-|	Where + Do	|	Where did you leave your report? - I put it on your desk earlier.	|	Bạn đã để lại báo cáo của mình ở đâu? - Lúc nãy tôi để nó trên bàn của anh.	|	
-|		|	Where do you go after work these days? - I take night classes at a local college.	|	Bạn đi đâu sau giờ làm việc? - Tôi tham gia các lớp học ban đêm tại một trường cao đẳng địa phương.	|	
-|		|	Where does Peter work these days? - He works for a local bank.	|	Peter làm việc ở đâu những ngày này? - Anh ấy làm việc cho một ngân hàng địa phương.	|	
-|	Where + Can / Will / Should	|	Where can I pack my car around here? - Try the lot across the road.	|	Tôi có thể đóng gói xe ở đâu quanh đây? - Hãy thử rất nhiều trên đường.	|	
-|		|	Where will we go tomorrow? - To a sales seminar in our head office.	|	Ngày mai chúng ta sẽ đi đâu? - Đến hội thảo bán hàng tại trụ sở chính của chúng tôi.	|	
-|		|	Where should I meet you later? - Why don't we meet in the lobby?	|	Tôi nên gặp bạn ở đâu sau? - Tại sao chúng ta không gặp nhau ở sảnh?	|	
-|	Where + Have	|	Where have you been all day? - At the dentist's.	|	Bạn đã ở đâu cả ngày? - Tại nha sĩ.	|	
+|	**Where + Be**	|	**Where is** *your new apartment*? - It's close to the office.	|	Căn hộ mới của bạn ở đâu? - Nó gần văn phòng.	|	
+|		|	**Where are** *the boxes* Mr.Lee asked us to deliver? - They should be in the storage room.	|	Những hộp Mr.Lee yêu cầu chúng tôi giao hàng ở đâu? - Họ nên ở trong phòng chứa đồ.	|	
+|	**Where + Do**	|	**Where did** you **leave** your report? - I put it on your desk earlier.	|	Bạn đã để lại báo cáo của mình ở đâu? - Lúc nãy tôi để nó trên bàn của anh.	|	
+|		|	**Where do** you **go** after work these days? - I take night classes at a local college.	|	Bạn đi đâu sau giờ làm việc? - Tôi tham gia các lớp học ban đêm tại một trường cao đẳng địa phương.	|	
+|		|	**Where does** Peter **work** these days? - He works for a local bank.	|	Peter làm việc ở đâu những ngày này? - Anh ấy làm việc cho một ngân hàng địa phương.	|	
+|	**Where + Can / Will / Should**	|	**Where can** I **pack** *my car around here*? - Try the lot across the road.	|	Tôi có thể đóng gói xe ở đâu quanh đây? - Hãy thử rất nhiều trên đường.	|	
+|		|	**Where will** we **go** tomorrow? - To a sales seminar in our head office.	|	Ngày mai chúng ta sẽ đi đâu? - Đến hội thảo bán hàng tại trụ sở chính của chúng tôi.	|	
+|		|	**Where should** I **meet** you later? - Why don't we meet in the lobby?	|	Tôi nên gặp bạn ở đâu sau? - Tại sao chúng ta không gặp nhau ở sảnh?	|	
+|	**Where + Have**	|	**Where have** you **been** all day? - At the dentist's.	|	Bạn đã ở đâu cả ngày? - Tại nha sĩ.	|	
 |		|	Where has Peter gone this morning? - He's at the dentist's office.	|	Peter đã đi đâu sáng nay? - Anh ấy đang ở văn phòng nha sĩ.	|	
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
@@ -158,16 +158,16 @@ Part 2 sẽ diễn ra như sau:
 
 {% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/mp3-toeic/20200908part2-007.mp3 %}
 
-|	What + Noun	|	What ~ + did + S + V ~?	|	What suggestion did he make?	|	Anh ấy đã đề nghị gì?
-|		|	What kind of [type of / sort of] ~ + do [does / did] + S + V ~?	|	What kind of movies do you like watching?	|	Bạn thích xem loại phim nào?
-|	What + Verb	|	What is + V-ing ~?	|	What is happening with the project?	|	Điều gì đang xảy ra với dự án?
-|		|	What + are + Noun ~?	|	What are your plans for this weekend?	|	Kế hoạch cho cuối tuần này là gì?
-|		|	What + did [should] + S + V ~?	|	What did you do with John this morning?	|	Bạn đã làm gì với John sáng nay?
-|		|		|	What should I do if Paul doesn't show up on time?	|	Tôi nên làm gì nếu Paul không đến đúng giờ?
-|	What -> Other Wh-words	|	**What day** did you watch the movie? = **When** did you watch the movie?	|	Bạn xem phim khi nào?	|	
-|		|	**What** is the closest **place** to eat around here? = **Where** is the closest place to eat around here?	|	Nơi gần nhất để ăn quanh đây?	|	
-|		|	**What company** will you be working for? = **Who** will you be working for?	|	Bạn sẽ làm việc cho ai?	|	
-|		|	**What** is the fastest **way** to get this done? = **How** can we get this done the fastest?	|	Làm thế nào chúng ta có thể hoàn thành việc này nhanh nhất?	|	
+|	**What + Noun**	|	**What + Noun + did** + S + V ~?	|	**What** *suggestion* **did** he **make?**	|	Anh ấy đã đề nghị gì?
+|		|	**What kind of** [type of / sort of] + *Noun* + **do** [does / did] + S + **V** ~?	|	**What** *kind of movies* **do** you **like** watching?	|	Bạn thích xem loại phim nào?
+|	**What + Verb**	|	**What is + V-ing** ~?	|	**What is** *happening* with the project?	|	Điều gì đang xảy ra với dự án?
+|		|	**What + are + Noun** ~?	|	**What are** *your plans* for this weekend?	|	Kế hoạch cho cuối tuần này là gì?
+|		|	**What + did** [should] + S + **V** ~?	|	**What did** you **do** with John this morning?	|	Bạn đã làm gì với John sáng nay?
+|		|		|	**What should** I **do** *if Paul doesn't show up on time?*	|	Tôi nên làm gì nếu Paul không đến đúng giờ?
+|	**What -> Other Wh-words**	|	**What day** *did* you *watch* the movie? = **When** did you watch the movie?	|	Bạn xem phim khi nào?	|	
+|		|	**What** is the closest **place** *to eat* around here? = **Where** is the closest place to eat around here?	|	Nơi gần nhất để ăn quanh đây?	|	
+|		|	**What company** *will* you *be working for*? = **Who** will you be working for?	|	Bạn sẽ làm việc cho ai?	|	
+|		|	**What** is the fastest **way** to *get this done*? = **How** can we get this done the fastest?	|	Làm thế nào chúng ta có thể hoàn thành việc này nhanh nhất?	|	
 |		|	**What**'s the **charge** for these items? = **How much** are these items?	|	Những món đồ này bao nhiêu?	|	
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
@@ -175,16 +175,16 @@ Part 2 sẽ diễn ra như sau:
 
 {% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/mp3-toeic/20200908part2-008.mp3 %}
 
-|	What + Noun	|	What suggestion did your boss make? - He offered me a pay raise.	|	Ông chủ của bạn đã đưa ra đề xuất gì? - Anh ấy đề nghị tôi tăng lương.	|	
-|		|	What kind of books do you like reading? - I like detective novels.	|	Bạn thích đọc loại sách nào? - Tôi thích tiểu thuyết trinh thám.	|	
-|	What + Verb	|	What is happening with the book you are writing? - I need more time to finish it.	|	Điều gì đang xảy ra với cuốn sách bạn đang viết? - Tôi cần thêm thời gian để hoàn thành nó.	|	
-|		|	What did you buy at the store today? - Some items for my party.	|	Bạn đã mua gì ở cửa hàng hôm nay? - Một số món cho bữa tiệc của tôi.	|	
-|		|	What should I do if the boss doesn't arrive on time? - Call his secretary.	|	Tôi nên làm gì nếu sếp không đến đúng giờ? - Gọi cho thư ký của anh ấy.	|	
-|	What -> Other Wh-words	|	What day did you go over to John's place? (= When) - Last Friday.	|	Bạn đã đến chỗ của John vào ngày nào? - Thứ sáu trước.	|	
-|		|	What is the best place to go for the weekend? (= Where) - Amusement parks, maybe.	|	Nơi nào tốt nhất để đi vào cuối tuần? - Có thể là công viên giải trí.	|	
-|		|	What company did he use to send the package? (= Who) - Probably SpeedEx.	|	Anh ta đã sử dụng công ty nào để gửi gói hàng? - Có lẽ là SpeedEx.	|	
-|		|	What is the quickest way to get to your place? (= How) - By subway.	|	Cách nhanh nhất để đến vị trí của bạn là gì? - Bằng tàu điện ngầm.	|	
-|		|	What's the price of this book? (= How much) - Ten dollars.	|	Giá của cuốn sách này là bao nhiêu? - Mười đô la.	|	
+|	**What + Noun**	|	**What suggestion** *did* your boss *make*? - He offered me a pay raise.	|	Ông chủ của bạn đã đưa ra đề xuất gì? - Anh ấy đề nghị tôi tăng lương.	|	
+|		|	**What kind of books** *do* you *like* reading? - I like detective novels.	|	Bạn thích đọc loại sách nào? - Tôi thích tiểu thuyết trinh thám.	|	
+|	**What + Verb**	|	**What is happening** with the book you are writing? - I need more time to finish it.	|	Điều gì đang xảy ra với cuốn sách bạn đang viết? - Tôi cần thêm thời gian để hoàn thành nó.	|	
+|		|	**What did** you **buy** at the store today? - Some items for my party.	|	Bạn đã mua gì ở cửa hàng hôm nay? - Một số món cho bữa tiệc của tôi.	|	
+|		|	**What should** I **do** if the boss doesn't arrive on time? - Call his secretary.	|	Tôi nên làm gì nếu sếp không đến đúng giờ? - Gọi cho thư ký của anh ấy.	|	
+|	**What -> Other Wh-words**	|	**What day** *did* you *go over* to John's place? (= When) - Last Friday.	|	Bạn đã đến chỗ của John vào ngày nào? - Thứ sáu trước.	|	
+|		|	**What is** *the best place* **to go for** the weekend? (= Where) - Amusement parks, maybe.	|	Nơi nào tốt nhất để đi vào cuối tuần? - Có thể là công viên giải trí.	|	
+|		|	**What company** *did* he *use to send* the package? (= Who) - Probably SpeedEx.	|	Anh ta đã sử dụng công ty nào để gửi gói hàng? - Có lẽ là SpeedEx.	|	
+|		|	**What is** *the quickest way* **to get** to your place? (= How) - By subway.	|	Cách nhanh nhất để đến vị trí của bạn là gì? - Bằng tàu điện ngầm.	|	
+|		|	**What's** *the price of this book*? (= How much) - Ten dollars.	|	Giá của cuốn sách này là bao nhiêu? - Mười đô la.	|	
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 ### Question Patterns HOW
