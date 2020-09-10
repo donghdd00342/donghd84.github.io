@@ -903,108 +903,108 @@ Part 1 sẽ diễn ra như sau:
 
 {% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/mp3-toeic/Part1_More_Expressions_1.mp3 %}
 
-|	**Look**	|	The man is looking at the woman.	|	Người đàn ông đang nhìn người phụ nữ.
-|		|	He is looking at the computer monitor.	|	Anh ấy đang nhìn vào màn hình máy tính.
-|		|	She’s looking in the drawer.	|	Cô ấy đang tìm trong ngăn kéo.
-|	**Face**	|	He is facing the front of the room.	|	Anh ta đang quay mặt về phía trước của căn phòng.
-|		|	She is facing the people in the audience.	|	Cô ấy đang đối mặt với những người trong khán giả.
-|		|	They’re facing each other.	|	Họ đang đối mặt với nhau.
-|	**Read**	|	The man is reading a book.	|	Người đàn ông đang đọc sách.
-|		|	She is reading a sign.	|	Cô ấy đang đọc một tấm biển.
-|		|	People are reading books.	|	Mọi người đang đọc sách.
-|	**Study**	|	The woman is studying the menu.	|	Người phụ nữ đang nghiên cứu thực đơn.
-|		|	He is studying the sign on the road.	|	Anh ấy đang nghiên cứu biển báo trên đường.
-|		|	They are studying in the library.	|	Họ đang học trong thư viện.
-|	**Examine**	|	She is examining the menu.	|	Cô ấy đang xem xét thực đơn.
-|		|	He is examining a product.	|	Anh ấy đang kiểm tra một sản phẩm.
-|		|	He is examining a patient.	|	Anh ta đang khám cho một bệnh nhân.
-|	**Concentrate on**	|	He is concentrating on his work.	|	Anh ấy đang tập trung cho công việc của mình.
-|		|	She is concentrating on a book.	|	Cô ấy đang tập trung vào một cuốn sách.
-|	**Gaze**	|	He is gazing at the screen.	|	Anh ấy đang nhìn chằm chằm vào màn hình.
-|		|	She is gazing at the man.	|	Cô ấy đang nhìn chằm chằm vào người đàn ông.
-|		|	The man is gazing out the window.	|	Người đàn ông đang nhìn ra cửa sổ.
-|	**Stare**	|	He is staring out the window.	|	Anh ấy đang nhìn chằm chằm ra cửa sổ.
-|		|	She is staring at the computer monitor.	|	Cô ấy đang nhìn chằm chằm vào màn hình máy tính.
-|	**Glance**	|	He is glancing out the window.	|	Anh ấy đang nhìn ra ngoài cửa sổ.
-|	**Check**	|	The man is checking the paper.	|	Người đàn ông đang kiểm tra tờ giấy.
+|	**Look**	|	The man **is looking at** the woman.	|	Người đàn ông **đang nhìn** người phụ nữ.
+|		|	He **is looking at** the computer monitor.	|	Anh ấy **đang nhìn** vào màn hình máy tính.
+|		|	She’s **looking in** the drawer.	|	Cô ấy **đang tìm** trong ngăn kéo.
+|	**Face**	|	He **is facing** the front of the room.	|	Anh ta **đang quay mặt** về phía trước của căn phòng.
+|		|	She **is facing** the people in the audience.	|	Cô ấy **đang đối mặt** với những người trong khán giả.
+|		|	They’re **facing** each other.	|	Họ đang **đối mặt** với nhau.
+|	**Read**	|	The man **is reading** a book.	|	Người đàn ông **đang đọc** sách.
+|		|	She **is reading a** sign.	|	Cô ấy **đang đọc** một tấm biển.
+|		|	People **are reading** books.	|	Mọi người **đang đọc** sách.
+|	**Study**	|	The woman is **studying** the menu.	|	Người phụ nữ **đang nghiên cứu** thực đơn.
+|		|	He is **studying** the sign on the road.	|	Anh ấy **đang nghiên cứu** biển báo trên đường.
+|		|	They are **studying** in the library.	|	Họ **đang học** trong thư viện.
+|	**Examine**	|	She is **examining** the menu.	|	Cô ấy **đang xem xét** thực đơn.
+|		|	He is **examining** a product.	|	Anh ấy **đang kiểm tra** một sản phẩm.
+|		|	He is **examining** a patient.	|	Anh ta **đang khám** cho một bệnh nhân.
+|	**Concentrate on**	|	He is **concentrating** on his work.	|	Anh ấy **đang tập trung** cho công việc của mình.
+|		|	She is concentrating on a book.	|	Cô ấy **đang tập trung** vào một cuốn sách.
+|	**Gaze**	|	He **is gazing** at the screen.	|	Anh ấy **đang nhìn chằm chằm** vào màn hình.
+|		|	She **is gazing** at the man.	|	Cô ấy **đang nhìn chằm chằm** vào người đàn ông.
+|		|	The man **is gazing** out the window.	|	Người đàn ông **đang nhìn** ra cửa sổ.
+|	**Stare**	|	He is **staring out** the window.	|	Anh ấy **đang nhìn chằm chằm** ra cửa sổ.
+|		|	She is **staring at** the computer monitor.	|	Cô ấy **đang nhìn chằm chằm** vào màn hình máy tính.
+|	**Glance**	|	He is **glancing out** the window.	|	Anh ấy **đang nhìn ra** ngoài cửa sổ.
+|	**Check**	|	The man **is checking** the paper.	|	Người đàn ông **đang kiểm tra** tờ giấy.
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 {% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/mp3-toeic/Part1_More_Expressions_2.mp3 %}
 
-|	**talk to each other**	|	The people are talking to each other at the table.	|	Những người đang nói chuyện với nhau tại bàn.
-|	**speak to one another**	|	They’re speaking to one another.	|	Họ đang nói chuyện với nhau.
-|	**converse with**	|	The men are conversing with each other.	|	Những người đàn ông đang trò chuyện với nhau.
-|	**Have [hold] a conversation**	|	They are holding a conversation in a small group.	|	Họ đang tổ chức một cuộc trò chuyện trong một nhóm nhỏ.
-|		|	The people are having a conversation.	|	Mọi người đang trò chuyện.
-|	**Have [hold] a discussion**	|	They’re having a discussion around the table.	|	Họ đang thảo luận quanh bàn.
-|		|	The people are holding a discussion.	|	Mọi người đang tổ chức một cuộc thảo luận.
-|	**be involved in a conversation [a discussion]**	|	They’re involved in a conversation.	|	Họ đang tham gia vào một cuộc trò chuyện.
-|		|	The men are involved in a discussion.	|	Những người đàn ông đang tham gia vào một cuộc thảo luận.
-|	**chat with each other**	|	They are chatting with each other.	|	Họ đang trò chuyện với nhau.
+|	**talk to each other**	|	The people are **talking to each other** at the table.	|	Những người **đang nói chuyện với nhau** tại bàn.
+|	**speak to one another**	|	They’re **speaking to one another**.	|	Họ **đang nói chuyện với nhau**.
+|	**converse with**	|	The men are **conversing with** each other.	|	Những người đàn ông **đang trò chuyện** với nhau.
+|	**Have [hold] a conversation**	|	They **are holding** a **conversation** in a small group.	|	Họ đang tổ chức một cuộc trò chuyện trong một nhóm nhỏ.
+|		|	The people **are having a conversation**.	|	Mọi người **đang trò chuyện**.
+|	**Have [hold] a discussion**	|	They’re **having a discussion** around the table.	|	Họ **đang thảo luận** quanh bàn.
+|		|	The people are **holding a discussion**.	|	Mọi người **đang tổ chức một cuộc thảo luận**.
+|	**be involved in a conversation [a discussion]**	|	They’re **involved in a conversation**.	|	Họ đang tham gia vào một cuộc trò chuyện.
+|		|	The men **are involved in a discussion**.	|	Những người đàn ông **đang tham gia vào một cuộc thảo luận**.
+|	**chat with each other**	|	They **are chatting with each other**.	|	Họ **đang trò chuyện với nhau**.
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 {% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/mp3-toeic/Part1_More_Expressions_3.mp3 %}
 
-|	**attend to**	|	The hairdresser is attending to the customer.	|	Người làm tóc đang chăm sóc khách hàng.
-|	**work on**	|	The hairdresser is working on the customer.	|	Thợ làm tóc đang làm việc cho khách hàng.
-|	**inspect**	|	The woman is inspecting an item in the store.	|	Người phụ nữ đang kiểm tra một mặt hàng trong cửa hàng.
-|	**care for**	|	He is caring for the plants.	|	Anh ấy đang chăm sóc cây cối.
-|	**take care of**	|	He is taking care of some paperwork.	|	Anh ấy đang lo một số thủ tục giấy tờ.
-|	**treat**	|	The doctor is treating a patient in his office.	|	Bác sĩ đang điều trị cho một bệnh nhân trong văn phòng của mình.
-|	**fix**	|	The man is fixing the copier.	|	Người đàn ông đang sửa máy photocopy.
-|	**repair**	|	The man is repairing the plumbing.	|	Người đàn ông đang sửa chữa đường ống dẫn nước.
-|	**check out**	|	She is checking out the items on the shelves.	|	Cô ấy đang kiểm tra các mặt hàng trên kệ.
-|	**serve**	|	The customers are being served.	|	Các khách hàng đang được phục vụ.
+|	**attend to**	|	The hairdresser **is attending to** the customer.	|	Người làm tóc **đang chăm sóc khách hàng**.
+|	**work on**	|	The hairdresser **is working on** the customer.	|	Thợ làm tóc **đang làm việc** cho khách hàng.
+|	**inspect**	|	The woman **is inspecting** an item in the store.	|	Người phụ nữ **đang kiểm tra** một mặt hàng trong cửa hàng.
+|	**care for**	|	He is **caring for** the plants.	|	Anh ấy **đang chăm sóc** *cây cối*.
+|	**take care of**	|	He is **taking care of** some paperwork.	|	Anh ấy **đang lo** *một số thủ tục giấy tờ*.
+|	**treat**	|	The doctor is **treating** a patient in his office.	|	Bác sĩ **đang điều trị** cho một *bệnh nhân* trong văn phòng của mình.
+|	**fix**	|	The man is **fixing** the copier.	|	Người đàn ông **đang sửa** máy photocopy.
+|	**repair**	|	The man is **repairing** the plumbing.	|	Người đàn ông **đang sửa chữa** đường ống dẫn nước.
+|	**check out**	|	She is **checking out** the items on the shelves.	|	Cô ấy **đang kiểm tra** các mặt hàng trên kệ.
+|	**serve**	|	The customers **are being served**.	|	Các khách hàng **đang được phục vụ**.
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 {% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/mp3-toeic/Part1_More_Expressions_4.mp3 %}
 
-|	**perform**	|	The band is performing outdoors.	|	Ban nhạc đang biểu diễn ngoài trời.
-|		|	They're performing indoors.	|	Họ đang biểu diễn trong nhà.
-|	**play / make**	|	The women are playing some music together.	|	Những người phụ nữ đang chơi một số bản nhạc cùng nhau.
-|		|	The musicians are playing the same musical instruments.	|	Các nhạc công đang chơi các nhạc cụ giống nhau.
-|		|	The musicians are making music together.	|	Các nhạc sĩ đang tạo ra âm nhạc cùng nhau.
-|	**walk**	|	The performer is walking up to the stage.	|	Người biểu diễn đang bước lên sân khấu.
-|	**look**	|	The woman is looking at a sheet of music.	|	Người phụ nữ đang xem một bản nhạc.
-|	**entertain**	|	The group is entertaining the crowd.	|	Nhóm đang giải trí cho đám đông.
-|		|	A man is entertaining the customers.	|	Một người đàn ông đang giải trí cho khách hàng.
-|	**lead / conduct**	|	The conductor is leading the group.	|	Nhạc trưởng đang dẫn đầu nhóm.
-|		|	A man is conducting a musical group.	|	Một người đàn ông đang chỉ huy một nhóm nhạc.
-|	**applaud**	|	The audience is applauding the performance.	|	Khán giả đang vỗ tay tán thưởng màn trình diễn.
+|	**perform**	|	The band is **performing** outdoors.	|	Ban nhạc **đang biểu diễn** ngoài trời.
+|		|	They're **performing** indoors.	|	Họ **đang biểu diễn** trong nhà.
+|	**play / make**	|	The women are **playing** some music together.	|	Những người phụ nữ **đang chơi** một số bản nhạc cùng nhau.
+|		|	The musicians are **playing** the same musical instruments.	|	Các nhạc công **đang chơi** các nhạc cụ giống nhau.
+|		|	The musicians are **making** music together.	|	Các nhạc sĩ **đang tạo** ra âm nhạc cùng nhau.
+|	**walk**	|	The performer is **walking up** to the stage.	|	Người biểu diễn **đang bước lên** sân khấu.
+|	**look**	|	The woman is **looking at** a sheet of music.	|	Người phụ nữ **đang xem** một bản nhạc.
+|	**entertain**	|	The group is **entertaining** the crowd.	|	Nhóm **đang giải trí** cho đám đông.
+|		|	A man is **entertaining** the customers.	|	Một người đàn ông **đang giải trí** cho khách hàng.
+|	**lead / conduct**	|	The **conductor** is leading the group.	|	Nhạc trưởng **đang dẫn đầu** nhóm.
+|		|	A man is **conducting** a musical group.	|	Một người đàn ông **đang chỉ huy** một nhóm nhạc.
+|	**applaud**	|	The audience is **applauding** the performance.	|	Khán giả **đang vỗ tay** tán thưởng màn trình diễn.
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 {% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/mp3-toeic/Part1_More_Expressions_5.mp3 %}
 
-|	**address**	|	The man is addressing the audience.	|	Người đàn ông đang nói chuyện với khán giả.
-|		|	A woman is addressing a crowd of people.	|	Một người phụ nữ đang nói chuyện với một đám đông.
-|	**talk [speak] to**	|	A man is speaking to the people in their seats.	|	Một người đàn ông đang nói chuyện với những người ngồi trên ghế của họ.
-|		|	One man is talking to the people in the room.	|	Một người đàn ông đang nói chuyện với những người trong phòng.
-|	**lecture**	|	A man is lecturing in front of an audience.	|	Một người đàn ông đang thuyết trình trước khán giả.
-|		|	The woman is lecturing to a class.	|	Người phụ nữ đang giảng bài cho một lớp học.
-|	**give a lecture**	|	One man is giving a lecture to the rest of the people.	|	Một người đàn ông đang giảng bài cho những người còn lại.
-|	**give [deliver] a speech**	|	A man is giving a speech to the audience.	|	Một người đàn ông đang diễn thuyết trước khán giả.
-|		|	A man is delivering a speech to the audience.	|	Một người đàn ông đang phát biểu trước khán giả.
-|	**make a presentation**	|	A woman is making a presentation in front of an audience.	|	Một phụ nữ đang thuyết trình trước khán giả.
+|	**address**	|	The man **is addressing** the audience.	|	Người đàn ông **đang nói chuyện** với khán giả.
+|		|	A woman **is addressing** a crowd of people.	|	Một người phụ nữ **đang nói chuyện** với một đám đông.
+|	**talk [speak] to**	|	A man is **speaking to** the people in their seats.	|	Một người đàn ông **đang nói chuyện** với những người ngồi trên ghế của họ.
+|		|	One man is **talking to** the people in the room.	|	Một người đàn ông **đang nói chuyện** với những người trong phòng.
+|	**lecture**	|	A man **is lecturing** in front of an audience.	|	Một người đàn ông **đang thuyết trình** trước khán giả.
+|		|	The woman **is lecturing to** a class.	|	Người phụ nữ **đang giảng bài** cho một lớp học.
+|	**give a lecture**	|	One man is **giving a lecture** to the rest of the people.	|	Một người đàn ông **đang giảng bài** cho những người còn lại.
+|	**give [deliver] a speech**	|	A man is **giving a speech** to the audience.	|	Một người đàn ông **đang diễn thuyết** trước khán giả.
+|		|	A man is **delivering a speech** to the audience.	|	Một người đàn ông **đang phát biểu** trước khán giả.
+|	**make a presentation**	|	A woman is **making a presentation** in front of an audience.	|	Một phụ nữ **đang thuyết trình** trước khán giả.
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 {% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/mp3-toeic/Part1_More_Expressions_6.mp3 %}
 
-|	**in / at / on**	|	A box has been placed in the corner.	|	Một chiếc hộp đã được đặt trong góc.
-|		|	She is working on the computer.	|	Cô ấy đang làm việc trên máy tính.
-|		|	There are books on the table.	|	Có những quyển sách trên bàn.
-|	**against**	|	The people are leaning against the wall.	|	Những người đang dựa vào tường.
-|	**over**	|	There is a picture hanging over the bed.	|	Có một bức tranh treo trên giường.
-|	**under**	|	A chair has been placed under the table.	|	Một chiếc ghế đã được đặt dưới bàn.
-|	**side by side**	|	The men are standing side by side.	|	Những người đàn ông đang sát cánh bên nhau.
-|	**next to**	|	There is a lamp next to the bed.	|	Có một cái đèn cạnh giường.
-|	**beside**	|	The man is standing beside the woman.	|	Người đàn ông đang đứng bên cạnh người phụ nữ.
-|	**across from**	|	The men are sitting across from each other.	|	Những người đàn ông đang ngồi đối diện nhau.
-|	**opposite**	|	They're sitting opposite each other.	|	Họ đang ngồi đối diện nhau.
-|	**behind**	|	The cashier is standing behind the counter.	|	Nhân viên thu ngân đang đứng sau quầy.
-|	**in front of**	|	The customers are lined up in front of the counter.	|	Các khách hàng xếp hàng dài trước quầy.
-|	**ahead of**	|	One man is ahead of the others.	|	Một người đi trước những người khác.
-|	**down**	|	They're walking down the steps.	|	Họ đang đi xuống các bậc thang.
-|	**on top of**	|	The kettle has been placed on top of the stove.	|	Ấm đã được đặt trên bếp.
+|	**in / at / on**	|	A box has been placed **in the corner**.	|	Một chiếc hộp đã được đặt **trong góc**.
+|		|	She is working **on the computer**.	|	Cô ấy đang làm việc **trên máy tính**.
+|		|	There are books **on the table**.	|	Có những quyển sách **trên bàn**.
+|	**against**	|	The people are leaning **against the wall**.	|	Những người đang **dựa vào tường**.
+|	**over**	|	There is a picture hanging **over the bed**.	|	Có một bức tranh **treo trên giường**.
+|	**under**	|	A chair has been placed **under the table**.	|	Một chiếc ghế đã được **đặt dưới bàn**.
+|	**side by side**	|	The men are standing **side by side**.	|	Những người đàn ông đang **sát cánh bên nhau**.
+|	**next to**	|	There is a lamp **next to the bed**.	|	Có một cái đèn **cạnh giường**.
+|	**beside**	|	The man is standing **beside the woman**.	|	Người đàn ông **đang đứng bên cạnh** người phụ nữ.
+|	**across from**	|	The men are sitting **across from** each other.	|	Những người đàn ông đang **ngồi đối diện nhau**.
+|	**opposite**	|	They're sitting **opposite** each other.	|	Họ đang **ngồi đối diện** nhau.
+|	**behind**	|	The cashier is standing **behind the counter**.	|	Nhân viên thu ngân **đang đứng sau quầy**.
+|	**in front of**	|	The customers are lined up **in front of** the counter.	|	Các khách hàng xếp hàng dài **trước quầy**.
+|	**ahead of**	|	One man is **ahead of** the others.	|	Một người **đi trước** những người khác.
+|	**down**	|	They're **walking down** the steps.	|	Họ đang **đi xuống các bậc thang**.
+|	**on top of**	|	The kettle has been placed **on top of the stove**.	|	Ấm đã được **đặt trên bếp**.
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 {% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/mp3-toeic/Part1_More_Expressions_7.mp3 %}
