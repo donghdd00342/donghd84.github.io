@@ -1009,101 +1009,101 @@ Part 1 sẽ diễn ra như sau:
 
 {% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/mp3-toeic/Part1_More_Expressions_7.mp3 %}
 
-|	**walk**	|	The couple is walking across the street.	|	Cặp đôi đang đi bộ qua đường.
-|		|	The woman is walking toward the archway.	|	Người phụ nữ đang đi về phía cổng tò vò.
-|		|	The passengers are walking down the steps.	|	Các hành khách đang bước xuống các bậc thang.
-|		|	The pedestrians are walking on the sidewalk.	|	Người đi bộ đang đi trên vỉa hè.
-|		|	They are walking side by side.	|	Họ đang đi cạnh nhau.
-|		|	A woman is walking her dog in the park.	|	Một người phụ nữ đang dắt chó đi dạo trong công viên.
-|	**take [go for] a walk**	|	The people are taking a walk in the park.	|	Mọi người đang đi dạo trong công viên.
-|		|	The people are going for a walk in the park.	|	Mọi người đang đi dạo trong công viên.
-|	**stroll**	|	Some people are strolling on the pathway.	|	Một số người đang đi dạo trên lối đi.
-|	**head**	|	The people are heading in the same direction.	|	Mọi người đang hướng về cùng một hướng.
+|	**walk**	|	The couple **is walking** *across the street*.	|	Cặp đôi **đang đi bộ** *qua đường*.
+|		|	The woman **is walking** *toward the archway*.	|	Người phụ nữ **đang đi** *về phía cổng tò vò*.
+|		|	The passengers **are walking** *down the steps*.	|	Các hành khách **đang bước** *xuống các bậc thang*.
+|		|	The pedestrians **are walking** *on the sidewalk*.	|	Người đi bộ **đang đi** *trên vỉa hè*.
+|		|	They **are walking** *side by side*.	|	Họ **đang đi** *cạnh nhau*.
+|		|	A woman **is walking her dog** in the park.	|	Một người phụ nữ **đang dắt chó đi dạo** trong công viên.
+|	**take [go for] a walk**	|	The people **are taking a walk** in the park.	|	Mọi người **đang đi dạo** trong công viên.
+|		|	The people **are going for a walk** *in the park*.	|	Mọi người **đang đi dạo** *trong công viên*.
+|	**stroll**	|	Some people **are strolling** *on the pathway*.	|	Một số người **đang đi dạo** *trên lối đi*.
+|	**head**	|	The people **are heading** *in the same direction*.	|	Mọi người **đang hướng về** *cùng một hướng*.
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 {% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/mp3-toeic/Part1_More_Expressions_8.mp3 %}
 
-|	**board**	|	Some people are boarding the airplane.	|	Một số người đang lên máy bay.
-|	**step onto**	|	The passengers are stepping onto the train.	|	Các hành khách đang bước lên tàu.
-|	**get on**	|	The men are getting on the train.	|	Những người đàn ông đang lên tàu.
-|	**get off**	|	The passengers are getting off the train.	|	Các hành khách đang xuống tàu.
-|	**step out of**	|	A man is stepping out of the train.	|	Một người đàn ông đang bước ra khỏi xe lửa.
-|	**land at**	|	The airplane is about to land at the airport.	|	Máy bay chuẩn bị hạ cánh xuống sân bay.
-|	**arrive at**	|	The bus has just arrived at the stop.	|	Xe buýt vừa đến trạm dừng.
-|	**pull out of**	|	The train is pulling out of the station.	|	Tàu đang kéo ra khỏi ga.
-|	**wait for**	|	The people are waiting for the train to arrive.	|	Mọi người đang đợi tàu đến.
-|	**be lined up**	|	Several busses are lined up in a row.	|	Một số xe buýt được xếp thành một hàng.
-|	**be crowded with**	|	The station is crowded with passengers today.	|	Nhà ga hôm nay đông nghẹt hành khách.
-|	**be packed with**	|	The train is packed with passengers.	|	Chuyến tàu chật cứng hành khách.
-|	**be available**	|	Some seats on the bus are available.	|	Một số chỗ ngồi trên xe buýt có sẵn.
-|	**be occupied**	|	All of the seats are occupied at the moment.	|	Tất cả các ghế đã có người ngồi vào lúc này.
+|	**board**	|	Some people **are boarding** *the airplane*.	|	Một số người **đang lên** *máy bay*.
+|	**step onto**	|	The passengers **are stepping** *onto the train*.	|	Các hành khách **đang bước** *lên tàu*.
+|	**get on**	|	The men are **getting on the train**.	|	Những người đàn ông **đang lên tàu**.
+|	**get off**	|	The passengers **are getting off** *the train*.	|	Các hành khách **đang xuống tàu**.
+|	**step out of**	|	A man **is stepping out of the train**.	|	Một người đàn ông **đang bước ra khỏi xe lửa**.
+|	**land at**	|	The airplane **is about to land** *at the airport*.	|	Máy bay **chuẩn bị hạ cánh** *xuống sân bay*.
+|	**arrive at**	|	The bus **has just arrived** *at the stop*.	|	Xe buýt **vừa đến trạm dừng**.
+|	**pull out of**	|	The train **is pulling out of the station**.	|	Tàu **đang kéo ra khỏi ga**.
+|	**wait for**	|	The people **are waiting for** *the train* to arrive.	|	Mọi người **đang đợi** *tàu đến*.
+|	**be lined up**	|	Several busses **are lined up in a row**.	|	Một số xe buýt **được xếp thành một hàng**.
+|	**be crowded with**	|	The station **is crowded with passengers** today.	|	Nhà ga hôm nay **đông nghẹt hành khách**.
+|	**be packed with**	|	The train **is packed with passengers**.	|	Chuyến tàu **chật cứng hành khách**.
+|	**be available**	|	Some seats on the bus **are available**.	|	Một số chỗ ngồi trên xe buýt **có sẵn**.
+|	**be occupied**	|	All of the seats **are occupied** at the moment.	|	Tất cả các ghế **đã có người ngồi** vào lúc này.
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 {% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/mp3-toeic/Part1_More_Expressions_9.mp3 %}
 
-|	**carry**	|	The woman is carrying a knapsack on her back.	|	Người phụ nữ đang mang một chiếc ba lô trên lưng.
-|	**move**	|	A woman is moving a cart in front of him.	|	Một người phụ nữ đang di chuyển một chiếc xe đẩy trước mặt anh ta.
-|	**pull**	|	The man is pulling a cart behind him.	|	Người đàn ông đang kéo một chiếc xe đẩy phía sau anh ta.
-|	**push**	|	She is pushing a cart across the road.	|	Cô ấy đang đẩy xe qua đường.
-|	**lift**	|	He is lifting a box onto the table.	|	Anh ta đang nâng một cái hộp lên bàn.
-|	**load**	|	The man is loading boxes into the back of the truck.	|	Người đàn ông đang xếp các thùng hàng vào thùng sau xe tải.
-|	**hold**	|	A man is holding a hammer in his right hand.	|	Một người đàn ông đang cầm một chiếc búa trong tay phải.
-|	**use**	|	A woman is using a ladder to climb up to the roof.	|	Một phụ nữ đang dùng thang để leo lên mái nhà.
-|	**operate**	|	She is operating a sewing machine.	|	Cô ấy đang vận hành một máy may.
-|	**transport**	|	A man is transporting a cart.	|	Một người đàn ông đang vận chuyển một chiếc xe đẩy.
+|	**carry**	|	The woman **is carrying** *a knapsack* on her back.	|	Người phụ nữ **đang mang** *một chiếc ba lô* trên lưng.
+|	**move**	|	A woman **is moving** *a cart in front of him*.	|	Một người phụ nữ **đang di chuyển** *một chiếc xe đẩy* trước mặt anh ta.
+|	**pull**	|	The man **is pulling** *a cart behind him*.	|	Người đàn ông **đang kéo** *một chiếc xe đẩy* phía sau anh ta.
+|	**push**	|	She **is pushing** *a cart across the road*.	|	Cô ấy **đang đẩy** *xe qua đường*.
+|	**lift**	|	He **is lifting** *a box onto the table*.	|	Anh ta **đang nâng** *một cái hộp lên bàn*.
+|	**load**	|	The man **is loading** *boxes into the back of the truck*.	|	Người đàn ông **đang xếp** *các thùng hàng vào thùng sau xe tải*.
+|	**hold**	|	A man **is holding** *a hammer in his right hand*.	|	Một người đàn ông **đang cầm** *một chiếc búa* trong tay phải.
+|	**use**	|	A woman **is using** *a ladder* to climb up to the roof.	|	Một phụ nữ **đang dùng** *thang để leo lên mái nhà*.
+|	**operate**	|	She **is operating** *a sewing machine*.	|	Cô ấy **đang vận hành** *một máy may*.
+|	**transport**	|	A man **is transporting** *a cart*.	|	Một người đàn ông **đang vận chuyển** *một chiếc xe đẩy*.
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 {% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/mp3-toeic/Part1_More_Expressions_10.mp3 %}
 
-|	**be on display**	|	Some merchandise is on display.	|	Một số hàng hóa được trưng bày.
-|		|	Some goods are on display at the store.	|	Một số hàng hóa đang được trưng bày tại cửa hàng.
-|	**be displayed**	|	Loaves of bread are displayed in the showcase.	|	Những ổ bánh mì được trưng bày trong tủ trưng bày.
-|		|	Some items have been displayed in front of the store.	|	Một số mặt hàng đã được trưng bày trước cửa hàng.
-|	**be arranged**	|	Merchandise is being arranged on the shelves.	|	Hàng hóa đang được sắp xếp trên các kệ hàng.
-|		|	The items have been arranged on the shelves.	|	Các mặt hàng đã được sắp xếp trên kệ.
-|	**be placed**	|	Some goods are placed on the counter.	|	Một số hàng hóa được đặt trên quầy.
-|		|	Some of the clothes have been placed on hangers.	|	Một số quần áo đã được đặt trên giá treo.
-|	**be for sale**	|	The merchandise is for sale.	|	Hàng hóa được rao bán.
-|		|	Different items are laid out for sale.	|	Các mặt hàng khác nhau được bày ra để bán.
-|	**be filled with**	|	The shelves are filled with merchandise.	|	Các kệ chứa đầy hàng hóa.
-|	**be full of**	|	The showcase is full of products.	|	Trưng bày có đầy đủ các sản phẩm.
-|	**be stocked with**	|	The shelves are stocked with merchandise.	|	Các kệ chứa hàng hóa.
-|	**be organized**	|	The products have been organized into boxes.	|	Các sản phẩm đã được sắp xếp thành hộp.
-|	**be sorted**	|	The items have been sorted into boxes.	|	Các mục đã được sắp xếp vào các hộp.
-|	**be stacked**	|	The bottles are stacked on top of each other.	|	Các chai được xếp chồng lên nhau.
+|	**be on display**	|	Some merchandise **is on display**.	|	Một số hàng hóa **được trưng bày**.
+|		|	Some goods **are on display** *at the store*.	|	Một số hàng hóa **đang được trưng bày** *tại cửa hàng*.
+|	**be displayed**	|	Loaves of bread **are displayed** *in the showcase*.	|	Những ổ bánh mì **được trưng bày** *trong tủ trưng bày*.
+|		|	Some items **have been displayed** *in front of the store*.	|	Một số mặt hàng **đã được trưng bày** *trước cửa hàng*.
+|	**be arranged**	|	Merchandise **is being arranged** *on the shelves*.	|	Hàng hóa **đang được sắp xếp** *trên các kệ hàng*.
+|		|	The items **have been arranged** *on the shelves*.	|	Các mặt hàng **đã được sắp xếp** *trên kệ*.
+|	**be placed**	|	Some goods **are placed** *on the counter*.	|	Một số hàng hóa **được đặt** *trên quầy thanh toán*.
+|		|	Some of the clothes **have been placed** *on hangers.*	|	Một số quần áo **đã được đặt** *trên giá treo*.
+|	**be for sale**	|	The merchandise **is for sale**.	|	Hàng hóa **được rao bán**.
+|		|	Different items **are laid out for sale**.	|	Các mặt hàng khác nhau **được bày ra để bán**.
+|	**be filled with**	|	The shelves **are filled with** *merchandise*.	|	Các kệ **chứa đầy** *hàng hóa*.
+|	**be full of**	|	The showcase **is full of** *products*.	|	Trưng bày **có đầy đủ** *các sản phẩm*.
+|	**be stocked with**	|	The shelves **are stocked with** *merchandise*.	|	Các kệ **chứa** *hàng hóa*.
+|	**be organized**	|	The products **have been organized** *into boxes*.	|	Các sản phẩm **đã được sắp xếp** *thành hộp*.
+|	**be sorted**	|	The items **have been sorted** *into boxes*.	|	Các mục **đã được sắp xếp** *vào các hộp*.
+|	**be stacked**	|	The bottles **are stacked** *on top of each other*.	|	Các chai **được xếp chồng** *lên nhau*.
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 {% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/mp3-toeic/Part1_More_Expressions_11.mp3 %}
 
-|	**serve a customer**	|	The waiter is serving a customer.	|	Người phục vụ đang phục vụ một khách hàng.
-|	**be served**	|	The patrons are being served.	|	Các khách hàng quen đang được phục vụ.
-|	**make [place] an order**	|	One woman is placing an order.	|	Một phụ nữ đang đặt hàng.
-|		|	The patrons are making their orders.	|	Các khách hàng quen đang thực hiện đơn đặt hàng của họ.
-|	**order their meals [food]**	|	The people are ordering their meals.	|	Mọi người đang đặt bữa ăn của họ.
-|		|	Customers are ordering their food.	|	Khách hàng đang đặt món ăn của họ.
-|	**look at [study] a menu**	|	The woman is looking at a menu.	|	Người phụ nữ đang xem thực đơn.
-|		|	They're studying the menu.	|	Họ đang nghiên cứu thực đơn.
-|	**take an order**	|	The waiter is taking orders from the customers.	|	Người phục vụ đang nhận đơn đặt hàng của khách hàng.
-|	**pour some liquid**	|	The man is pouring some liquid.	|	Người đàn ông đang đổ một ít chất lỏng.
-|	**be seated**	|	The customers are seated at a table.	|	Khách hàng ngồi vào một bàn.
-|	**(be) set up**	|	The tables and chairs have been set up outdoors.	|	Bộ bàn ghế đã được kê ngoài trời.
-|		|	There are tables and chairs set up at an outdoor cafe.	|	Có những bộ bàn ghế đặt tại một quán cà phê ngoài trời.
-|	**be arranged**	|	Tables and chairs are arranged on the patio.	|	Bàn ghế được bố trí ngoài hiên.
+|	**serve a customer**	|	The waiter **is serving a customer**.	|	Người phục vụ **đang phục vụ một khách hàng**.
+|	**be served**	|	The patrons **are being served**.	|	Các khách hàng quen **đang được phục vụ**.
+|	**make [place] an order**	|	One woman **is placing an order**.	|	Một phụ nữ **đang đặt hàng**.
+|		|	The patrons **are making their orders**.	|	Các khách hàng quen **đang thực hiện đơn đặt hàng** của họ.
+|	**order their meals [food]**	|	The people **are ordering their meals**.	|	Mọi người **đang đặt bữa ăn** của họ.
+|		|	Customers **are ordering their food**.	|	Khách hàng **đang đặt món ăn** của họ.
+|	**look at [study] a menu**	|	The woman **is looking at a menu**.	|	Người phụ nữ **đang xem thực đơn**.
+|		|	They'**re studying the menu**.	|	Họ **đang nghiên cứu thực đơn**.
+|	**take an order**	|	The waiter **is taking orders** from the customers.	|	Người phục vụ **đang nhận đơn đặt hàng** của khách hàng.
+|	**pour some liquid**	|	The man **is pouring some liquid**.	|	Người đàn ông **đang đổ một ít chất lỏng**.
+|	**be seated**	|	The customers **are seated** *at a table*.	|	Khách hàng **ngồi vào một bàn**.
+|	**(be) set up**	|	The tables and chairs **have been set up** *outdoors*.	|	Bộ bàn ghế **đã được kê** *ngoài trời*.
+|		|	There are tables and chairs **set up** *at an outdoor cafe*.	|	Có những bộ bàn ghế **đặt tại** *một quán cà phê ngoài trời*.
+|	**be arranged**	|	Tables and chairs **are arranged** *on the patio*.	|	Bàn ghế **được bố trí** *ngoài hiên*.
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 {% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/mp3-toeic/Part1_More_Expressions_12.mp3 %}
 
-|	**be left open**	|	A window has been left open.	|	Một cửa sổ đã được mở.
-|	**be surrounded by**	|	The house is surrounded by a fence.	|	Ngôi nhà có tường rào bao quanh.
-|	**be lined with**	|	The street is lined with trees.	|	Đường phố rợp bóng cây xanh.
-|	**cross the road**	|	Some people are waiting to cross the road.	|	Một số người đang chờ sang đường.
-|	**curve into the road**	|	The road curves into the distance.	|	Con đường cong vào phía xa.
-|	**in the driveway**	|	A vehicle is parked in the driveway.	|	Một chiếc xe đang đậu trên đường lái xe.
-|	**on the porch**	|	A man is relaxing on the porch.	|	Một người đàn ông đang thư giãn trên hiên nhà.
-|		|	Two women are having a conversation on the porch.	|	Hai người phụ nữ đang trò chuyện trước hiên nhà.
-|	**along the curb**	|	There are cars parked along the curb.	|	Có ô tô đậu dọc lề đường.
-|	**on either side of**	|	There are buildings on either side of the road.	|	Hai bên đường có những toà nhà.
-|	**on both sides of**	|	Trees have been planted on both sides of the road.	|	Hai bên đường đã được trồng cây xanh.
-|	**on the sidewalk**	|	A man is walking on the sidewalk.	|	Một người đàn ông đang đi bộ trên vỉa hè.
-|	**in a similar style**	|	The houses are built in a similar style.	|	Những ngôi nhà được xây dựng theo phong cách giống nhau.
+|	**be left open**	|	A window **has been left open**.	|	Một cửa sổ **đã được mở**.
+|	**be surrounded by**	|	The house **is surrounded by** *a fence*.	|	Ngôi nhà có *tường rào* **bao quanh**.
+|	**be lined with**	|	The street **is lined with** *trees*.	|	Đường phố **rợp bóng cây xanh**.
+|	**cross the road**	|	Some people *are waiting* **to cross the road**.	|	Một số người *đang chờ* **sang đường**.
+|	**curve into the road**	|	*The road* **curves into the distance**.	|	*Con đường* **cong vào phía xa**.
+|	**in the driveway**	|	A vehicle *is parked* **in the driveway**.	|	Một chiếc xe *đang đậu* **trên đường lái xe**.
+|	**on the porch**	|	A man *is relaxing* **on the porch**.	|	Một người đàn ông *đang thư giãn* **trên hiên nhà**.
+|		|	Two women *are having a conversation* **on the porch**.	|	Hai người phụ nữ *đang trò chuyện* **trước hiên nhà**.
+|	**along the curb**	|	There are cars *parked* **along the curb**.	|	Có ô tô *đậu* **dọc lề đường**.
+|	**on either side of**	|	There are buildings **on either side of** *the road*.	|	**Hai bên** *đường* có những toà nhà.
+|	**on both sides of**	|	Trees *have been planted* **on both sides of** *the road*.	|	*Hai bên đường* **đã được trồng cây xanh**.
+|	**on the sidewalk**	|	A man *is walking* **on the sidewalk**.	|	Một người đàn ông *đang đi bộ* **trên vỉa hè**.
+|	**in a similar style**	|	The houses *are built* **in a similar style**.	|	Những ngôi nhà *được xây dựng* **theo phong cách giống nhau**.
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
