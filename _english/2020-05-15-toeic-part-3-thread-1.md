@@ -40,28 +40,12 @@ Part 3 sẽ diễn ra như sau:
 2. Tiếp theo, bạn sẽ nghe 3 câu hỏi liên quan đến đoạn hội thoại bạn vừa mới nghe xong
 3. Ở mỗi câu hỏi, bạn sẽ phải lựa chọn 1 đáp án thích hợp nhất trong số 4 đáp án A, B, C, D.
 
-Vì bài hội thoại khá dài và cuộc nói chuyện có đến 2, 3 nhân vật nên thường khó có thể bắt kịp tốc độ của cuộc nói chuyện, do vậy hãy take note lại thông tin khi nghe (mẹo là nhìn lướt qua đáp án để hình dung context):
-- Chủ đề của cuộc nói chuyện (**talking** about? **topic** of the conversation? **main purpose** of the conversation?)
-- Địa điểm của cuộc nói chuyện (taking place?)
-- Người nói chuyện là ai? nghề nghiệp? chức danh? (woman/man? occupation?)
-- Mục đích, nguyên nhân của cuộc trò chuyện? vấn đề của nhân vật?
-- Các con số (how many?, what time?, when?). Cẩn thẩn bẫy khi bài nghe đưa ra nhiều con số.
-- Hành động tiếp theo? nhân vật sẽ làm gì tiếp theo? (do next? suggest?). Hãy để ý những mẫu câu như:
-    - Why don't you...?
-    - Please make sure that...
-    - Please remember to...
-    - Don't forget to...
-    - Could you...?
-- Kết hợp biểu đồ, bảng biểu => sẽ có mapping thông tin trên bảng biểu với thông tin trong bài nghe.
-
-Phải làm thế nào nếu không hiểu được được nội dung audio? => Nếu nghe loáng thoáng được các keyword thì hãy phân tích logic dựa trên sự liên quan của các keyword nghe được và câu hỏi để loại trừ và tìm câu hỏi đúng.
-
 ###  Cấu tạo nội dung và câu hỏi của một đoạn hội thoại bất kỳ
 
 1. Bất kỳ một đoạn hội thoại nào trong Part 3 cũng bao gồm 3 nội dung:
-    - Mở bài: Tình huống chung chung của cuộc trò chuyện
-    - Thân bài: Các chi tiết cụ thể trong đoạn hội thoại
-    - Kết bài: Người nói chuyện sẽ làm gì tiếp theo
+    - **Mở bài**: *Tình huống chung chung* của cuộc trò chuyện
+    - **Thân bài**: *Các chi tiết cụ thể* trong đoạn hội thoại
+    - **Kết bài**: *Người nói chuyện sẽ làm gì tiếp theo*
 
 2. 3 câu hỏi về đoạn hội thoại thông thường sẽ hỏi về 3 nội dung trên:
     - Câu hỏi về tình huống chung chung
@@ -70,6 +54,24 @@ Phải làm thế nào nếu không hiểu được được nội dung audio? =
     - Ngoài ra, với cấu trúc đề thi TOEIC mới năm 2019, đôi khi sẽ xuất hiện thêm 2 dạng câu hỏi:
         - Câu hỏi kết hợp biểu đồ, bảng biểu
         - Câu hỏi nghe hiểu ngụ ý
+
+### Mẹo làm part 3
+
+Vì bài hội thoại khá dài và cuộc nói chuyện có đến 2, 3 nhân vật nên thường khó có thể bắt kịp tốc độ của cuộc nói chuyện, do vậy hãy take note lại thông tin khi nghe (mẹo là nhìn lướt qua đáp án để hình dung context):
+- **Chủ đề** của cuộc nói chuyện (**talking** about? **topic** of the conversation? **main purpose** of the conversation?)
+- **Địa điểm** của cuộc nói chuyện (**taking place?**)
+- Người nói chuyện **là ai? nghề nghiệp? chức danh?** (woman/man? occupation?)
+- **Mục đích, nguyên nhân** *của cuộc trò chuyện?* **vấn đề** *của nhân vật?*
+- **Các con số** (how many?, what time?, when?). *Cẩn thẩn bẫy khi bài nghe đưa ra nhiều con số*.
+- **Hành động tiếp theo?** nhân vật sẽ làm gì tiếp theo? (**do next? suggest?**). Hãy để ý những mẫu câu như:
+    - *Why don't you...?*
+    - *Please make sure that...*
+    - *Please remember to...*
+    - *Don't forget to...*
+    - *Could you...?*
+- Kết hợp biểu đồ, bảng biểu => sẽ **có mapping thông tin** trên bảng biểu với thông tin trong bài nghe.
+
+Phải làm thế nào nếu không hiểu được được nội dung audio? => Nếu nghe loáng thoáng được các keyword thì hãy **phân tích logic** dựa trên sự liên quan của **các keyword** nghe được và câu hỏi để **loại trừ và tìm câu hỏi đúng.**
 
 ## Luyện tập
 

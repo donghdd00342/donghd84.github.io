@@ -146,4 +146,4 @@ module Jekyll
   end
 end
 
-Liquid::Template.register_filter(Jekyll::AmpFilter)
+# Liquid::Template.register_filter(Jekyll::AmpFilter)
