@@ -50,12 +50,22 @@ Part 2 sẽ diễn ra như sau:
 ## Mẹo làm part 2
 
 1. **Lắng nghe** thật kĩ **từ hỏi** trong bài nghe: **when** (hỏi về thời gian), **who** (hỏi về người), **where** (hỏi về nơi chốn) hay **how** (hỏi về cách thức)
-2. Càng về sau, mức **độ khó** của câu hỏi cũng tăng dần. Câu trả lời sẽ **không trả lời trực tiếp** cho câu hỏi mà sẽ gián tiếp hơn. Vì vậy cần hiểu tình huống của câu hỏi và xem câu trả lời có **hợp văn cảnh đó** hay không!
-3. Tránh bẫy về từ **đồng âm - khác nghĩa**. Để giải quyết vấn đề này thì chỉ còn cách trau dồi từ vựng có chủ đích mà thôi.
-4. Tránh bẫy về **các từ phát âm gần giống nhau** nhưng **nghĩa hoàn toàn khác nhau**. Tương tự bên trên, hãy trau dồi từ vựng và luyện nghe.
-5. Tránh bẫy về câu hỏi và đáp án **cùng đề cập một chủ đề nhưng lại không liên quan đến nhau**. Suy luận logic (có thể dùng phương pháp loại trừ). Đừng vội tin câu trả lời bạn nghe được, hãy cố gắng nghe hết và tỉnh táo để đưa ra quyết định đúng.
-6. (MẸO) Chọn câu trả lời có nội dung là "Tôi không biết" thì 99% là đúng.
-7. Lắng nghe kỹ thì động từ của câu hỏi: không bao giờ chọn một câu trả lời cho việc xảy ra ở tương lai cho một câu hỏi về hoạt động trong quá khứ.
+2. **Lắng nghe** người hỏi đang hỏi về **đối tượng nào**?
+3. Khi gặp câu hỏi khó (nghe) thì đừng hoảng loạng, hãy giữ cái đầu lạnh để "loại trừ" đáp án sai.
+4. Càng về sau, mức **độ khó** của câu hỏi cũng tăng dần. Câu trả lời sẽ **không trả lời trực tiếp** cho câu hỏi mà sẽ gián tiếp hơn. Vì vậy cần hiểu tình huống của câu hỏi và xem câu trả lời có **hợp văn cảnh đó** hay không!
+5. Tránh bẫy về từ **đồng âm - khác nghĩa**. Để giải quyết vấn đề này thì chỉ còn cách trau dồi từ vựng có chủ đích mà thôi.
+6. Tránh bẫy về **các từ phát âm gần giống nhau** nhưng **nghĩa hoàn toàn khác nhau**. Tương tự bên trên, hãy trau dồi từ vựng và luyện nghe.
+7. Tránh bẫy về câu hỏi và đáp án **cùng đề cập một chủ đề nhưng lại không liên quan đến nhau**. Suy luận logic (có thể dùng phương pháp loại trừ). Đừng vội tin câu trả lời bạn nghe được, hãy cố gắng nghe hết và tỉnh táo để đưa ra quyết định đúng.
+8. (MẸO) Chọn câu trả lời có nội dung là "Tôi không biết" thì 99% là đúng.
+9. Lắng nghe kỹ thì động từ của câu hỏi: không bao giờ chọn một câu trả lời cho việc xảy ra ở tương lai cho một câu hỏi về hoạt động trong quá khứ.
+
+Những câu trả lời sai thường sẽ là:
+- Trả lời không hợp ngữ cảnh của câu hỏi
+- Trả lời cho các loại câu hỏi khác (When, Where, What, How...)
+- Trả lời có chứa câu "âm thanh" gần giống với từ trong câu hỏi (để đánh lạc hướng)
+- Câu hỏi không có từ để hỏi (Statements) => câu trả lời thường là suggestions hoặc đồng cảm, đồng tình/đồng ý
+- Câu trả lời với nhân xưng không đúng với câu hỏi => cần nghe xem người hỏi đang hỏi đến ĐỐI TƯỢNG nào? (you, he, she...). Có ngoại lệ "Do I have to..." ~ "Yes, we need them..."
+- Đánh lừa khoảng thời gian (How long...) => SAI: about + Noun... => phải là 1 con số cụ thể
 
 ## Patterns & Expressions
 
@@ -483,4 +493,130 @@ Part 2 sẽ diễn ra như sau:
 | You have a sweater like this one, **don't you?** => **Yes**, but in a different color. | Bạn có một cái áo len giống vậy **phải không?** => **Có**, nhưng màu khác.
 | **Which one do you prefer**, the blue **or** the red envelope? => *I think I'll need both of them*. | Bạn **thích cái nào**, cái màu xanh dương **hay** cái màu đỏ? => *Tôi nghĩ mình cần cả hai cái.*
 | **Would you like to** take the early flight **or** catch the afternoon one? => *I'd rather take the later plane*. | **Bạn có muốn** đi chuyến bay sớm không **hay** bắt chuyến vào buổi chiều? => **Tôi thà** bắt chuyến sau **còn hơn.**
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part2/20200912-part2-001.mp3 %}
+
+|	**Who told you** *to turn off* the air conditioner? - **Ms. Walsh** *asked me to do it*.	|	**Ai bảo bạn** *tắt cái máy điều hòa không khí vậy*? - **Cô Walsh** *bảo tôi làm vậy*.
+|	**When do you expect** *the merger to be approved?* - **By** the end of the month.	|	**Bạn mong đợi khi** nào sự liên doanh **sẽ được đồng ý?** - **Vào** *cuối tháng*.
+|	**Do you want me to** *schedule the press conference* for Thursday, **or** for Friday? - **I'd prefer** Thursday.	|	**Bạn có muốn tôi** lên lịch cho buổi họp báo vào thứ năm **hay** thứ sáu? - **Tôi thích** thứ năm hơn.
+|	**What time are we supposed to** be at the conference? - **Three o'clock**, *I think*.	|	Chúng ta **phải có mặt** ở hội thảo **lúc mấy giờ**? - tôi nghĩ là **3 giờ**.
+|	**How many people** are coming to the commencement ceremony? - There are **about four hundred** guests.	|	**Bao nhiêu người** đến buổi lễ tốt nghiệp? - Có **khoảng 400** khách.
+|	**Who is making** the hotel reservation? - *Perhaps* **Mr. Chang**.	|	**Ai sẽ** *đặt phòng khách sạn?* - *Có lẽ* **ông Chang**.
+|	**When will** the new secretary *start working*? - *If memory serves me right*, **next Monday**.	|	**Khi nào** thì người thư ký mới bắt **đầu làm việc?** - *Nếu tôi nhớ đúng thì là* **thứ 2 tới**.
+|	**Who sent** us these financial reports? - **Brian** *did*.	|	**Ai đã gửi** cho chúng ta mấy báo cáo tài chính này vậy? - **Brian** *đã làm*.
+|	**How many employees** are *joining us* for our hiking trip? - *Roughly* **fifteen**.	|	**Có bao nhiêu nhân viên** *sẽ tham gia* chuyến dã ngoại cùng chúng ta? - **Khoảng 15**.
+|	**When will** the furniture for the lobby **be delivered?** - *Probably* **tomorrow**.	|	Khi nào thì đồ nội thất cho hành lang sẽ được chuyển đến? - Có lẽ là ngày mai.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part2/20200912-part2-002.mp3 %}
+
+|	**Can you come** here *to sign the contract* anytime tomorrow? - **Sure**, *I'll drop by in the morning*.	|	**Bạn có thể đến đây** *để ký hợp đồng* lúc nào đó vào ngày mai không? - **Chắc rồi**, tôi sẽ ghé qua vào buổi sáng.
+|	**When is** the new economic report **due?** - **By** *the end of the month*.	|	Bản báo cáo kinh tế mới **khi nào thì đến hạn?** - *Trước cuối tháng*
+|	This room **is really hot**. - **Why don't you** *open the window*?	|	Căn phòng này **rất nóng**. - **Tại sao bạn không** *mở cửa sổ*.
+|	**How often do you** *give factory tours*? - **Usually** *just on Saturday*.	|	**Bạn có thường** *tổ chức các chuyến đi nhà máy không*? - *Thông thường* **chỉ trong thứ 7**.
+|	**How often do you** *visit the manufacturing plant*? - **Every two weeks**.	|	Bạn *đi thăm nhà máy sản xuất* **bao lâu một lần?** - **Mỗi hai tuần**.
+|	**Why don't you** *go out for dinner* tonight? - **Unfortunately**, *I have to work late tonight*.	|	**Sao** tối nay **bạn không ra ngoài ăn tối đi?** - **Thật không may**, tối nay *tôi phải làm việc trễ*.
+|	**Which one** *do you* **prefer** for dinner tonight, spaghetti **or** curry rice? - **Either** *would be good*.	|	**Bạn thích cái nào** cho bữa tối tối nay, spaghetti **hay** cơm cà ri? - **Cái nào cũng được**.
+|	**Why didn't you** *bring the document* to the meeting? - **I forgot to pick it up**.	|	**Tại sao bạn không** *đem tài liệu đến buổi họp?* - **Tôi quên lấy nó**.
+|	**Would you like to** *sign up* for the investment committee? - **Perhaps**. *Could you give me further information about it*?	|	**Bạn có muốn** *đăng ký* vào ủy ban đầu tư không? - **Có lẽ**. Bạn có thể cho tôi thêm thông tin về nó được không?
+|	**Why do you** *go to work so early* every morning? - **So I can** *avoid the traffic congestion*.	|	**Tại sao** mỗi sáng *bạn đều đi làm sớm thế?* - **Để tránh kẹt xe**.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part2/20200912-part2-003.mp3 %}
+
+|	**Why are** so many tourists *asking for a refund*? - **Probably because of** *the bad service*.	|	Tại sao có nhiều du khách đòi hoàn tiền? - Chắc là vì dịch vụ kém.
+|	**Do you need help** *setting up the dining room for the banquet?* - **Everything's ready**, *thanks*.	|	**Bạn có cần giúp đỡ** để dọn bàn phòng ăn cho buổi tiệc lớn **không?** - *Mọi thứ đã sẵn sàng rồi*, **cám ơn**.
+|	**Where can I** *find the financial documents?* - **Come to my office**, *and I'll show them to you*.	|	**Tôi có thể tìm** *hồ sơ tài chính* **ở đâu?** - **Hãy đến văn phòng của tôi**, *tôi sẽ đưa cho bạn*.
+|	**How many** *customers* do you visit in a week on average? - **Between seven and ten**.	|	Trung bình một tuần bạn đi gặp **bao nhiêu khách hàng?** - **Khoảng 7 đến 10**.
+|	**We are going to** a movie this evening. **Would you like to** *join us?* - **OK.** *When is it?*	|	*Chúng tôi định đi xem phim tối nay*. **Bạn có muốn** *đi cùng không?* - **Được**. *Mấy giờ vậy*?
+|	**Would you like** **me to help you prepare** for the meeting? - **I think I can do it by myself.**	|	**Bạn có muốn** tôi giúp bạn chuẩn bị cho cuộc họp không? - **Tôi nghĩ mình tự làm được.**
+|	**Where can I** *get some good food* around here? - **Check out** *the little diner* **across the road**.	|	**Tôi có thể mua** một số thức ăn ngon **ở chỗ nào** gần đây vậy? - **Hãy thử** quán ăn **đối diện đường xem sao**.
+|	**Do you know if** *there's a shoe store nearby?* - **I think** there's one **in the shopping center**.	|	**Bạn có biết** *gần đây có cửa hàng giày nào hay không?* - *Tôi nghĩ có một cái* **ở trong trung tâm mua sắm**.
+|	**When will** *the financial statement* **be updated?** -*The deadline* **is tomorrow**.	|	**Khi nào** thì báo cáo tài chính sẽ *được cập nhật?* - *Hạn chót* **là ngày mai**.
+|	**Why does** *Mr. Tang* *look so worried?* - *He left his briefcase on the plane*.	|	**Tại sao** *Ông Tang lại trông có vẻ lo lắng đến vậy? - Anh ta để quên cặp đựng hồ sơ trên máy bay*.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part2/20200912-part2-004.mp3 %}
+
+|	**Aren't you** *meeting with the real estate agent* today? - **No**, *our meeting was canceled*.	|	**Không phải** hôm nay *bạn gặp công ty địa ốc* sao? - **Không**, *cuộc họp của chúng tôi đã bị hủy*.
+|	**Would you like to** *join us* for dinner tonight? - **I wish I could, but** *I already have plans*.	|	**Bạn có muốn** *ăn tối cùng chúng tôi tối nay không?* - **Ước gì tôi có thể, nhưng** *tôi có kế hoạch khác rồi.*
+|	**Will you** *have some free time* in the morning **or** are you *always busy* with your work? - **I will be free** sometime in the morning.	|	**Bạn có rảnh** vào buổi sáng không **hay luôn bận rộn** với công việc? - **Sáng tôi cũng có rảnh**
+|	**Who is going to** *attend Mr. McKenzie's retirement party?* - *Everyone* **except** *Jill*.	|	**Ai sẽ** *tham gia tiệc về hưu của ông McKenzie?* - *Mọi người* **ngoại trừ** *Jill*.
+|	**When is** Amelia's resignation **going to** be officially announced? - **At** *the next board meeting*, I think.	|	**Khi nào** thì việc từ chức của Amelia **sẽ được thông báo chính thức?** - *Tôi nghĩ là* **ở cuộc họp ban giám đốc tiếp theo**.
+|	**Are you** *ready to order*, **or do you** *need more time?* - **I'll need a few more minutes.**	|	**Bạn đã sẵn sàng** *gọi món* chưa **hay** *bạn cần thêm thời gian?* - **Tôi cần thêm vài phút nữa.**
+|	**Shouldn't** *we attend* the training session as well? - **No**, *I don't think that's necessary.*	|	**Không phải** *chúng ta* **cũng nên** *tham gia buổi huấn luyện sao?* - **Không**, *tôi không nghĩ như vậy là cần thiết.*
+|	**I heard that** *Sally was laid off*. - **Really?** *That's too bad*.	|	**Tôi nghe nói** *Sally đã bị đuổi việc*. - **Thật chứ?** *Tệ quá.*
+|	**Where should I** *keep these company letterheads?* - **In the cabinet** *by the door*.	|	Tôi **nên giữ** *những tiêu đề thư của công ty* **ở đâu?** - **Trong tủ đựng hồ sơ** cạnh cửa
+|	**When does** *the new restaurant* **open?** - **Isn't it tomorrow?**	|	**Khi nào** *thì nhà hàng mới* **sẽ mở cửa?** - *Không phải là mai sao?*
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part2/20200912-part2-005.mp3 %}
+
+|	**Didn't** you **hear about** the new check-out procedure? - **No,** *what is it?*	|	**Bạn đã nghe về** *thủ tục trả phòng mới* **chưa?** - **Không,** *là gì vậy.*
+|	**When does** *the editorial department* **issue** *the newsletter?* - **On the last day of the month**.	|	**Khi nào** *thì phòng biên tập* **phát hành** *thư thông tin?* - **Vào ngày cuối cùng của tháng**
+|	**How long** *will it take to implement the new procedures?* - *Approximately* **two months**.	|	**Sẽ mất bao lâu** *để thực hiện quy trình mới?* - *Khoảng* **2 tháng**.
+|	The workshop's *been canceled*, **hasn't it?** - **No,** *it's just* **been postponed.**	|	*Buổi hội thảo* **đã bị hủy rồi đúng không?** - **Không,** *nó mới bị hoãn thôi.*
+|	**Who will** *replace* Mr. Fernandez when he retires? - **I heard that** *Maria Ortega* **will**	|	**Ai sẽ** *thay thế* ông Fernandez khi ông ấy về hưu nhỉ? - *Mình nghe nói là* **Maria Ortega** *sẽ thay thế*.
+|	**Would you like** *me to make copies of the agenda?* - **That's OK**. *I'll do it later*.	|	**Bạn có muốn** *tôi sao chép nhật ký công tác không?* - **Được rồi**. *Tôi sẽ làm nó sau*.
+|	**Who will** *take care of transportation* once we get there? - **Jane will** be waiting for us.	|	**Ai sẽ** *chịu trách nhiệm* việc đi lại khi chúng ta đến đó? - **Jane sẽ chờ** chúng ta.
+|	*Steven booked a room at the Renaissance hotel*, **didn't he?** - **I am sure he did it**.	|	*Steven đặt phòng ở khách sạn Renaissance* **đúng không?** - *Tôi chắc là anh ta đã làm điều đó*.
+|	**Could you** *help me type this up* **or are you busy** right now? - **I have time to do it.**	|	**Bạn có thể giúp** gõ hộ tôi cái này không **hay** giờ **bạn đang bận?** - **Tôi có thời gian cho nó.**
+|	*I went to the new Thai restaurant last night*. - **How was it?**	|	*Tối qua tôi đi đến nhà hàng Thái mới mở*. - **Nó như thế nào?**
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part2/20200912-part2-006.mp3 %}
+
+|	**How much** *does this briefcase* **cost?** - **Let me check** for you.	|	Chiếc cặp này **giá bao nhiêu?** - **Để tôi kiểm tra** nó cho bạn
+|	**Who entered** these figures on the spreadsheet? - **My assistant** did.	|	**Ai nhập những con số này** vào bảng tính vậy? - **Trợ tá của tôi làm.**
+|	**Where can I** *get additional information about the production schedule?* - **On the bulletin board**.	|	**Tôi có thể tìm** *thêm thông tin về kế hoạch sản xuất ở đâu?* - **Trên bảng thông tin**
+|	*There's something wrong with my laptop*. - **Perhaps** *I can help you*.	|	*Có vấn đề gì đó với cái laptop của tôi rồi*. - **Có lẽ** *tôi có thể giúp bạn*.
+|	**How many** *refrigerators* do you sell a month on average? - **Between 35 and 40**.	|	Bạn bán trung bình **bao nhiêu cái tủ lạnh** một tháng? - **Khoảng 35 đến 40 cái**.
+|	**Didn't** *you want to write the project summary?* - **I did, but** *I could use your help*.	|	*Bạn không muốn viết bản tóm tắt dự án à?* - **Ừ,** *nhưng tôi có thể sử dụng sự trợ giúp của bạn.*
+|	**Where is** *the booklet* about last quarter's sales figures? - **In the second drawer.**	|	Quyển báo cáo doanh thu quý trước nằm **ở đâu rồi?** - **Ở ngăn kéo thứ hai.**
+|	**Would you like to** *take the early flight* **or** *catch the afternoon one?* - **I'd rather** *take the later plane*.	|	**Bạn có muốn** *đi chuyến bay sớm không* **hay** *bắt chuyến vào buổi chiều?* - **Tôi thà** *bắt chuyến sau* **còn hơn**.
+|	**Could you** *give me a hand* moving this closet over a little bit? - **Certainly,** *if it's not too heavy*.	|	**Bạn có thể** *giúp tôi* di chuyển cái tủ này sang kia một chút không? - **Tất nhiên rồi**, *nếu nó không quá nặng*.
+|	**Who changed** *the password* for the security system? - I think it was **the president**.	|	**Ai đã thay đổi** *mật mã* cho hệ thống bảo mật? - *Tôi nghĩ đó là* **giám đốc**.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part2/20200912-part2-007.mp3 %}
+
+|	**Do you think we should** *take extra product samples to the convention?* - **That's probably a good idea**.	|	**Bạn có nghĩ chúng ta nên** *mang theo thêm những mẫu sản phẩm đến hội nghị không?* - **Đó có lẽ là một ý kiến hay**.
+|	**What are** you **going to** do over the weekend? - **I'm thinking of driving over** *to my parent's house*.	|	**Bạn định làm gì** vào cuối tuần? - **Tôi đang nghĩ đến việc** lái xe về thăm bố mẹ.
+|	Hi, **I would like to** *reschedule my appointment with Dr. Roth*. - **May I have your name please?**	|	Xin chào, **tôi muốn hẹn lại một cuộc gặp khác** với bác sĩ Roth. - **Anh tên gì ạ?**
+|	**Where can** I *find the manual* for the new fax machine? - **It's right behind you**	|	Tôi có thể tìm sách hướng dẫn cho máy fax mới **ở đâu?** - **Nó nằm ở ngay đằng sau bạn.**
+|	**Didn't** *you attend the training seminar* yesterday? - **No,** *I was busy finishing some work.*	|	**Không phải bạn đã** *tham gia vào buổi huấn luyện hôm qua* **rồi sao?** - **Không,** *tôi bận phải làm xong một số công việc.*
+|	**Why don't you** *take some* **time off?** - *I've got too much work to do.*	|	*Tại sao bạn không* **nghỉ phép?** - *Tôi có quá nhiều việc phải làm.*
+|	*I try to work out every day*. - **So do I**.	|	*Tôi cố tập luyện hàng ngày* - **Tôi cũng vậy** (nhấn mạnh)
+|	*I sent the catering order to you on Tuesday*. - **I don't think** *we've received it.*	|	*Tôi gửi đơn hàng cung cấp cho bạn vào thứ 3*. - **Tôi không nghĩ rằng** *chúng tôi đã nhận được nó*.
+|	*The maintenance department will install another air purifying system in the cafeteria.* - **Good**. *It's hard to breathe in there as it is*.	|	*Phòng bảo trì sẽ lắp đặt thêm một hệ thống lọc không khí khác trong căn tin*. - **Tốt.** *Thật khó để mà hít thở không khí như thế này*.
+|	**Are** *the marketing reports nearly ready?* - **We need more time**.	|	Báo cáo tiếp thị **sắp xong chưa?** - *Chúng tôi cần thêm thời gian.*
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part2/20200912-part2-008.mp3 %}
+
+|	Hello, **I'd like to** *book a single room* for this weekend. - **Sure,** *will this be for one night?*	|	Xin chào, **tôi muốn đặt một phòng đơn** cho cuối tuần này. - **Được,** *cho một đêm thôi ạ?*
+|	**Don't** *you think we should call* our client first? - **Yes, that would be the wise thing to do**.	|	**Bạn không nghĩ chúng ta nên** *gọi cho khách hàng trước sao?* - **Vâng,** **đó là điều khôn ngoan để làm.**
+|	**Who told** *you to reschedule the meeting?* - **The supervisor** *suggested it*.	|	**Ai bảo bạn đổi lịch** cuộc họp vậy? - **Người giám sát** bảo vậy.
+|	**Why did** *Barry request access to the database?* - **To check** *for any inaccurate information.*	|	**Tại sao** *Barry yêu cầu được truy cập vào cơ sỡ dữ liệu?* - **Để kiểm tra** *thông tin không chính xác*.
+|	**Are** *you returning tomorrow* **or** *the day after?* - **I should** *be back the day after tomorrow*.	|	**Bạn định** *quay lại vào ngày mai* **hay** *vào ngày hôm sau nữa?* - **Tôi có thể sẽ** *quay lại vào ngày hôm sau*.
+|	**How would** *you feel about going to* the beach this weekend? - **I'd love to**.	|	**Bạn thấy sao** *nếu mình đi biển cuối tuần này*? - **Tôi rất thích**.
+|	**Will you** *be taking your vacation in July or August this year?* - **I haven't decided yet**.	|	**Bạn sẽ** *đi nghỉ vào tháng 7 hay tháng 8 năm nay?* - **Tôi vẫn chưa quyết định.**
+|	**Why didn't** *you accept their job offer*? - **The salary was too low**.	|	**Tại sao** *bạn không chấp nhận lời mời làm việc?* - **Lương thấp quá**.
+|	**Could** *you run some copies of these documents for the meeting?* - **Sure,** *I'll do it right away.*	|	**Bạn có thể** *photo những tài liệu này ra vài bản cho buổi họp* **được không?** - **Được, tôi sẽ làm ngay.**
+|	**Why is** *that grocery store* **closed?** - **They went bankrupt.**	|	**Tại sao** *cửa hàng tạp hoá đó* **đóng cửa?** - **Họ đã phá sản.**
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part2/20200912-part2-009.mp3 %}
+
+|	**How much is this** *alarm clock?* - **Let me check** *the price list.*	|	*Cái đồng hồ báo thức này* **giá bao nhiêu?** - **Để tôi kiểm tra** *bảng giá*.
+|	**What is** *Ms. Lydia's e-mail* **about?** - *I haven't checked yet.*	|	*Email của cô Lydia* **là về việc gì?** - *Tôi chưa xem*.
+|	*I had a job interview on Monday morning.* - **How was it?**	|	*Tôi đã có một cuộc phỏng vấn công việc vào sáng thứ 2*. - **Nó thế nào rồi.**
+|	*I don't know how to fix this copier.* - **Neither do I**. *I'll go ask Bob*.	|	*Tôi không biết phải làm sao để sửa cái máy photo này*. - **Tôi cũng không**. *Tôi sẽ đi hỏi Bob*.
+|	**Do** *I have to fill out these forms now?* - **Yes,** *we need them for your interview*.	|	*Tôi có phải điền những mẫu đơn này* **ngay bây giờ không?** - **Vâng,** *chúng tôi cần chúng cho buổi phỏng vấn của bạn.*
+|	**Which firm did** *the new recruit use to work* **for?** - **I'm not sure.** *You should ask her yourself.*	|	*Nhân viên mới đã từng làm việc* **cho công ty nào?** - **Tôi không chắc**. *Bạn nên tự đi hỏi cô ấy*.
+|	**What's wrong with** *this computer?* - *It just hasn't been* **turned on** *yet*.	|	**Chuyện gì đang xảy ra** *với cái máy vi tính này vậy?* - *Nó vẫn* **chưa được bật lên**.
+|	**Who is** *making a design presentation?* - **Mr. Benson** *said that he* **would**.	|	**Ai sẽ** *thuyết trình về thiết kế?* - **Ông Benson** *nói ông ta* **sẽ làm**.
+|	**Did** *you already renew* the maintenance contract **or** *will you speak with* the manager first? - **I will talk with the manager**.	|	**Bạn đã** *ký mới hợp đồng bảo trì chưa* **hay bạn sẽ** *nói chuyện với trưởng phòng trước?* - **Tôi sẽ nói chuyện với trưởng phòng.**
+|	**Would you like** *a ride back to the airport?* - **Thanks, I'd appreciate it**.	|	**Bạn có muốn** *quá giang trở lại sân bay không?* - **Cảm ơn,** *tôi rất cảm kích*.
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
