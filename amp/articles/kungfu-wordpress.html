@@ -17,7 +17,7 @@
         "mainEntityOfPage": "https://donghd.com/articles/kungfu-wordpress",
         "headline": "Tổng hợp về wordpress (2020)",
         "datePublished": "2020-05-15 22:26:14 +0700",
-        "dateModified": "2020-09-12 22:31:28 +0700",
+        "dateModified": "2020-09-13 00:33:19 +0700",
         "description": "Với việc dễ cài đặt, dễ sử dụng, dễ tùy biến nên đối tượng tiếp cận của wordpress rất rộng lớn, community rất hùng mạnh. Tính đến tháng 6 năm 2019, WordPress được sử dụng bởi 60,8% trong số tất cả các trang web có hệ thống quản lý nội dung được biết đến. Đây là 27,5% trong số 10 triệu trang web hàng đầu (theo [Wiki](https://en.wikipedia.org/wiki/WordPress){:hvr-float-shadow rel="nofollow" target="_blank"}). Đến thời điểm hiện tại (năm 2020), wordpress vẫn rất được ưu chuộng.",
         
         "author": {
@@ -131,26 +131,25 @@
 
       <div class="w3-section">
         <ul class="toc-nav dh-black-8 w3-animate-opacity dh-padding-right-1em">
-<li class="toc-entry toc-h2"><a href="#overview">Overview</a></li>
-<li class="toc-entry toc-h2"><a href="#features">Features</a></li>
-<li class="toc-entry toc-h2">
-<a href="#how-to">How-to</a>
+<li class="toc-entry toc-h2"><a href="#overview" spy-toc="Overview">Overview</a></li>
+<li class="toc-entry toc-h2"><a href="#features" spy-toc="Features">Features</a></li>
+<li class="toc-entry toc-h2"><a href="#how-to" spy-toc="How-to">How-to</a>
 <ul>
-<li class="toc-entry toc-h3"><a href="#develop-themes">Develop Themes</a></li>
-<li class="toc-entry toc-h3"><a href="#develop-plugins">Develop Plugins</a></li>
-<li class="toc-entry toc-h3"><a href="#build-gutenberg-blocks">Build Gutenberg Blocks</a></li>
+<li class="toc-entry toc-h3"><a href="#develop-themes" spy-toc="Develop Themes">Develop Themes</a></li>
+<li class="toc-entry toc-h3"><a href="#develop-plugins" spy-toc="Develop Plugins">Develop Plugins</a></li>
+<li class="toc-entry toc-h3"><a href="#build-gutenberg-blocks" spy-toc="Build Gutenberg Blocks">Build Gutenberg Blocks</a></li>
 </ul>
 </li>
-<li class="toc-entry toc-h2"><a href="#other-reference">Other Reference</a></li>
+<li class="toc-entry toc-h2"><a href="#other-reference" spy-toc="Other Reference">Other Reference</a></li>
 </ul><h2 id="overview">
-<a class="anchor" href="#overview" aria-hidden="true"><span class="octicon octicon-link"></span></a>Overview</h2>
+<a class="anchor" href="#overview" aria-hidden="true" spy-title="Overview"><span class="octicon octicon-link"></span></a>Overview</h2>
 
 <p>Với việc dễ cài đặt, dễ sử dụng, dễ tùy biến nên đối tượng tiếp cận của wordpress rất rộng lớn, community rất hùng mạnh. Tính đến tháng 6 năm 2019, WordPress được sử dụng bởi 60,8% trong số tất cả các trang web có hệ thống quản lý nội dung được biết đến. Đây là 27,5% trong số 10 triệu trang web hàng đầu (theo <a href="https://en.wikipedia.org/wiki/WordPress" rel="nofollow" target="_blank">Wiki</a>). Đến thời điểm hiện tại (năm 2020), wordpress vẫn rất được ưu chuộng.</p>
 
 <p>Khi sử dụng wordpress chúng ta cần phải xem xét cẩn thận security của server, source code, database… bởi có nhiều lỗ hổng có thể dễ dàng bị tấn công. Do vậy cần phải update lên version mới thường xuyên, tuyệt đối không sử dụng mật khẩu mặc định (hoặc dễ đoán), cái gì không dùng, không quan trọng thì xóa đi. Cài Theme và Plugin cũng phải cân nhắc liệu có thể tin tưởng được Theme và Plugin đó hay không?</p>
 
 <h2 id="features">
-<a class="anchor" href="#features" aria-hidden="true"><span class="octicon octicon-link"></span></a>Features</h2>
+<a class="anchor" href="#features" aria-hidden="true" spy-title="Features"><span class="octicon octicon-link"></span></a>Features</h2>
 
 <p>Chức năng chính của wordpress là quản lý các page (có 2 page đặc biệt là front-page và blog), post (các bài viết), category và tag (để quản lý và phân loại các bài viết), media (các file upload).</p>
 
@@ -159,12 +158,12 @@
 <p>Xem thêm trên <a href="https://wordpress.org/support/category/basic-usage/" class="hvr-float-shadow" rel="nofollow" target="_blank">trang tài liệu của wordpress</a></p>
 
 <h2 id="how-to">
-<a class="anchor" href="#how-to" aria-hidden="true"><span class="octicon octicon-link"></span></a>How-to</h2>
+<a class="anchor" href="#how-to" aria-hidden="true" spy-title="How-to"><span class="octicon octicon-link"></span></a>How-to</h2>
 
 <p><strong>Nguyên tắc</strong>: không custom những thứ default/core của wordpress. Hãy viết riêng cho những gì bạn muốn bằng cách tận dụng những gì wordpress đưa cho bạn.</p>
 
 <h3 id="develop-themes">
-<a class="anchor" href="#develop-themes" aria-hidden="true"><span class="octicon octicon-link"></span></a>Develop Themes</h3>
+<a class="anchor" href="#develop-themes" aria-hidden="true" spy-title="Develop Themes"><span class="octicon octicon-link"></span></a>Develop Themes</h3>
 <ul>
   <li>Hướng dẫn <a href="https://developer.wordpress.org/themes/" class="hvr-float-shadow" rel="nofollow" target="_blank"><strong>step-by-step</strong> ở đây</a>
 </li>
@@ -178,7 +177,7 @@
 </ul>
 
 <h3 id="develop-plugins">
-<a class="anchor" href="#develop-plugins" aria-hidden="true"><span class="octicon octicon-link"></span></a>Develop Plugins</h3>
+<a class="anchor" href="#develop-plugins" aria-hidden="true" spy-title="Develop Plugins"><span class="octicon octicon-link"></span></a>Develop Plugins</h3>
 <ul>
   <li>Hướng dẫn <a href="https://developer.wordpress.org/plugins/plugin-basics/" class="hvr-float-shadow" rel="nofollow" target="_blank"><strong>Plugin Basics</strong> ở đây</a>
 </li>
@@ -190,7 +189,7 @@
 </ul>
 
 <h3 id="build-gutenberg-blocks">
-<a class="anchor" href="#build-gutenberg-blocks" aria-hidden="true"><span class="octicon octicon-link"></span></a>Build Gutenberg Blocks</h3>
+<a class="anchor" href="#build-gutenberg-blocks" aria-hidden="true" spy-title="Build Gutenberg Blocks"><span class="octicon octicon-link"></span></a>Build Gutenberg Blocks</h3>
 <ul>
   <li>
 <strong>Gutenberg Blocks</strong> đang thay đổi cách tạo nội dung trên WordPress, nó chính thức được áp dụng từ wordpress 5.0, manh nha trước đó là  <a href="https://wordpress.org/plugins/gutenberg/" class="hvr-float-shadow" rel="nofollow" target="_blank"><strong>Gutenberg Plugin</strong></a>
@@ -215,7 +214,7 @@
 </ul>
 
 <h2 id="other-reference">
-<a class="anchor" href="#other-reference" aria-hidden="true"><span class="octicon octicon-link"></span></a>Other Reference</h2>
+<a class="anchor" href="#other-reference" aria-hidden="true" spy-title="Other Reference"><span class="octicon octicon-link"></span></a>Other Reference</h2>
 <ul>
   <li><a href="https://developer.wordpress.org/resource/dashicons" class="hvr-float-shadow" rel="nofollow" target="_blank"><strong>Icon</strong> resource</a></li>
   <li>Khám phá <strong>Functions, Methods, Hooks, Classes</strong> của wordpress ở tài liệu <a href="https://developer.wordpress.org/reference/" class="hvr-float-shadow" rel="nofollow" target="_blank"><strong>Code Reference</strong></a>

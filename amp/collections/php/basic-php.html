@@ -17,7 +17,7 @@
         "mainEntityOfPage": "https://donghd.com/collections/php/basic-php",
         "headline": "Cơ bản về PHP",
         "datePublished": "2020-05-15 14:26:14 +0700",
-        "dateModified": "2020-09-12 22:31:28 +0700",
+        "dateModified": "2020-09-13 00:33:19 +0700",
         "description": "Cùng tìm hiểu cơ bản về PHP",
         
         "author": {
@@ -131,27 +131,26 @@
 
       <div class="w3-section">
         <ul class="toc-nav dh-black-8 w3-animate-opacity dh-padding-right-1em">
-<li class="toc-entry toc-h2"><a href="#%C4%91%E1%BA%B7c-%C4%91i%E1%BB%83m">Đặc điểm</a></li>
-<li class="toc-entry toc-h2">
-<a href="#oop">OOP</a>
+<li class="toc-entry toc-h2"><a href="#đặc-điểm" spy-toc="Đặc điểm">Đặc điểm</a></li>
+<li class="toc-entry toc-h2"><a href="#oop" spy-toc="OOP">OOP</a>
 <ul>
-<li class="toc-entry toc-h3"><a href="#namespaces">Namespaces</a></li>
-<li class="toc-entry toc-h3"><a href="#t%E1%BB%AB-kh%C3%B3a-namespace-v%C3%A0-h%E1%BA%B1ng-s%E1%BB%91-__namespace__">Từ khóa “namespace” và hằng số “__NAMESPACE__”</a></li>
-<li class="toc-entry toc-h3"><a href="#aliasingimporting-v%E1%BB%9Bi-to%C3%A1n-t%E1%BB%AD-use">Aliasing/Importing với toán tử “use”</a></li>
-<li class="toc-entry toc-h3"><a href="#importing-and-dynamic-names">Importing and dynamic names</a></li>
-<li class="toc-entry toc-h3"><a href="#importing-and-fully-qualified-names">Importing and fully qualified names</a></li>
-<li class="toc-entry toc-h3"><a href="#classes-and-objects">Classes and Objects</a></li>
-<li class="toc-entry toc-h3"><a href="#inheritance">Inheritance</a></li>
-<li class="toc-entry toc-h3"><a href="#overriding-inherited-methods">Overriding Inherited Methods</a></li>
-<li class="toc-entry toc-h3"><a href="#t%E1%BB%AB-kh%C3%B3a-final">Từ khóa “final”</a></li>
-<li class="toc-entry toc-h3"><a href="#class-constants">Class Constants</a></li>
-<li class="toc-entry toc-h3"><a href="#abstract-classes">Abstract Classes</a></li>
-<li class="toc-entry toc-h3"><a href="#what-are-traits">What are Traits?</a></li>
-<li class="toc-entry toc-h3"><a href="#static-methods--properties">Static Methods &amp; Properties</a></li>
+<li class="toc-entry toc-h3"><a href="#namespaces" spy-toc="Namespaces">Namespaces</a></li>
+<li class="toc-entry toc-h3"><a href="#từ-khóa-namespace-và-hằng-số-__namespace__" spy-toc="Từ khóa “namespace” và hằng số “__NAMESPACE__”">Từ khóa “namespace” và hằng số “__NAMESPACE__”</a></li>
+<li class="toc-entry toc-h3"><a href="#aliasingimporting-với-toán-tử-use" spy-toc="Aliasing/Importing với toán tử “use”">Aliasing/Importing với toán tử “use”</a></li>
+<li class="toc-entry toc-h3"><a href="#importing-and-dynamic-names" spy-toc="Importing and dynamic names">Importing and dynamic names</a></li>
+<li class="toc-entry toc-h3"><a href="#importing-and-fully-qualified-names" spy-toc="Importing and fully qualified names">Importing and fully qualified names</a></li>
+<li class="toc-entry toc-h3"><a href="#classes-and-objects" spy-toc="Classes and Objects">Classes and Objects</a></li>
+<li class="toc-entry toc-h3"><a href="#inheritance" spy-toc="Inheritance">Inheritance</a></li>
+<li class="toc-entry toc-h3"><a href="#overriding-inherited-methods" spy-toc="Overriding Inherited Methods">Overriding Inherited Methods</a></li>
+<li class="toc-entry toc-h3"><a href="#từ-khóa-final" spy-toc="Từ khóa “final”">Từ khóa “final”</a></li>
+<li class="toc-entry toc-h3"><a href="#class-constants" spy-toc="Class Constants">Class Constants</a></li>
+<li class="toc-entry toc-h3"><a href="#abstract-classes" spy-toc="Abstract Classes">Abstract Classes</a></li>
+<li class="toc-entry toc-h3"><a href="#what-are-traits" spy-toc="What are Traits?">What are Traits?</a></li>
+<li class="toc-entry toc-h3"><a href="#static-methods--properties" spy-toc="Static Methods &amp; Properties">Static Methods &amp; Properties</a></li>
 </ul>
 </li>
 </ul><h2 id="đặc-điểm">
-<a class="anchor" href="#%C4%91%E1%BA%B7c-%C4%91i%E1%BB%83m" aria-hidden="true"><span class="octicon octicon-link"></span></a>Đặc điểm</h2>
+<a class="anchor" href="#%C4%91%E1%BA%B7c-%C4%91i%E1%BB%83m" aria-hidden="true" spy-title="Đặc điểm"><span class="octicon octicon-link"></span></a>Đặc điểm</h2>
 <ul>
   <li>Trong PHP, <strong>các từ khóa</strong> (ví dụ: if, other, while, echo, v.v.), các <strong>classes, functions</strong> cũng như các functions do người dùng định nghĩa sẽ <strong>không phân biệt chữ hoa chữ thường</strong>. Tuy nhiên, <strong>các tên biến</strong> thì lại <strong>có phân biệt hoa-thường</strong>.</li>
   <li>Sử dụng dấu chấm phẩy (<code class="highlighter-rouge">;</code>) để kết thúc câu lệnh. String là tất cả ký tự nằm trong dấu nháy đơn hoặc nháy kép (kể cả ký tự kết thúc dòng, PHP sẽ coi kết thúc dòng là space)</li>
@@ -218,10 +217,10 @@
 </ul>
 
 <h2 id="oop">
-<a class="anchor" href="#oop" aria-hidden="true"><span class="octicon octicon-link"></span></a>OOP</h2>
+<a class="anchor" href="#oop" aria-hidden="true" spy-title="OOP"><span class="octicon octicon-link"></span></a>OOP</h2>
 
 <h3 id="namespaces">
-<a class="anchor" href="#namespaces" aria-hidden="true"><span class="octicon octicon-link"></span></a>Namespaces</h3>
+<a class="anchor" href="#namespaces" aria-hidden="true" spy-title="Namespaces"><span class="octicon octicon-link"></span></a>Namespaces</h3>
 
 <ul>
   <li>
@@ -262,7 +261,7 @@
 </code></pre></div></div>
 
 <h3 id="từ-khóa-namespace-và-hằng-số-__namespace__">
-<a class="anchor" href="#t%E1%BB%AB-kh%C3%B3a-namespace-v%C3%A0-h%E1%BA%B1ng-s%E1%BB%91-__namespace__" aria-hidden="true"><span class="octicon octicon-link"></span></a>Từ khóa “namespace” và hằng số “<code class="highlighter-rouge">__NAMESPACE__</code>”</h3>
+<a class="anchor" href="#t%E1%BB%AB-kh%C3%B3a-namespace-v%C3%A0-h%E1%BA%B1ng-s%E1%BB%91-__namespace__" aria-hidden="true" spy-title="Từ khóa “namespace” và hằng số “__NAMESPACE__”"><span class="octicon octicon-link"></span></a>Từ khóa “namespace” và hằng số “<code class="highlighter-rouge">__NAMESPACE__</code>”</h3>
 
 <p>Giá trị của <strong>__NAMESPACE__</strong> là một chuỗi chứa tên Namespace hiện tại. Là chuỗi rỗng nếu Global ko có Namespace.</p>
 
@@ -294,7 +293,7 @@
 </code></pre></div></div>
 
 <h3 id="aliasingimporting-với-toán-tử-use">
-<a class="anchor" href="#aliasingimporting-v%E1%BB%9Bi-to%C3%A1n-t%E1%BB%AD-use" aria-hidden="true"><span class="octicon octicon-link"></span></a>Aliasing/Importing với toán tử “use”</h3>
+<a class="anchor" href="#aliasingimporting-v%E1%BB%9Bi-to%C3%A1n-t%E1%BB%AD-use" aria-hidden="true" spy-title="Aliasing/Importing với toán tử “use”"><span class="octicon octicon-link"></span></a>Aliasing/Importing với toán tử “use”</h3>
 
 <p>Có thể tạo 3 loại “alias” (cho “class name”, “interface name” và “namespace name”). PHP 5.6+ ta cũng có thể tạo “alias” cho “functions name” và “constants name”. Như vậy là có 5 loại “alias”.</p>
 
@@ -328,7 +327,7 @@
 </code></pre></div></div>
 
 <h3 id="importing-and-dynamic-names">
-<a class="anchor" href="#importing-and-dynamic-names" aria-hidden="true"><span class="octicon octicon-link"></span></a>Importing and dynamic names</h3>
+<a class="anchor" href="#importing-and-dynamic-names" aria-hidden="true" spy-title="Importing and dynamic names"><span class="octicon octicon-link"></span></a>Importing and dynamic names</h3>
 
 <div class="language-php highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="cp">&lt;?php</span>
 <span class="kn">use</span> <span class="nn">My\Full\Classname</span> <span class="k">as</span> <span class="n">Another</span><span class="err">, My\Full\NSname</span><span class="p">;</span>
@@ -340,7 +339,7 @@
 </code></pre></div></div>
 
 <h3 id="importing-and-fully-qualified-names">
-<a class="anchor" href="#importing-and-fully-qualified-names" aria-hidden="true"><span class="octicon octicon-link"></span></a>Importing and fully qualified names</h3>
+<a class="anchor" href="#importing-and-fully-qualified-names" aria-hidden="true" spy-title="Importing and fully qualified names"><span class="octicon octicon-link"></span></a>Importing and fully qualified names</h3>
 
 <div class="language-php highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="cp">&lt;?php</span>
 <span class="kn">use</span> <span class="nn">My\Full\Classname</span> <span class="k">as</span> <span class="n">Another</span><span class="err">, My\Full\NSname</span><span class="p">;</span>
@@ -353,7 +352,7 @@
 </code></pre></div></div>
 
 <h3 id="classes-and-objects">
-<a class="anchor" href="#classes-and-objects" aria-hidden="true"><span class="octicon octicon-link"></span></a>Classes and Objects</h3>
+<a class="anchor" href="#classes-and-objects" aria-hidden="true" spy-title="Classes and Objects"><span class="octicon octicon-link"></span></a>Classes and Objects</h3>
 
 <p>Ví dụ bên dưới sẽ nói về Class, __construct và __destruct, Access Modifiers, Properties, Methods.</p>
 
@@ -415,7 +414,7 @@
 </code></pre></div></div>
 
 <h3 id="inheritance">
-<a class="anchor" href="#inheritance" aria-hidden="true"><span class="octicon octicon-link"></span></a>Inheritance</h3>
+<a class="anchor" href="#inheritance" aria-hidden="true" spy-title="Inheritance"><span class="octicon octicon-link"></span></a>Inheritance</h3>
 
 <p>Lớp con sẽ kế thừa tất cả các thuộc tính và phương thức <strong>public</strong> và <strong>protected</strong> từ lớp cha. Ngoài ra, nó có thể có các thuộc tính và phương thức riêng.</p>
 
@@ -443,12 +442,12 @@
 </code></pre></div></div>
 
 <h3 id="overriding-inherited-methods">
-<a class="anchor" href="#overriding-inherited-methods" aria-hidden="true"><span class="octicon octicon-link"></span></a>Overriding Inherited Methods</h3>
+<a class="anchor" href="#overriding-inherited-methods" aria-hidden="true" spy-title="Overriding Inherited Methods"><span class="octicon octicon-link"></span></a>Overriding Inherited Methods</h3>
 
 <p>Inherited methods có thể ghi đè các methods và contrutor ở child class.</p>
 
 <h3 id="từ-khóa-final">
-<a class="anchor" href="#t%E1%BB%AB-kh%C3%B3a-final" aria-hidden="true"><span class="octicon octicon-link"></span></a>Từ khóa “final”</h3>
+<a class="anchor" href="#t%E1%BB%AB-kh%C3%B3a-final" aria-hidden="true" spy-title="Từ khóa “final”"><span class="octicon octicon-link"></span></a>Từ khóa “final”</h3>
 
 <p>Từ khóa <strong>final</strong> có thể được sử dụng để ngăn chặn kế thừa lớp (nếu dùng cho class) hoặc để ngăn chặn Overriding method (nếu dùng cho method).</p>
 
@@ -478,7 +477,7 @@
 </code></pre></div></div>
 
 <h3 id="class-constants">
-<a class="anchor" href="#class-constants" aria-hidden="true"><span class="octicon octicon-link"></span></a>Class Constants</h3>
+<a class="anchor" href="#class-constants" aria-hidden="true" spy-title="Class Constants"><span class="octicon octicon-link"></span></a>Class Constants</h3>
 
 <p>Sử dụng từ khóa <strong>const</strong> để khai báo một <em>constant</em>. Sử dụng bằng <strong>Class::CONST_NAME</strong> hoặc <strong>self::CONST_NAME</strong> (<em>sử dụng trong class</em>)</p>
 
@@ -495,7 +494,7 @@
 <span class="k">echo</span> <span class="nx">Goodbye</span><span class="o">::</span><span class="na">LEAVING_MESSAGE</span><span class="p">;</span>
 </code></pre></div></div>
 <h3 id="abstract-classes">
-<a class="anchor" href="#abstract-classes" aria-hidden="true"><span class="octicon octicon-link"></span></a>Abstract Classes</h3>
+<a class="anchor" href="#abstract-classes" aria-hidden="true" spy-title="Abstract Classes"><span class="octicon octicon-link"></span></a>Abstract Classes</h3>
 
 <div class="language-php highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="cp">&lt;?php</span>
 <span class="k">abstract</span> <span class="kd">class</span> <span class="nc">ParentClass</span> <span class="p">{</span>
@@ -544,7 +543,7 @@
 </code></pre></div></div>
 
 <h3 id="what-are-traits">
-<a class="anchor" href="#what-are-traits" aria-hidden="true"><span class="octicon octicon-link"></span></a>What are Traits?</h3>
+<a class="anchor" href="#what-are-traits" aria-hidden="true" spy-title="What are Traits?"><span class="octicon octicon-link"></span></a>What are Traits?</h3>
 
 <p>PHP chỉ hỗ trợ đơn kế thừa (một lớp con chỉ có thể kế thừa từ một cha mẹ duy nhất). Muốn “đa kế thừa” thì sử dụng “<strong>Traits</strong>”. <u>Lưu ý</u>: <strong>private</strong> và <strong>protected</strong> <em>access modifier</em> chỉ có thể call bên trong hàm “kế thừa” (sử dụng <strong>Traits</strong>). <code class="highlighter-rouge">CALL: $this-&gt;privateFunction()</code></p>
 
@@ -586,7 +585,7 @@
 </code></pre></div></div>
 
 <h3 id="static-methods--properties">
-<a class="anchor" href="#static-methods--properties" aria-hidden="true"><span class="octicon octicon-link"></span></a>Static Methods &amp; Properties</h3>
+<a class="anchor" href="#static-methods--properties" aria-hidden="true" spy-title="Static Methods &amp; Properties"><span class="octicon octicon-link"></span></a>Static Methods &amp; Properties</h3>
 
 <div class="language-php highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">class</span> <span class="nc">Hi</span> <span class="p">{</span>
   <span class="k">public</span> <span class="k">static</span> <span class="k">function</span> <span class="nf">getName</span><span class="p">()</span> <span class="p">{</span>
