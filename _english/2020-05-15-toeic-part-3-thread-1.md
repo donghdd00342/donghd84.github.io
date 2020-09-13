@@ -79,100 +79,100 @@ Phải làm thế nào nếu không hiểu được được nội dung audio? =
 
 ##### Key Expressions
 
-|	place an order for	|	đặt hàng cho	|	
-|	have the order sent out	|	có đơn đặt hàng được gửi đi	|	
-|	have the items delivered	|	có các mặt hàng được giao	|	
-|	receive an order	|	nhận một đơn đặt hàng	|	
-|	be on back-order	|	được đặt hàng lại	|	
-|	send a replacement	|	gửi một sự thay thế	|	
-|	this coming weekend	|	cuối tuần tới đây	|	
-|	in the middle of next week	|	vào giữa tuần tới	|	
-|	be the end of the day	|	là cuối ngày	|	
-|	until next Friday	|	cho đến thứ sáu tới	|	
+|	**place** *an order* **for**	|	**đặt hàng** *cho*	|	
+|	**have** *the order* **sent out**	|	**có** *đơn đặt hàng* **được gửi đi**	|	
+|	**have** *the items* **delivered**	|	**có** *các mặt hàng* **được giao**	|	
+|	**receive** *an order*	|	**nhận** *một đơn đặt hàng*	|	
+|	**be on** *back-order*	|	**được** *đặt hàng lại*	|	
+|	**send** *a replacement*	|	**gửi** *một sự thay thế*	|	
+|	**this** *coming weekend*	|	*cuối tuần tới đây*	|	
+|	**in** *the middle* **of** *next week*	|	**vào** *giữa tuần tới*	|	
+|	**be** *the end* **of** *the day*	|	*là cuối ngày*	|	
+|	**until** *next Friday*	|	**cho đến** *thứ sáu tới*	|	
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 ##### More Expressions
 
 {% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part3/part3-theory-001.mp3 %}
 
-|	Placing an Order	|	I want to place an order for a dozen ink cartridges.	|	Tôi muốn đặt hàng một tá hộp mực.
-|		|	I want to put in an order for ten boxes of printer paper.	|	Tôi muốn đặt hàng mười hộp giấy máy in.
-|	Talking About Delivery	|	Could you please have the items delivered by the end of this week?	|	Bạn có thể vui lòng nhận các mặt hàng được giao vào cuối tuần này không?
-|		|	I'll make sure to have your order sent out first.	|	Tôi sẽ đảm bảo đơn đặt hàng của bạn được gửi đi trước.
-|		|	We could have it there by 3 this afternoon.	|	Chúng tôi có thể có nó ở đó vào 3 giờ chiều nay.
-|		|	I can have the items at your door witthin an hour.	|	Tôi có thể có các mặt hàng tại cửa của bạn trong vòng một giờ.
-|	Making a Complaint	|	I got the order today, but some of the items are damaged.	|	Tôi đã nhận được đơn đặt hàng hôm nay, nhưng một số mặt hàng bị hư hỏng.
-|		|	The shipment I received is not what I had ordered.	|	Lô hàng tôi nhận được không phải là những gì tôi đã đặt.
-|		|	I need you to send a replacement right away.	|	Tôi cần bạn gửi người thay thế ngay lập tức.
-|	Making an Apology	|	I'm sorry, but we don't have that particular item in stock at the moment.	|	Tôi xin lỗi, nhưng chúng tôi không có mặt hàng cụ thể đó trong kho vào lúc này.
-|		|	I'm sorry, but the items you requested are on back-order.	|	Tôi xin lỗi, nhưng các mặt hàng bạn yêu cầu đang được đặt hàng lại.
-|		|	I'm sorry, but our delivery workers are on strike at the moment.	|	Tôi xin lỗi, nhưng nhân viên giao hàng của chúng tôi đang đình công vào lúc này.
+|	**Placing an Order**	|	*I want* **to place an order for** *a dozen ink cartridges*.	|	*Tôi muốn* **đặt hàng** *một tá hộp mực*.
+|		|	*I want* **to put in an order for** *ten boxes of printer paper*.	|	*Tôi muốn* **đặt hàng** *mười hộp giấy máy in.*
+|	**Talking About Delivery**	|	*Could you please* **have the items delivered** *by the end of this week?*	|	*Bạn có thể vui lòng* **nhận các mặt hàng được giao** *vào cuối tuần này không?*
+|		|	*I'll make sure* **to have your order sent out** *first*.	|	*Tôi sẽ đảm bảo* **đơn đặt hàng của bạn được gửi đi** *trước*.
+|		|	**We could have it there** *by 3 this afternoon*.	|	**Chúng tôi có thể có nó ở đó** *vào 3 giờ chiều nay*.
+|		|	**I can have the items at your door** *witthin an hour*.	|	**Tôi có thể có các mặt hàng tại cửa của bạn** *trong vòng một giờ*.
+|	**Making a Complaint**	|	**I got the order today, but** *some of the items* **are damaged**.	|	**Tôi đã nhận được đơn đặt hàng hôm nay, nhưng** *một số mặt hàng* **bị hư hỏng**.
+|		|	**The shipment I received** *is not what I had ordered*.	|	**Lô hàng tôi nhận được** *không phải là những gì tôi đã đặt*.
+|		|	**I need you** *to send a replacement* **right away**.	|	**Tôi cần** *bạn gửi sản phẩm thay thế* **ngay lập tức**.
+|	**Making an Apology**	|	**I'm sorry, but** *we don't have that particular item in stock* **at the moment**.	|	**Tôi xin lỗi, nhưng** *chúng tôi không có mặt hàng cụ thể đó trong kho* **vào lúc này**.
+|		|	**I'm sorry, but** *the items you requested* **are on back-order**.	|	**Tôi xin lỗi, nhưng** *các mặt hàng bạn yêu cầu* **đang được đặt hàng lại**.
+|		|	**I'm sorry, but** *our delivery workers* **are on strike** *at the moment*.	|	**Tôi xin lỗi, nhưng** *nhân viên giao hàng của chúng tôi đang đình công* **vào lúc này**.
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 ### 02. Why will the man call Ms, Singh's secretary? (Request, Reasons for Refusal, Alternatives)
 
 ##### Key Expressions
 
-|	Do you have a moment to-V ~?	|	Bạn có một chút thời gian để-V ~?	|	
-|	Can I bother you for ~?	|	Tôi có thể làm phiền bạn vì ~?	|	
-|	Could we get together today to-V ~?	|	Hôm nay chúng ta có thể gặp nhau để-V ~?	|	
-|	Would it be possible for us to-V ~?	|	Liệu chúng ta có thể-V ~?	|	
-|	I'm sorry, but S + V ~.	|	Tôi xin lỗi, nhưng S + V ~.	|	
-|	Now is not a good time.	|	Bây giờ không phải là thời điểm tốt.	|	
-|	Today is not good for me because S + V ~.	|	Hôm nay không tốt cho tôi vì S + V ~.	|	
-|	How about we ~?	|	Còn chúng ta thì sao ~?	|	
-|	Why don't you + V ~?	|	Tại sao bạn không + V ~?	|	
-|	I'll come back at a later time when S + V ~.	|	Tôi sẽ quay lại sau khi S + V ~.	|	
+|	**Do you have** *a moment* **to-V** ~?	|	**Bạn có** *một chút thời gian* **để-V** ~?	|	
+|	**Can I bother you** *for* ~?	|	**Tôi có thể làm phiền bạn** *vì* ~?	|	
+|	**Could we** *get together today* **to-V** ~?	|	**Hôm nay chúng ta có thể** *gặp nhau* **để-V** ~?	|	
+|	**Would it** *be possible for us* **to-V** ~?	|	**Liệu chúng ta** *có thể-V* ~?	|	
+|	**I'm sorry, but** *S + V* ~.	|	**Tôi xin lỗi, nhưng** S + V ~.	|	
+|	**Now is not a good time**.	|	**Bây giờ không phải là thời điểm tốt**.	|	
+|	*Today* **is not good for me** *because S + V* ~.	|	*Hôm nay* **không tốt cho tôi** *vì S + V* ~.	|	
+|	**How about** *we ~?*	|	*Chúng ta ~* **thì sao?**	|	
+|	**Why don't you** + *V ~?*	|	**Tại sao bạn không** + *V ~?*	|	
+|	**I'll come back at** *a later time* **when S + V** ~.	|	*Tôi sẽ quay lại* **sau khi S + V** ~.	|	
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 ##### More Expressions
 
 {% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part3/part3-theory-002.mp3 %}
 
-|	Request	|	Do you have a moment to talk about our new project?	|	Bạn có một chút thời gian để nói về dự án mới của chúng tôi?
-|		|	Can I bother you for a quick review of the show?	|	Tôi có thể làm phiền bạn để đánh giá nhanh về chương trình?
-|		|	Could we get together today to discuss our project?	|	Hôm nay chúng ta có thể gặp nhau để thảo luận về dự án của mình không?
-|		|	Would it be possible for us to talk about the project today?	|	Chúng ta có thể nói về dự án ngày hôm nay không?
-|	Reasons for Refusal	|	I'm sorry, but I have to take off because I need to catch a plane at three.	|	Tôi xin lỗi, nhưng tôi phải cất cánh vì tôi cần bắt máy bay lúc ba giờ.
-|		|	Today is not good for me because I am too busy at work.	|	Hôm nay không tốt cho tôi vì tôi quá bận rộn trong công việc.
-|		|	Actually, now is not a good time. I have a meeting in ten minutes.	|	Thực ra, bây giờ không phải là thời điểm tốt. Tôi có một cuộc họp trong mười phút nữa.
-|	Alternatives	|	How about we get together tomorrow morning instead?	|	Thay vào đó, chúng ta sẽ gặp nhau vào sáng mai thì sao?
-|		|	Why don't you swing by my office in the morning?	|	Tại sao bạn không đến văn phòng của tôi vào buổi sáng?
-|		|	I'll come back at a later time when you are less busy.	|	Tôi sẽ quay lại sau khi bạn bớt bận.
+|	**Request**	|	**Do you have** *a moment* **to talk about** *our new project?*	|	**Bạn có** *một chút thời gian* **để nói về** *dự án mới của chúng tôi?*
+|		|	**Can I bother you for** *a quick review* **of** *the show?*	|	**Tôi có thể làm phiền bạn để** *đánh giá nhanh* **về** *chương trình?*
+|		|	**Could we** *get together today* **to discuss** *our project?*	|	**Hôm nay chúng ta có thể** *gặp nhau* **để thảo luận về** *dự án của mình không?*
+|		|	**Would it** *be possible for us* **to talk about** *the project* today?	|	**Chúng ta có thể** *nói về dự án ngày hôm nay không?*
+|	**Reasons for {% tooltip Refusal [(n) 	sự từ khước, sự từ chối] %}**	|	**I'm sorry, but** *I have to take off* **because** *I need to catch a plane at three*.	|	**Tôi xin lỗi, nhưng** *tôi phải cất cánh* **vì** *tôi cần bắt máy bay lúc ba giờ*.
+|		|	*Today* **is not good for me** *because* I am too busy at work.	|	*Hôm nay* **không tốt cho tôi** *vì tôi quá bận rộn* trong công việc.
+|		|	**Actually,** *now is not a good time*. **I have a meeting** *in ten minutes.*	|	**Thực ra,** *bây giờ không phải là thời điểm tốt.* **Tôi có một cuộc họp** *trong mười phút nữa*.
+|	**{% tooltip Alternatives [Giải pháp thay thế %}**	|	**How about** *we get together tomorrow morning* **instead?**	|	**Thay vào đó,** *chúng ta sẽ gặp nhau vào sáng mai thì sao?*
+|		|	**Why don't** *you swing by my office* in the morning?	|	**Tại sao bạn không** *đến văn phòng của tôi vào buổi sáng?*
+|		|	*I'll come back* **at a later time when** *you are less busy*.	|	*Tôi sẽ quay lại* **sau khi** *bạn bớt bận*.
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 ### 03. Who most likely are they? (Checking, Problem, Request, Response, Alternative)
 
 ##### Key Expressions
 
-|	put up the display	|	đưa lên màn hình	|	
-|	look over a resume	|	xem qua sơ yếu lý lịch	|	
-|	fill out a form	|	điền vào một biểu mẫu	|	
-|	be not working properly	|	không hoạt động bình thường	|	
-|	act weirdly	|	hành động kỳ lạ	|	
-|	come and take a look at	|	đến và xem qua	|	
-|	make it to your office	|	đến văn phòng của bạn	|	
-|	run some copies of	|	chạy một số bản sao của	|	
-|	Would you do me a favor and ~?	|	Bạn có thể giúp tôi một việc và ~?	|	
-|	Why don't I ~?	|	Tại sao tôi không ~?	|	
+|	**put up** *the display*	|	**đưa lên** *màn hình*	|	
+|	**look over** *a resume*	|	**xem qua** *sơ yếu lý lịch*	|	
+|	**fill out** *a form*	|	**điền vào** *một biểu mẫu*	|	
+|	**be not working** *properly*	|	**hoạt động** *không bình thường*	|	
+|	**act** *weirdly*	|	**hành động** *kỳ lạ*	|	
+|	*come* **and** *take a look at*	|	*đến* **và** *xem qua*	|	
+|	**make it** *to your office*	|	**đến văn phòng của bạn**	|	
+|	**run** *some copies* **of**	|	**chạy** *một số bản sao* **của**	|	
+|	**Would you** *do me a favor* **and** ~?	|	**Bạn có thể** *giúp tôi một việc* **và** ~?	|	
+|	**Why don't** *I ~?*	|	**Tại sao** *tôi không ~?*	|	
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 ##### More Expressions
 
 {% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part3/part3-theory-003.mp3 %}
 
-|	Checking	|	Have you finished setting up the display window yet?	|	Bạn đã thiết lập xong cửa sổ hiển thị chưa?
-|		|	I am calling to find out if you've had time to look over my resume yet.	|	Tôi đang gọi để tìm hiểu xem bạn đã có thời gian để xem qua sơ yếu lý lịch của tôi chưa.
-|	Problem	|	Mr.Smith, our fax machine is not working properly.	|	Mr.Smith, máy fax của chúng tôi không hoạt động bình thường.
-|		|	Our copier has been acting weirdly all day.	|	Máy photocopy của chúng tôi đã hoạt động kỳ lạ cả ngày.
-|	Request	|	Could you come and take a look at it for us today?	|	Bạn có thể đến xem nó cho chúng tôi ngày hôm nay không?
-|		|	Would you do me a favor and run off some copies of this for me?	|	Bạn có thể giúp tôi một việc và gửi một số bản sao của cái này cho tôi được không?
-|		|	Could you fill out this form, please?	|	Bạn có thể điền vào biểu mẫu này được không?
-|	Response	|	Sorry, but I have not had a chance to work on that yet.	|	Xin lỗi, nhưng tôi chưa có cơ hội để làm việc đó.
-|		|	Of course, I'll have them ready for you before lunch today.	|	Tất nhiên, tôi sẽ chuẩn bị sẵn chúng cho bạn trước bữa trưa hôm nay.
-|		|	I can't make it to your office until after lunch.	|	Tôi không thể đến văn phòng của bạn cho đến sau bữa trưa.
-|	Alternative	|	Okay, why don't I send it to you again right now?	|	Được rồi, tại sao tôi không gửi lại cho bạn ngay bây giờ?
-|		|	Actually, I'll call him myself and give him a piece of my mind.	|	Thực ra, tôi sẽ tự mình gọi cho anh ấy và cho anh ấy một phần tâm trí của mình.
+|	**Checking**	|	**Have** *you* **finished** *setting up the display window* **yet?**	|	**Bạn đã** *thiết lập xong cửa sổ hiển thị* **chưa?**
+|		|	*I am calling* **to find out** *if you've had time* **to look over** *my resume* **yet**.	|	*Tôi đang gọi* **để tìm hiểu xem** *bạn đã có thời gian* **để xem qua** *sơ yếu lý lịch của tôi* **chưa.**
+|	**Problem**	|	Mr.Smith, our fax machine **is not working properly**.	|	Mr.Smith, máy fax của chúng tôi **hoạt động không bình thường**.
+|		|	*Our copier* **has been acting weirdly** *all day*.	|	*Máy photocopy của chúng tôi* **đã hoạt động kỳ lạ** *cả ngày*.
+|	**Request**	|	**Could you** *come* **and** *take a look at it* for us today?	|	*Bạn có thể đến xem nó cho chúng tôi ngày hôm nay không?*
+|		|	**Would** *you do me a favor* **and** *run off some copies of this for me?*	|	**Bạn có thể giúp tôi một việc** *và gửi một số bản sao của cái này cho tôi được không?*
+|		|	*Could you* **fill out** *this form*, **please?**	|	*Bạn có* **thể điền vào biểu mẫu này** *được không?*
+|	**Response**	|	**Sorry, but** *I have not had a chance* **to work on that** *yet*.	|	**Xin lỗi, nhưng** *tôi chưa có cơ hội* **để làm việc đó**.
+|		|	**Of course, I'll** *have them ready for you* **before lunch today**.	|	**Tất nhiên, tôi sẽ** *chuẩn bị sẵn chúng cho bạn* **trước bữa trưa hôm nay**.
+|		|	**I can't make it** *to your office* **until** *after lunch*.	|	**Tôi không thể** *đến văn phòng của bạn* **cho đến** *sau bữa trưa.*
+|	**Alternative**	|	**Okay, why don't** *I send it to you again* **right now?**	|	**Được rồi,** *tại sao tôi không gửi lại cho bạn* **ngay bây giờ?**
+|		|	**Actually**, *I'll call him myself* **and** *give him a piece of my mind*.	|	**Thực ra,** *tôi sẽ tự mình gọi cho anh ấy* **và** *cho anh ấy một phần tâm trí của mình.*
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 ### 04. Where is this conversation most likely taking place? (Opening Statement & Question, Response, Answer & Solution)
