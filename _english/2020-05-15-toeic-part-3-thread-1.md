@@ -79,6 +79,8 @@ Phải làm thế nào nếu không hiểu được được nội dung audio? =
 
 ##### Key Expressions
 
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part3/part3-theory-key-expressions-001.mp3 %}
+
 |	**place** *an order* **for**	|	**đặt hàng** *cho*	|	
 |	**have** *the order* **sent out**	|	**có** *đơn đặt hàng* **được gửi đi**	|	
 |	**have** *the items* **delivered**	|	**có** *các mặt hàng* **được giao**	|	
@@ -113,6 +115,8 @@ Phải làm thế nào nếu không hiểu được được nội dung audio? =
 
 ##### Key Expressions
 
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part3/part3-theory-key-expressions-002.mp3 %}
+
 |	**Do you have** *a moment* **to-V** ~?	|	**Bạn có** *một chút thời gian* **để-V** ~?	|	
 |	**Can I bother you** *for* ~?	|	**Tôi có thể làm phiền bạn** *vì* ~?	|	
 |	**Could we** *get together today* **to-V** ~?	|	**Hôm nay chúng ta có thể** *gặp nhau* **để-V** ~?	|	
@@ -144,6 +148,8 @@ Phải làm thế nào nếu không hiểu được được nội dung audio? =
 ### 03. Who most likely are they? (Checking, Problem, Request, Response, Alternative)
 
 ##### Key Expressions
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part3/part3-theory-key-expressions-003.mp3 %}
 
 |	**put up** *the display*	|	**đưa lên** *màn hình*	|	
 |	**look over** *a resume*	|	**xem qua** *sơ yếu lý lịch*	|	
@@ -179,6 +185,8 @@ Phải làm thế nào nếu không hiểu được được nội dung audio? =
 
 ##### Key Expressions
 
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part3/part3-theory-key-expressions-004.mp3 %}
+
 |	**I wonder if** [what] ~.	|	**Tôi tự hỏi nếu** [cái gì] ~.	|	
 |	**Do you want** (me) **to-V** ~?	|	**Bạn có muốn** (tôi) đến-V ~?	|	
 |	**Could I (please) V** ~?	|	Tôi có thể (làm ơn) V ~?	|	
@@ -213,6 +221,8 @@ Phải làm thế nào nếu không hiểu được được nội dung audio? =
 
 ##### Key Expressions
 
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part3/part3-theory-key-expressions-005.mp3 %}
+
 |	**make** *a mistake*	|	**mắc lỗi**	|	
 |	**have to** *hand-correct*	|	phải **sửa lại bằng tay**	|	
 |	**Couldn't** we just **V** ~?	|	**Chúng ta không thể chỉ** V ~?	|	
@@ -244,6 +254,8 @@ Phải làm thế nào nếu không hiểu được được nội dung audio? =
 ### 06. How will the man most likely get to the meeting? (Question, Response, Follow-up)
 
 ##### Key Expressions
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part3/part3-theory-key-expressions-006.mp3 %}
 
 |	*manage* **to-V**	|	*quản lý* **để-V**	|	
 |	*find something* **by chance**	|	**tình cờ tìm thấy** *thứ gì đó*	|	
@@ -277,6 +289,8 @@ Phải làm thế nào nếu không hiểu được được nội dung audio? =
 
 ##### Key Expressions
 
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part3/part3-theory-key-expressions-007.mp3 %}
+
 |	**I can't believe** S + V ~.	|	**Tôi không thể tin được** S + V ~.	|	
 |	You're not **going to** *believe this*, **but S + V** ~.	|	**Bạn sẽ** *không tin vào điều này*, **nhưng S + V** ~.	|	
 |	*I'm sorry (to tell you this),* **but S + V** ~.	|	*Tôi xin lỗi (phải nói với bạn điều này)*, **nhưng S + V** ~.	|	
@@ -307,6 +321,8 @@ Phải làm thế nào nếu không hiểu được được nội dung audio? =
 ### 08. What does the woman suggest they do? (Question, Response, Suggestion, Follow-up)
 
 ##### Key Expressions
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part3/part3-theory-key-expressions-008.mp3 %}
 
 |	**Have** *you by any chance* **P2 ~?**	|	*Bạn* **có cơ hội P2** *nào không ~?*	|	
 |	S **should [need to-V]** ~.	|	S **nên [cần-V]** ~.	|	
@@ -340,6 +356,8 @@ Phải làm thế nào nếu không hiểu được được nội dung audio? =
 
 ##### Key Expressions
 
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part3/part3-theory-key-expressions-009.mp3 %}
+
 |	**I'm going to-V** ~.	|	**Tôi sẽ-V** ~.	|	
 |	I **have [need] to-V** ~.	|	Tôi **phải [cần] V** ~.	|	
 |	**Why don't you** (just) V ~?	|	**Tại sao bạn không** (chỉ) V ~?	|	
@@ -369,6 +387,8 @@ Phải làm thế nào nếu không hiểu được được nội dung audio? =
 ### 10. Where did the woman learn to cook? (Opening, Response, Follow-up)
 
 ##### Key Expressions
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part3/part3-theory-key-expressions-010.mp3 %}
 
 |	**Where did** *you* + **V** ~?	|	*Bạn* **đã + V ~ ở đâu?**	|	
 |	**Do you know if there is** ~?	|	**Bạn có biết nếu có ~ không?**	|	
@@ -402,6 +422,8 @@ Phải làm thế nào nếu không hiểu được được nội dung audio? =
 
 ##### Key Expressions
 
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part3/part3-theory-key-expressions-011.mp3 %}
+
 |	**Could you let me know** *wh- + S + V* ~	|	**Bạn có thể cho tôi biết** *wh- + S + V* ~	|	
 |	**I'd appreciate it if you could V** ~.	|	**Tôi rất cảm kích nếu bạn có thể V** ~.	|	
 |	**Do you think** *I can [could] V* ~?	|	**Bạn có nghĩ rằng** *tôi có thể [có thể] V* ~?	|	
@@ -432,6 +454,8 @@ Phải làm thế nào nếu không hiểu được được nội dung audio? =
 ### 12. What does Mr. White want? (Opening, Response, Follow-up)
 
 ##### Key Expressions
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part3/part3-theory-key-expressions-012.mp3 %}
 
 |	S **is waiting for you** ~.	|	S **đang đợi bạn** ~.	|	
 |	**Would it be okay if** S + V ~?	|	**Sẽ ổn nếu** S + V ~?	|	
