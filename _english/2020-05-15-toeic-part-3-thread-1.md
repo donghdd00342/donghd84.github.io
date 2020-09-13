@@ -133,10 +133,10 @@ Phải làm thế nào nếu không hiểu được được nội dung audio? =
 |		|	**Can I bother you for** *a quick review* **of** *the show?*	|	**Tôi có thể làm phiền bạn để** *đánh giá nhanh* **về** *chương trình?*
 |		|	**Could we** *get together today* **to discuss** *our project?*	|	**Hôm nay chúng ta có thể** *gặp nhau* **để thảo luận về** *dự án của mình không?*
 |		|	**Would it** *be possible for us* **to talk about** *the project* today?	|	**Chúng ta có thể** *nói về dự án ngày hôm nay không?*
-|	**Reasons for {% tooltip Refusal [(n) 	sự từ khước, sự từ chối] %}**	|	**I'm sorry, but** *I have to take off* **because** *I need to catch a plane at three*.	|	**Tôi xin lỗi, nhưng** *tôi phải cất cánh* **vì** *tôi cần bắt máy bay lúc ba giờ*.
+|	**Reasons for Refusal** (sự từ khước, sự từ chối)	|	**I'm sorry, but** *I have to take off* **because** *I need to catch a plane at three*.	|	**Tôi xin lỗi, nhưng** *tôi phải cất cánh* **vì** *tôi cần bắt máy bay lúc ba giờ*.
 |		|	*Today* **is not good for me** *because* I am too busy at work.	|	*Hôm nay* **không tốt cho tôi** *vì tôi quá bận rộn* trong công việc.
 |		|	**Actually,** *now is not a good time*. **I have a meeting** *in ten minutes.*	|	**Thực ra,** *bây giờ không phải là thời điểm tốt.* **Tôi có một cuộc họp** *trong mười phút nữa*.
-|	**{% tooltip Alternatives [Giải pháp thay thế %}**	|	**How about** *we get together tomorrow morning* **instead?**	|	**Thay vào đó,** *chúng ta sẽ gặp nhau vào sáng mai thì sao?*
+|	**Alternatives** (Giải pháp thay thế)	|	**How about** *we get together tomorrow morning* **instead?**	|	**Thay vào đó,** *chúng ta sẽ gặp nhau vào sáng mai thì sao?*
 |		|	**Why don't** *you swing by my office* in the morning?	|	**Tại sao bạn không** *đến văn phòng của tôi vào buổi sáng?*
 |		|	*I'll come back* **at a later time when** *you are less busy*.	|	*Tôi sẽ quay lại* **sau khi** *bạn bớt bận*.
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
