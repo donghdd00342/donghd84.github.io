@@ -775,3 +775,195 @@ What does the man offer to do? → Người đàn ông đề nghị làm gì?
 | Well, **that's news to me**. *I was expecting* **to have received** *the fax from him* **by this morning**. | Chà, **sao tôi không biết vậy**. *Tôi nghĩ mình phải nhận được fax của anh ta sáng nay*.
 | I know. **I've been trying** *to reach him* **by phone** *but he's not picking up*. **Shall I try** *to contact the office manager*? | Tôi biết. **Tôi đang cố** *gọi cho anh ta nhưng anh ta không nghe máy*. **Tôi có nên** *liên lạc với quản lý không*?
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part3/GTR4G.mp3 %}
+
+Where do the women work? → Người phụ nữ làm việc ở đâu?
+- **(A) At an advertising firm. → Tại một công ty quảng cáo.**
+- (B) At a music studio. → Tại một phòng thu âm.
+- (C) At a manufacturing plant. → Tại một nhà máy sản xuất.
+- (D) At a department store. → Tại một cửa hàng bách hóa.
+
+What does the man say about a product? → Người đàn ông nói gì về sản phẩm?
+- (A) It comes in many colors. → Nó có nhiều màu.
+- (B) It has a warranty. → Nó có một phiếu bảo hành.
+- **(C) It is made of quality materials. → Nó được làm bằng các vật liệu chất lượng.**
+- (D) It is only available online. → Nó chỉ có sẵn trên mạng.
+
+What does Helen recommend doing? → Helen đề nghị làm gì?
+- (A) Increasing a budget. → Tăng một gói ngân sách.
+- **(B) Developing a timeline. → Phát triển một thời gian biểu.**
+- (C) Checking some customer reviews. → Kiểm tra một số đánh giá của khách hàng.
+- (D) Contacting some local suppliers. → Liên hệ với một số nhà cung cấp địa phương.
+
+| Good afternoon, Mr.Thompson. **We at Pellman Advertising** *are excited to work on* **the ad campaign** *for your new wind-resistant umbrella.* | Xin chào, ông Thompson. **Chúng tôi đến từ Pellman Advertising** *rất vui mừng được làm việc trong* **chiến dịch quảng cáo** *cho sản phẩm ô chống gió mới của ông*.
+| **I'm looking forward to** *getting started*. Our umbrella's **made of high-quality materials**. And **we want** *the commercial* **to highlight** *the quality of the umbrella* **to our customers**. | **Tôi rất mong chờ** việc này *được bắt đầu*. Chiếc ô của chúng tôi **làm bằng vật liệu chất lượng cao**. Và **chúng tôi muốn** *quảng cáo* **nhấn mạnh vào** *chất lượng của chiếc ô* **cho khách hàng của chúng tôi**.
+| *Well* **you've come to the right place**. *Let me introduce you* **to our scriptwriter**, Helen. | *Vâng*, **ông đã tìm đúng chỗ**. *Hãy để tôi giới thiệu ông* **với biên kịch của chúng tôi**, Helen.
+| Hi, *it's nice to meet you*. **I have** *several ideas already*, **but before we get to that**, *I suggest* **we develop a timeline**. **It'll keep us on** *schedule* **throughout the whole process**. | *Xin chào, rất vui được gặp ông*. **Tôi đã có** *một vài ý tưởng*, **nhưng trước khi chúng ta đến với điều đó**, *tôi đề nghị* **chúng ta nên lên thời gian biểu cụ thể**. **Nó sẽ giữ cho chúng ta đúng tiến độ** *trong toàn bộ quá trình.*
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part3/EHEag.mp3 %}
+
+What do they need to order? → Họ cần phải đặt hàng cái gì?
+- (A) Computers. → Máy tính.
+- (B) Temporary workers. → Nhân công thời vụ.
+- (C) Order forms. → Đơn đặt hàng.
+- **(D) Office supplies. → Văn phòng phẩm.** Ta thấy ý trong câu "I've compiled a list of office supplies we need to order immediately."
+
+What does the man ask the woman to do? → Người đàn ông yêu cầu người phụ nữ làm gì?
+- (A) Compile a list. → Thu thập một danh sách.
+- (B) Clean the supply closet. → Dọn kho vật dụng.
+- **(C) Read the invoice carefully. → Đọc hóa đơn cẩn thận.** Ta thấy ý trong câu "Please check the supply room before you send out the order, just to be sure I didn't make any mistakes."
+- (D) Write a check. → Viết một tấm séc.
+
+When will the woman place the order? → Khi nào người phụ nữ sẽ đặt hàng?
+- (A) Before noon. → Trước buổi trưa.
+- (B) Tonight. → Tối nay.
+- **(C) Tomorrow. → Ngày mai.** Ta thấy ý trong câu "I'll check the supply closet today and send the order out first thing tomorrow, and I'll make sure all the charges on the invoice are right."
+- (D) Tuesday. → Thứ ba.
+
+| **I've compiled** *a list of office supplies* **we need to order immediately**. | **Tôi đã thu thập** *một danh sách các văn phòng phẩm* **chúng ta cần phải đặt hàng ngay lập tức**.
+| *The order* **should go out** *as soon as possible* **as these are essential items.** | *Đơn đặt hàng* **phải được gửi đi** *nhanh nhất có thể* **bởi những thứ này là vật dụng thiết yếu**.
+| *Don't worry*. I'll **deal with it** *promptly*. | *Đừng lo*. **Tôi sẽ giải quyết việc đó** *nhanh thôi*.
+| *Please check* **the supply room** *before you send out* the order, **just to be sure** *I didn't make any mistakes.* | *Xin hãy kiểm tra* **phòng vật dụng** *trước khi bạn gửi đơn đặt hàng*, **chỉ để chắc rằng** *tôi đã không phạm phải sai lầm nào*.
+| **And when** *you receive the invoice*, **check it over** *carefully* **to make sure** *all charges are* **accurate**. | **Và khi** *bạn nhận được hóa đơn*, **kiểm tra nó** *cẩn thận* **để chắc rằng** *tất cả các khoản phí là* **chính xác**.
+| *Relax.* I'll **take care of everything** *efficiently*. **I'll check** *the supply closet* today **and** *send the order out first thing* tomorrow, and **I'll make sure** *all the charges on the invoice* **are right**. | *Thư giãn đi nào*. Tôi sẽ **lo liệu mọi thứ** *một cách hiệu quả*. **Tôi sẽ kiểm tra** *kho vật dụng hôm nay* **và** *gửi đơn đặt hàng ngay đầu ngày mai*, và **tôi sẽ đảm bảo** *tất cả các khoản phí trong tờ hóa đơn* **là đúng.**
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part3/2NmtE.mp3 %}
+
+What does the man want to do? → Người đàn ông muốn làm gì?
+- (A) Open a bank account. → Mở một tài khoản ngân hàng.
+- (B) Get a new driver's license. → Lấy một bằng lái xe mới.
+- (C) Put his signature on file. → Lưu trữ chữ ký của anh ấy trong giấy tờ.
+- **(D) Cash a check. → Lĩnh tiền bằng séc.** Ta thấy ý trong câu "Since you have an account with this bank, all we require in order to cash your check is a photo ID."
+
+According to the woman, what is required? → Theo người phụ nữ, cái gì được yêu cầu phải có?
+- **(A) A photo ID. → Ảnh thẻ chứng minh.** Ta thấy ý trong câu "Since you have an account with this bank, all we require in order to cash your check is a photo ID."
+- (B) An order form. → Tờ đơn đặt hàng.
+- (C) A large deposit. → Một lượng tiền đặt cọc lớn
+- (D) A signed check. → Một séc đã ký.
+
+When will the man's check clear? → Khi nào thì séc của người đàn ông được chuyển?
+- **(A) In seven days. → Trong bảy ngày.** Ta thấy ý trong câu "It would take just seven business days to clear, then the funds would be available to you."
+- (B) In eight days. → Trong tám ngày.
+- (C) In ten days. → Trong mười ngày.
+- (D) In eleven days. → Trong mười một ngày.
+
+| **Since** *you have an account with this bank*, **all** *we require in order* **to cash your check** *is a photo ID*. {% u Your driver's license %} **would do**. | **Vì** *bạn có một tài khoản trong ngân hàng này*, **tất cả những gì** *chúng tôi yêu cầu* **để lĩnh tiền bằng séc của bạn** *là một tấm hình thẻ chứng minh*. {% u Bằng lái xe của bạn %} **có thể giúp được việc này.**
+| **I've lost** *my driver's license*, **but** *my signature is on file*. **Is that enough?** | **Tôi đã làm mất** *bằng lái xe của tôi*, **nhưng** *chữ ký của tôi đã được lưu trữ lại*. **Vậy đã đủ chưa?**
+| I'm sorry, but **we have to be cautious**. We **can only accept** *a photo ID* **for transaction like this**. | Tôi xin lỗi, nhưng **chúng tôi cần phải thận trọng**. Chúng tôi **chỉ chấp nhận** *thẻ chứng minh* **cho những giao dịch kiểu này**.
+| *You could*, **however**, *deposit* **the check** *in your account*. | **Tuy nhiên**, **bạn có thể gửi tiền séc** *trong tài khoản của bạn*.
+| **It would take just seven business days** {% u to clear %}, **then** *the funds* **would be available** *to you*. | **Sẽ mất chỉ bảy ngày làm việc** {% u để chuyển tiền %}, **và rồi** *số quỹ đó* **sẽ sẵn sàng** *cho bạn*.
+| *All right*, **then**, *I'll do that*. **Then** *I'll go downtown* **and** *get a new driver's license*. | *Vâng*, **vậy thì** *tôi sẽ làm như thế*. **Sau đó** *tôi sẽ xuống dưới trung tâm thành phố* **và** *lấy một bằng lái xe mới.*
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part3/XIe0l.mp3 %}
+
+Where are the speakers? → Người nói đang ở đâu?
+- (A) At a supermarket. → Tại một siêu thị.
+- **(B) At a furniture store. → Tại một cửa hàng nội thất.** Ta thấy ý trong câu "Hi, welcome to Springton Furniture"
+- (C) At a clothing retailer. → Tại một cửa hàng bán lẻ quần áo.
+- (D) At an automobile repair shop. → Tại một cửa hàng sửa chữa ô tô.
+
+Why does Tom ask the woman for help? → Tại sao Tom yêu cầu người phụ nữ giúp đỡ?
+- **(A) A receipt is missing. → Một biên lai bị mất.** Ta thấy ý trong câu "Usually we can only take returns with a receipt"
+- (B) A computer is broken. → Một máy tính bị hỏng.
+- (C) A warranty is expired. → Một bảo hành đã hết hạn.
+- (D) An item is out of stock. → Một mặt hàng đã hết hàng.
+
+What does the woman offer to do for the customer? → Người phụ nữ đề nghị làm gì cho khách hàng?
+- **(A) Give hime in-store credit. → Cung cấp tín dụng trong cửa hàng.** Ta thấy ý trong câu "I'm afraid all I can do is offer you in-store credit"
+- (B) Check a storage room. → Kiểm tra phòng lưu trữ.
+- (C) Call another store. → Gọi một cửa hàng khác.
+- (D) Provide express delivery service. → Cung cấp dịch vụ chuyển phát nhanh.
+
+| *Hi*, **welcome to Springton Furniture**. *I'm Tom*. **How can I help you?** | *Xin chào*, **chào mừng đến với cửa hàng Nội thất Springton**. *Tôi là Tom*. **Tôi có thể giúp bạn thế nào?**
+| *Hi*, **I'd like to return** *a lamp* **I bought here** *a couple of weeks ago*. | *Xin chào*, **tôi muốn trả lại** *một chiếc đèn* *tôi đã mua ở đây* **vài tuần trước**.
+| *OK.* **Do you have** *your receipt* **with you?** | *Được rồi*. **Bạn có** đem *hóa đơn của bạn* **bên mình không?**
+| Uh, no, *actually*. **I must have lost it**. | Uh, không, *thực ra*. **Tôi đã làm mất nó**
+| Hmm. *Usually* **we can only take returns** *with a receipt*. **Let me ask** *my manager*. Excuse me, Sarah? | Hừm. *Thông thường* **chúng tôi chỉ có thể nhận hàng trả lại** *khi có hóa đơn*. **Hãy để tôi hỏi** *người quản lý*. Xin lỗi, Sarah à?
+| *This gentleman* **wants to return** *a lamp*, but **doesn't have** *his receipt*. | *Người đàn ông này* **muốn trả lại** *một chiếc đèn*, nhưng **không có** *hóa đơn của anh ta*.
+| OK. Sir, **I'm afraid** {% u all I can do %} **is offer you** *in-store credit*. **You can use it** *at any of our locations*. | Được rồi. Thưa ông, **tôi e là** {% u tất cả những gì tôi có thể làm %} **là cung cấp cho ông** *tín dụng tại cửa hàng*. **Ông có thể sử dụng nó** *tại bất kỳ các địa điểm nào của chúng tôi.*
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part3/Btyl9.mp3 %}
+
+What will happen if the man sees a specialist without a referral? → Chuyện gì sẽ xảy ra nếu người đàn ông gặp một bác sĩ chuyên khoa mà không có sự giới thiệu?
+- (A) He will be dropped from his health plan. → Anh ấy sẽ sẽ bị bỏ khỏi diện bảo hiểm y tế.
+- (B) He will see only a portion of the bill. → Anh ấy sẽ chỉ thấy được một phần của hóa đơn.
+- (C) He won't be provided with good care. → Anh ấy sẽ không được cung cấp dịch vụ chăm sóc tốt.
+- **(D) He will pay a higher percentage of the cost. → Anh ấy sẽ phải trả phần trăm chi phí cao hơn.** Ta thấy ý trong câu "If you go without your primary provider's referral, you will incur a higher percentage of the total cost."
+
+When can the man get an appointment with his primary care provider? → Khi nào thì người đàn ông có được cuộc gặp với người bác sĩ riêng của anh ấy?
+- (A) In three days. → Trong vòng ba ngày.
+- (B) In ten days. → Trong vòng mười ngày.
+- (C) In two weeks. → Trong vòng hai tuần.
+- **(D) In three weeks. → Trong vòng ba tuần.** Ta thấy ý trong câu "But if I go through my primary care provider first, it will take a lot longer to get to the specialist because the soonest I can get an appointment with the primary care provider is three weeks from now."
+
+What does the woman recommend to the man? → Người phụ nữ gợi ý người đàn ông điều gì?
+- (A) See a specialist soon. → Gặp một bác sĩ chuyên khoa sớm.
+- **(B) See his primary care provider first. → Gặp bác sĩ riêng của anh ấy trước.** Ta thấy ý trong câu "If you follow the usual procedure and see your primary care provider first, you'll save yourself a lot of headaches as well as money."
+- (C) Get a treatment for his headache. → Điều trị cơn đau đầu của anh ấy.
+- (D) Get a special procedure. → Lấy một thủ tục đặc biệt.
+
+| **Does** *the health plan* **allow me** *to see a specialist immediately*, **or** *do I have to see* **my primary care provider** *first*? | *Bảo hiểm y tế* **có cho phép tôi** *gặp một bác sĩ chuyên khoa ngay lập tức*, **hay** *tôi phải gặp* **bác sĩ riêng của tôi trước?**
+| **If you go** *without* **your primary provider's referral**, you **will incur** *a higher percentage of the total cost*. | **Nếu bạn đi** *mà không có* **sự giới thiệu của bác sĩ riêng của bạn**, bạn **sẽ gánh** *một tỉ lệ phần trăm tổng chi phí cao hơn*.
+| **Then** *I would pay* **an increased portion of the bill**. *But* **if I go through** *my primary care provider first*, **it will take** *a lot longer* **to get** *to the specialist* **because** *the soonest* **I can get** *an appointment* **with the primary care provider** *is three weeks from now*. | **Vậy** *tôi sẽ phải trả* **một lượng tiền thanh toán lớn hơn**. *Nhưng* **nếu tôi thông qua** *bác sĩ riêng của tôi trước*, **nó sẽ tốn** *rất nhiều thời gian hơn* **để đến** *với người bác sĩ chuyên khoa* **vì** *thời gian sớm nhất* **mà tôi có thể có** *một cuộc gặp* **với bác sĩ riêng** *là ba tuần kể từ lúc này*.
+| **I still think** *it's your best alternative*. **If you follow** *the usual procedure* **and** *see your primary care provider first*, **you'll save** *yourself* **a lot of headaches** *as well as money*. | **Tôi vẫn nghĩ** *đó là lựa chọn tốt nhất của bạn*. **Nếu bạn theo** *thủ tục thông thường* **và** *gặp người bác sĩ riêng của bạn trước*, **bạn sẽ giảm** *cho bạn* **rất nhiều cơn đau đầu** *cũng như tiền bạc*.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part3/xTTQw.mp3 %}
+
+Why did Mary miss her appointment? → Tại sao Mary bỏ lỡ cuộc hẹn của mình?
+- (A) Her meeting ran late. → Cuộc họp của cô ấy đã kết thúc muộn.
+- **(B) Her bus was delayed. → Xe buýt của cô đã bị hoãn.** Ta thấy ý trong câu "I had an appointment with Dr.Watanabe at two P.M., but I missed it because my bus was delayed"
+- (C) She misread her calendar. → Cô ấy đã đọc sai lịch của mình.
+- (D) She overslept. → Cô đã ngủ quên.
+
+What is mentioned about Dr.Garcia? → Những gì được đề cập về bác sĩ Garcia?
+- (A) He recently won an award. → Gần đây anh ấy đã giành được một giải thưởng.
+- **(B) He is traveling for his job. → Anh ấy đang đi công tác.** Ta thấy ý trong câu "Her partner, Dr.Garcia, is away on a business trip"
+- (C) He writes for a medical journal. → Anh ấy viết bài cho một tạp chí y tế.
+- (D) He is an experienced surgeon. → Anh ấy là một bác sĩ phẫu thuật giàu kinh nghiệm.
+
+What will Dr.Watanabe do next? → Bác sĩ Watanabe sẽ làm gì tiếp theo?
+- (A) Sign a contract. → Ký một hợp đồng.
+- (B) Write a prescription. → Viết một đơn thuốc.
+- (C) Order some lab supplies. → Đặt mua một số vật tư phòng thí nghiệm.
+- **(D) Read a patient file. → Đọc một hồ sơ bệnh nhân.** Ta thấy ý trong câu "Yes, just give me a few minutes to review her file"
+
+| *Hi, I'm Mary Smith*. **I had an appointment** *with Dr.Watanabe* **at two P.M.**, *but I missed it* **because** *my bus was delayed*. **Can she still see me?** | *Xin chào, tôi là Mary Smith*. **Tôi đã có một cuộc hẹn** *với bác sĩ Watanabe* **lúc 2 giờ chiều**, *nhưng tôi đã bỏ lỡ mất* **vì** *xe buýt chỗ tôi đã bị hoãn*. **Liệu tôi còn có thể gặp cô ấy chứ?**
+| **I'll check**, *but she's been busy this week*. **Her partner, Dr.Garcia**, *is away on a business trip*. | **Tôi sẽ kiểm tra**, *nhưng tuần này cô ấy khá bận*. **Đối tác của cô ấy, bác sĩ Garcia**, *đang đi công tác xa*.
+| **So** *she's been seeing* **all of Dr.Garcia's patients** *as well as her own*. Oh, **here she is, Dr.Watanabe?** | **Vì vậy**, *cô ấy phải thăm khám* **tất cả các bệnh nhân của bác sĩ Garcia** *cũng như của cô ấy*. Ồ, **cô ấy đây rồi, bác sĩ Watanabe à?**
+| *Yes, John?* | *Đúng vậy, có chuyện gì không John?*
+| *Mary missed* **her earlier appointment**. *Is there any chance* **you could see her now?** | *Mary đã lỡ hẹn* **của cô ấy trước đó**. *Liệu* **cô có thể gặp cô ấy bây giờ không?**
+| *Yes*, **just give me a few minutes** *to review her file*. | *Được thôi*, **chỉ cần cho tôi vài phút** *để xem lại hồ sơ của cô ấy.*
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part3/IrOLD.mp3 %}
+
+Where is the conversation most likely taking place? → Cuộc hội thoại này rất có thể diễn ra ở đâu?
+- (A) In a library → Thư viện
+- (B) At a bus station → Ga xe lửa
+- (C) In a studio → xưởng phim
+- **(D) At a post office → bưu điện** Ta thấy ý này trong câu "I have a bulk order I need to ship to India. How fast will it get there if I send it express?"
+
+How long will express delivery take? → Gửi tốc hành mất bao lâu?
+- (A) One day → Một ngày
+- (B) Two days → Hai ngày
+- (C) Three days → Ba ngày
+- **(D) Four days → Bốn ngày** Ta thấy ý này trong câu "Express will deliver within four days."
+
+What does the woman say about her order? → Người phụ nữ nói gì về đơn hàng của cô ta?
+- (A) It needs to be delivered tomorrow. → Nó cần được giao đi ngày mai.
+- (B) It requires insurance. → Nó yêu cầu bảo hiểm.
+- **(C) It needn't arrive quickly. → Nó không cần phải đến nơi nhanh.** Ta thấy ý này trong câu "It isn't extremely urgent."
+- (D) It weighs 10 pounds. → Nó nặng 10 pounds.
+
+| Yes, **I have a bulk order** *I need to ship to India*. **How fast** *will it get there* **if I send it express**? | **Tôi có một đơn hàng số lượng lớn** *muốn chuyển đến Ấn Độ*. **Bao lâu** *nó mới đến đó* **nếu tôi gửi tốc hành?**
+| **Express** *will deliver* **within four days**. *That costs* **$2 per pound**. | **Gửi tốc hành** *sẽ được gửi* **trong vòng 4 ngày**. *Phí là* **2 đô mỗi pound.**
+| **If you need it there** *faster*, **you could send it** *overnight*. *That will guarantee* **it arrives by tomorrow**, *but it costs* **$3.50 per pound.** | **Nếu cô muốn** *nhanh hơn*, **cô có thể gửi** *qua đêm*. *Đảm bảo nó* **sẽ tới nơi vào ngày mai**, *nhưng phí là* **3.50 đô mỗi pound**.
+| *I see*. **It isn't extremely urgent**. *Are there* **any cheaper options**? | *Tôi hiểu*. **Nó không gấp lắm**. *Còn* **lựa chọn nào khác rẻ hơn không?**
+| **Regular delivery** is **$1 a pound**. *It will get there* **in 7 to 10 days**. | **Gửi thông thường** là **1 đô mỗi pound**. *Nó sẽ đến nơi* **trong 7 tới 10 ngày**.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
