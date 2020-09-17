@@ -42,7 +42,15 @@ Part 4 sẽ diễn ra như sau:
 
 Như vậy, Part 4 có khá nhiều điểm tương đồng với Part 3. Điểm khác biệt lớn nhất của Part 4 chính là cả đoạn audio bạn sẽ lắng nghe chỉ có một người nói (thay vì 2-3 nhân vật như Part 3).
 
-Hãy take note khi nghe giống Part 3 nhé :)
+<div class="w3-card w3-leftbar w3-border-green w3-pale-green w3-panel w3-padding-16">Đọc trước câu hỏi trước khi đoạn audio bắt đầu để có thể hình dung bài nói chuyện đang nói về cái gì.</div>
+
+Cách đọc trước câu hỏi:
+- Đọc hiểu nghĩa của các câu hỏi (WHO, WHEN, WHAT, WHERE, WHY, HOW...)
+- Hình dung xem nội dung của đoạn hội thoại sắp tới **hướng đến điều gì** *và* **diễn ra ở đâu**
+
+<div class="w3-card w3-leftbar w3-border-green w3-pale-green w3-panel w3-padding-16">Suy luận từ những dữ kiện của câu hỏi. Một số bài dễ có thể suy luận mà không cần nghe audio.</div>
+
+<div class="w3-card w3-leftbar w3-border-green w3-pale-green w3-panel w3-padding-16">Nghe và tô đáp án ngay lập tức nếu có dấu hiệu đáp án đúng</div>
 
 ## Expressions
 
@@ -52,34 +60,34 @@ Hãy take note khi nghe giống Part 3 nhé :)
 
 {% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part4/part4-theory-key-expressions-001.mp3 %}
 
-|	This is your captain [driver] speaking.	|	Đây là đội trưởng của bạn [tài xế] đang nói.	|	
-|	Welcome aboard ~.	|	Chào mừng bạn lên tàu ~.	|	
-|	We have just left [departed] ~.	|	Chúng tôi vừa mới [khởi hành] ~.	|	
-|	Please remain seated.	|	Vui lòng ngồi yên.	|	
-|	Do not take off your seatbelts.	|	Không tháo dây an toàn.	|	
-|	Please stay in your seats until S + V ~.	|	Vui lòng ngồi tại chỗ cho đến S + V ~.	|	
-|	Please remember S + V ~.	|	Hãy nhớ S + V ~.	|	
-|	come to a complete stop	|	đến một điểm dừng hoàn toàn	|	
-|	for your safety	|	vì sự an toàn của bạn	|	
-|	We will V [be V-ing] ~.	|	Chúng tôi sẽ V [be V-ing] ~.	|	
-|	Thank you for flying with us, and we hope S + V ~.	|	Cảm ơn bạn đã bay cùng chúng tôi, và chúng tôi hy vọng S + V ~.	|	
-|	On behalf of all of our crew, I hope S + V ~.	|	Thay mặt cho tất cả các thành viên của chúng tôi, tôi hy vọng S + V ~.	|	
+|	*This is* **your captain** [**driver**] **speaking**.	|	*Đây là* **đội trưởng của bạn** [**tài xế**] **đang nói**.	|	
+|	*Welcome* **aboard** ~.	|	*Chào mừng bạn* **lên tàu** ~.	|	
+|	We **have just left** [**departed**] ~.	|	*Chúng tôi* **vừa mới** [**khởi hành**] ~.	|	
+|	*Please* **remain seated**.	|	*Vui lòng* **ngồi yên**.	|	
+|	**Do not take off** *your seatbelts.*	|	**Không tháo** *dây an toàn*.	|	
+|	*Please* **stay in your seats** {% u until %} S + V ~.	|	*Vui lòng* **ngồi tại chỗ** {% u cho đến %} S + V ~.	|	
+|	**Please remember** {% u S + V %} ~.	|	**Hãy nhớ** {% u S + V %} ~.	|	
+|	*come to* **a complete stop**	|	*đến một* **điểm dừng hoàn toàn (dừng hẳn)**	|	
+|	**for your safety**	|	**vì sự an toàn của bạn**	|	
+|	**We will** {% u V [be V-ing] %} ~.	|	**Chúng tôi sẽ** {% u V [be V-ing] %} ~.	|	
+|	*Thank you* **for flying with us**, *and* **we hope** {% u S + V %} ~.	|	*Cảm ơn bạn* **đã bay cùng chúng tôi**, *và* **chúng tôi hy vọng** {% u S + V %} ~.	|	
+|	**On behalf of** *all of our crew*, **I hope** {% u S + V %} ~.	|	**Thay mặt cho** *tất cả các thành viên của chúng tôi*, **tôi hy vọng** {% u S + V %} ~.	|	
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 ##### More Expressions
 
 {% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part4/part4-theory-more-exp-001.mp3 %}
 
-|	Opening	|	Hello, ladies and gentlemen. This is your captain speaking. Welcome aboard Flight 705.	|	Xin chào quý vị và các bạn. Đây là đội trưởng của bạn đang nói. Chào mừng bạn lên chuyến bay 705.
-|		|	Hello, this is your driver speaking. We have just departed from Toronto Greyhound Station.	|	Xin chào, đây là tài xế của bạn đang nói. Chúng tôi vừa khởi hành từ ga Toronto Greyhound.
-|	Schedule	|	We will be making a stopover in Tokyo for one hour before heading off to our final destination, Seoul, South Korea.	|	Chúng tôi sẽ dừng chân ở Tokyo trong một giờ trước khi khởi hành đến điểm đến cuối cùng của chúng tôi, Seoul, Hàn Quốc.
-|		|	We will make two stops before we reach our final destination, Detroit.	|	Chúng tôi sẽ thực hiện hai điểm dừng trước khi đến điểm đến cuối cùng, Detroit.
-|		|	We should be getting in to Tokyo at about 5:30 in the afternoon local time.	|	Chúng tôi sẽ đến Tokyo vào khoảng 5:30 chiều theo giờ địa phương.
-|	Request	|	We will be making our first stop in ten minutes. Those who are getting off please make sure you have all your valuables with you.	|	Chúng tôi sẽ dừng chân đầu tiên sau 10 phút nữa. Những người đang xuống xe vui lòng đảm bảo rằng bạn có tất cả các vật có giá trị bên mình.
-|		|	For your safety, please stay in your seats until the bus comes to a complete stop.	|	Vì sự an toàn của bạn, vui lòng ngồi trên ghế cho đến khi xe buýt dừng hẳn.
-|		|	Please remember this is a non-smoking flight, and, for your safety, all the washrooms have been equipped with smoke detectors.	|	Xin hãy nhớ rằng đây là chuyến bay không hút thuốc, và để đảm bảo an toàn cho bạn, tất cả các phòng vệ sinh đều được trang bị máy dò khói.
-|	Closing	|	Thank you for flying with us. We hope you have a pleasant stay here in Los Angeles.	|	Cảm ơn bạn đã bay với chúng tôi. Chúng tôi hy vọng bạn có một kỳ nghỉ thú vị ở đây ở Los Angeles.
-|		|	On behalf of all of the Pacific cabin crew, I hope you enjoyed your flight. Thank you.	|	Thay mặt cho toàn thể phi hành đoàn Pacific, tôi hy vọng các bạn thích chuyến bay của mình. Cảm ơn bạn.
+|	**Opening**	|	Hello, ladies and gentlemen. *This is* **your captain** *speaking*. **Welcome** *aboard* **Flight 705**.	|	Xin chào quý vị và các bạn. *Đây là* **đội trưởng của bạn** *đang nói*. **Chào mừng** *bạn lên chuyến bay 705*.
+|		|	Hello, *this is* **your driver** *speaking*. We **have just departed** *from Toronto Greyhound Station*.	|	Xin chào, *đây là* **tài xế của bạn** *đang nói*. Chúng ta **vừa khởi hành** *từ ga Toronto Greyhound.*
+|	**Schedule**	|	*We will be* **making a stopover** *in Tokyo* **for one hour** *before* **heading off** *to our final destination*, Seoul, South Korea.	|	*Chúng ta sẽ* **dừng chân** *ở Tokyo* **trong một giờ** *trước khi* **khởi hành** *đến điểm đến cuối cùng của chúng ta*, Seoul, Hàn Quốc.
+|		|	*We will make* **two stops** *before* **we reach our** *final destination*, Detroit.	|	*Chúng ta sẽ thực hiện* **hai điểm dừng** *trước khi* **đến** *điểm đến cuối cùng*, Detroit.
+|		|	**We should be getting in to** *Tokyo* **at about** 5:30 in the afternoon local time.	|	**Chúng ta sẽ đến** *Tokyo* **vào khoảng** 5:30 chiều theo giờ địa phương.
+|	**Request**	|	**We will be making our** *first stop* **in ten minutes**. *Those who* **are getting off** *please make sure* **you have all your valuables with you**.	|	**Chúng ta sẽ** *dừng chân đầu tiên* **sau 10 phút nữa**. *Những người* **đang xuống xe** *vui lòng đảm bảo rằng* **bạn có tất cả các vật có giá trị bên mình**.
+|		|	**For your safety**, *please stay in your seats* **until the bus comes to a complete stop**.	|	**Vì sự an toàn của bạn**, *vui lòng ngồi trên ghế* **cho đến khi xe buýt dừng hẳn**.
+|		|	**Please remember** *this is a non-smoking flight*, **and**, *for your safety*, **all the washrooms have been equipped** *with smoke detectors*.	|	**Xin hãy nhớ rằng** *đây là chuyến bay không hút thuốc*, **và** *để đảm bảo an toàn cho bạn*, **tất cả các phòng vệ sinh đều được trang bị** *máy dò khói*.
+|	**Closing**	|	*Thank you* **for flying with us**. We **hope you have a pleasant stay here** *in Los Angeles*.	|	*Cảm ơn bạn* **đã bay với chúng tôi**. Chúng tôi **hy vọng bạn có một kỳ nghỉ thú vị ở đây** *ở Los Angeles.*
+|		|	**On behalf of** *all of the Pacific cabin crew*, **I hope you enjoyed your flight**. *Thank you*.	|	**Thay mặt cho** *toàn thể phi hành đoàn Pacific*, **tôi hy vọng các bạn thích chuyến bay của mình**. *Cảm ơn bạn*.
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 ### 02. Recorded Message
@@ -88,32 +96,32 @@ Hãy take note khi nghe giống Part 3 nhé :)
 
 {% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part4/part4-theory-key-expressions-002.mp3 %}
 
-|	This is Sam calling to-V ~.	|	Đây là Sam đang gọi để-V ~.	|	
-|	This is Margaret from General Public Services.	|	Đây là Margaret từ Dịch vụ Công cộng Chung.	|	
-|	You have reached Mike's residence.	|	Bạn đã đến nơi ở của Mike.	|	
-|	Thank you for calling Cinema Paradise.	|	Cảm ơn bạn đã gọi điện đến Cinema Paradise.	|	
-|	My name is Paul Owens, and I'm from Start Limited.	|	Tên tôi là Paul Owens, và tôi đến từ Start Limited.	|	
-|	get information about	|	nhận thông tin về	|	
-|	leave a message	|	để lại lời nhắn	|	
-|	call you back as soon as possible	|	gọi lại cho bạn càng sớm càng tốt	|	
-|	talk to the operator	|	nói chuyện với nhà điều hành	|	
-|	wait on the line	|	chờ máy	|	
+|	*This is* **Sam calling** *to-V* ~.	|	*Đây là* **Sam đang gọi** *để-V* ~.	|	
+|	*This is* **Margaret** *from General Public Services.*	|	*Đây là* **Margaret** *từ Dịch vụ Công cộng Chung*.	|	
+|	**You have reached** *Mike's residence*.	|	**Bạn đã đến** *nơi ở của Mike*.	|	
+|	*Thank you* **for calling Cinema Paradise**.	|	*Cảm ơn bạn* **đã gọi điện đến Cinema Paradise**.	|	
+|	*My name is Paul Owens*, **and** *I'm from Start Limited.*	|	*Tên tôi là Paul Owens*, **và** *tôi đến từ Start Limited*.	|	
+|	**get information** *about*	|	**nhận thông tin** *về*	|	
+|	**leave a message**	|	**để lại lời nhắn**	|	
+|	**call you back** *as soon as possible*	|	**gọi lại cho bạn** *càng sớm càng tốt*	|	
+|	**talk to** *the operator*	|	**nói chuyện với** *nhà điều hành*	|	
+|	**wait** *on the line*	|	**chờ máy**	|	
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 ##### More Expressions
 
 {% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part4/part4-theory-more-exp-002.mp3 %}
 
-|	Greeting	|	Hi, this is Ron from London Life calling about your group insurance.	|	Xin chào, đây là Ron từ London Life gọi điện về bảo hiểm nhóm của bạn.
-|		|	Hi, you have reached John Simpson's desk.	|	Xin chào, bạn đã đến bàn của John Simpson.
-|		|	Thank you for calling, but I am not able to get to the phone at the moment.	|	Cảm ơn bạn đã gọi, nhưng tôi không thể nghe máy vào lúc này.
-|	Reasons for Calling	|	I'm calling to remind you of your appointment with Dr. Jenkins.	|	Tôi đang gọi để nhắc bạn về cuộc hẹn của bạn với Tiến sĩ Jenkins.
-|		|	I'm calling in regard to the message you left on my answering machine this morning.	|	Tôi đang gọi liên quan đến tin nhắn bạn để lại trên máy trả lời của tôi sáng nay.
-|		|	I'm calling because I need to speak to you about our presentation tomorrow.	|	Tôi đang gọi vì tôi cần nói chuyện với bạn về bài thuyết trình của chúng ta vào ngày mai.
-|	Request	|	Please leave a message after the beep.	|	Hãy để lại lời nhắn sau tiếng bíp.
-|		|	If you are calling to get information about our upcoming shows, please press 1 now.	|	Nếu bạn đang gọi để nhận thông tin về các chương trình sắp tới của chúng tôi, vui lòng bấm phím 1 ngay bây giờ.
-|		|	If you have any questions, please give us a call at 736-2031.	|	Nếu bạn có bất kỳ câu hỏi nào, vui lòng gọi cho chúng tôi theo số 736-2031.
-|		|	If you'd please leave your name and phone number, I will call you back as soon as possible.	|	Nếu bạn vui lòng để lại tên và số điện thoại, tôi sẽ gọi lại cho bạn trong thời gian sớm nhất.
+|	**Greeting**	|	Hi, *this is* **Ron** *from London Life* **calling about** *your group insurance*.	|	Xin chào, *đây là* **Ron** *từ London Life* **gọi điện** *về bảo hiểm nhóm của bạn*.
+|		|	Hi, **you have reached** *John Simpson's desk*.	|	Xin chào, **bạn đã đến** *bàn của John Simpson*.
+|		|	*Thank you* **for calling**, but **I am not able** *to get to the phone* **at the moment**.	|	*Cảm ơn bạn* **đã gọi**, nhưng tôi **không thể nghe máy** *vào lúc này*.
+|	**Reasons for Calling**	|	*I'm calling to remind you* **of your appointment** *with Dr. Jenkins*.	|	*Tôi đang gọi để nhắc bạn* **về cuộc hẹn của bạn** *với Tiến sĩ Jenkins*.
+|		|	**I'm calling in regard to** *the message you left* **on my answering machine** *this morning.*	|	**Tôi đang gọi liên quan đến** *tin nhắn bạn để lại* **trên máy trả lời của tôi sáng nay**.
+|		|	**I'm calling** *because I need to speak to you* **about our presentation tomorrow**.	|	**Tôi đang gọi** *vì tôi cần nói chuyện với bạn* **về bài thuyết trình của chúng ta vào ngày mai**.
+|	**Request**	|	**Please leave a message** *after the beep*.	|	**Hãy để lại lời nhắn** *sau tiếng bíp*.
+|		|	**If you are calling to get information** *about our upcoming shows*, **please press 1 now**.	|	**Nếu bạn đang gọi để nhận thông tin** *về các chương trình sắp tới của chúng tôi*, **vui lòng bấm phím 1 ngay bây giờ.**
+|		|	*If you have any questions*, **please give us a call** *at 736-2031*.	|	*Nếu bạn có bất kỳ câu hỏi nào*, **vui lòng gọi cho chúng tôi** *theo số 736-2031*.
+|		|	**If you'd please leave your name and phone number**, *I will call you back* **as soon as possible.**	|	**Nếu bạn vui lòng để lại tên và số điện thoại**, *tôi sẽ gọi lại cho bạn* **trong thời gian sớm nhất**.
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 ### 03. Advertisements

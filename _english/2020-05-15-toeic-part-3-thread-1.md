@@ -73,6 +73,16 @@ Vì bài hội thoại khá dài và cuộc nói chuyện có đến 2, 3 nhân 
 
 Phải làm thế nào nếu không hiểu được được nội dung audio? => Nếu nghe loáng thoáng được các keyword thì hãy **phân tích logic** dựa trên sự liên quan của **các keyword** nghe được và câu hỏi để **loại trừ và tìm câu hỏi đúng.**
 
+<div class="w3-card w3-leftbar w3-border-green w3-pale-green w3-panel w3-padding-16">Đọc trước câu hỏi trước khi đoạn audio bắt đầu để có thể hình dung đoạn hội thoại đang nói về cái gì.</div>
+
+Cách đọc trước câu hỏi:
+- Đọc hiểu nghĩa của các câu hỏi (WHO, WHEN, WHAT, WHERE, WHY, HOW...)
+- Hình dung xem nội dung của đoạn hội thoại sắp tới **hướng đến điều gì** *và* **diễn ra ở đâu**
+
+<div class="w3-card w3-leftbar w3-border-green w3-pale-green w3-panel w3-padding-16">Suy luận từ những dữ kiện của câu hỏi. Một số bài dễ có thể suy luận mà không cần nghe audio.</div>
+
+<div class="w3-card w3-leftbar w3-border-green w3-pale-green w3-panel w3-padding-16">Nghe và tô đáp án ngay lập tức nếu có dấu hiệu đáp án đúng</div>
+
 ## Expressions
 
 ### 01. When will the delivery be sent? (Placing an Order, Talking About Delivery, Making a Complaint, Making an Apology)
@@ -966,4 +976,172 @@ What does the woman say about her order? → Người phụ nữ nói gì về �
 | **If you need it there** *faster*, **you could send it** *overnight*. *That will guarantee* **it arrives by tomorrow**, *but it costs* **$3.50 per pound.** | **Nếu cô muốn** *nhanh hơn*, **cô có thể gửi** *qua đêm*. *Đảm bảo nó* **sẽ tới nơi vào ngày mai**, *nhưng phí là* **3.50 đô mỗi pound**.
 | *I see*. **It isn't extremely urgent**. *Are there* **any cheaper options**? | *Tôi hiểu*. **Nó không gấp lắm**. *Còn* **lựa chọn nào khác rẻ hơn không?**
 | **Regular delivery** is **$1 a pound**. *It will get there* **in 7 to 10 days**. | **Gửi thông thường** là **1 đô mỗi pound**. *Nó sẽ đến nơi* **trong 7 tới 10 ngày**.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part3/0Uic9.mp3 %}
+
+What field do the speakers most likely work in? → Những người nói có khả năng làm việc trong lĩnh vực nào?
+- (A) Engineering. → Kỹ thuật.
+- (B) Accounting. → Kế toán.
+- (C) Education. → Giáo dục.
+- **(D) Advertising. → Quảng cáo.** Ta thấy ý trong câu "I've scheduled this conference call to discuss the advertising campaign we're developing for Denson Hotels - more specifically, the television commercial"
+
+What problem is mentioned? → Vấn đề nào được đề cập?
+- (A) A power cord is missing. → Một dây nguồn bị thiếu.
+- **(B) A microphone is not functioning properly. → Một micro không hoạt động.** Ta thấy ý trong câu "My laptop's microphone must be malfunctioning again"
+- (C) A screen is not displaying an image. → Một màn hình không hiển thị hình ảnh.
+- (D) A battery is not charging. → Một cục pin không sạc được.
+
+What does the woman suggest doing? → Người phụ nữ đề nghị làm gì?
+- **(A) Using a different computer. → Sử dụng một máy tính khác.** Ta thấy ý trong câu "Let's switch to my laptop"
+- (B) Moving to another room. → Chuyển đến phòng khác.
+- (C) Postponing a demonstration. → Hoãn một buổi thuyết trình.
+- (D) Contacting technical support. → Liên hệ hỗ trợ kỹ thuật.
+
+| *Good morning, everyone*. **I've scheduled** *this conference call* **to discuss the advertising campaign** *we're developing* **for Denson Hotels** - **more specifically**, *the television commercial*. | *Chào buổi sáng, mọi người*. **Tôi đã lên lịch** *cuộc gọi hội nghị này* **để thảo luận về chiến dịch quảng cáo** *mà chúng ta đang phát triển* **cho chuỗi khách sạn Denson** - **cụ thể hơn là** *quảng cáo trên truyền hình*.
+| *Holly* **will be sharing** *some preliminary ideas for that*. And **Carter is joining us** *by video call* **from our Tokyo office**. | *Holly* **sẽ chia sẻ** *một số ý tưởng sơ bộ về vấn đề đó*. Và **Carter đang tham gia với chúng ta** *bằng cuộc gọi video* **từ văn phòng Tokyo của chúng ta**.
+| *Carter*, **are you there?** *Hello*. **Yes, I'm here**. *Great. Holly*, **you can begin**. | *Carter,* **bạn có ở đó không?** *Xin chào. Vâng* **tôi đây**. *Tuyệt vời. Holly*, **bạn có thể bắt đầu**.
+| *OK, so* **I've been working on** *developing ideas* **for the commercial** - **you know**, *the concept, the setting, and* - | *OK,* **tôi đã nghiên cứu phát triển** *ý tưởng cho quảng cáo* - **bạn biết đấy**, *ý tưởng, bối cảnh và* -
+| *Hey guys,* **this is Carter again**. *Sorry to interrupt*, **but the audio** *suddenly* **went quiet**. *Were you saying something?* | *Chào các bạn*, **lại là Carter**. *Xin lỗi vì làm gián đoạn*, **nhưng âm thanh đột nhiên mất**. *Hình như bạn vừa nói gì đó phải không?*
+| *Uh-oh*. *My laptop's microphone* **must be malfunctioning again**. | *Ồ không. Micrô của máy tính xách tay của tôi* **lại gặp trục trặc.**
+| **Let's switch to** *my laptop*. **It works well** *for video calls*. | **Hãy chuyển sang** *máy tính xách tay của tôi*. **Nó hoạt động tốt** *với các cuộc gọi video*.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part3/4dbIZ.mp3 %}
+
+What type of business does the man have? → Người đàn ông kinh doanh loại hình gì?
+(A) Driveway repair → Sửa chữa đường lái xe
+**(B) Home construction → Xây dựng nhà ở** Dựa vào nội dung bài hội thoại, ta biết người đàn ông đang kinh doanh việc xây dựng
+(C) Garbage removal → Thải rác
+(D) Electrical installation → Lắp đặt điện
+
+What does the man tell the woman to do? → Người đàn ông kêu người phụ nữ làm gì?
+(A) Get a new estimate → Lấy một bản ước lượng giá mới
+(B) Come by his office → Ghé qua văn phòng của anh ấy
+(C) Call another company → Gọi công ty khác
+**(D) Obtain permits from the city → Lấy giấy phép từ thành phố** Ta thấy ý này trong câu "you're going to need to get a permit from the city planning office"
+
+When did the woman expect the work to be started? → Người phụ nữ mong chờ công việc bắt đầu vào lúc nào?
+(A) Tomorrow → Ngày mai
+(B) Later this week → Trong tuần này
+**(C) Next week → Tuần tới** Ta thấy ý này trong câu "I thought you'd be able to start next week."
+(D) Next month → Tháng tới
+
+| *Good morning.* *This is Conway Contractors*, **here to assist you** *with all your home needs*. **How may I help you?** | *Chào buổi sáng. Đây là Nhà thầu Conway*, **sẽ hỗ trợ** *tất cả nhu cầu nhà ở của bạn*. **Tôi có thể giúp gì cho bạn?**
+| *Hi. My name's Lenora Steele*, and **one of your workers** *came to my house yesterday* **and** *gave me an estimate* **for remodeling my basement**. | *Chào, tôi tên là Lenora Steele*, hôm qua **một trong những nhân viên bên anh** *đến nhà tôi* **và** *đưa tôi bản ước lượng* **giá tu sửa tầng hầm**.
+| *I'd like to accept* **the bid** and **have the work done**, but *I'm not sure* **how to proceed**. | *Tôi muốn chấp nhận* **thầu này** và *hoàn tất công việc*, nhưng *tôi không rõ* **cách thức tiến hành**.
+| **Let's see**. *Steele...oh*, **here it is**. *Well*, **you're going to need** *to get* **a permit from the city planning office** *for the construction work*, and *from City Light* **for the electrical wiring**. | **Xem nào**. *Steele…* **ồ đây rồi**. **Cô sẽ cần** *có giấy phép* **từ văn phòng quy hoạch thành phố**, *và từ* *Công ty Chiếu sáng Thành phố* **về lắp đặt dây điện**.
+| **Then** *you can call us back* **to schedule it** *for some time* **next month**. | **Sau đó** *cô gọi lại cho chúng tôi* **để lên kế hoạch** *cho tháng tới*.
+| OK, but *I thought* **you'd be able to start** *next week*. **At least**, *that's what* **your worker told me**. | OK, nhưng *tôi nghĩ* **các anh nên bắt đầu** *vào tuần tới*. **Ít nhất**, *đó là điều* **nhân viên bên anh nói với tôi**.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part3/sHYXf.mp3 %}
+
+What is the man working on? → Người đàn ông đang làm việc liên quan đến gì?
+- (A) The contract with the new partners → Hợp đồng với các đối tác mới
+- (B) The staff directory and phone listing → Lên danh sách nhân viên và danh bạ điện thoại
+- (C) The business trip expense report → Báo cáo chi phí cho chuyến công tác
+- **(D) The company's financial data → Dữ liệu tài chính của công ty** Ta thấy ý này trong câu "We need to have the slides and the financial reports ready"
+
+Where will the woman be on Wednesday? → Người phụ nữ sẽ ở đâu vào ngày thứ tư?
+- (A) In her office → Ở văn phòng làm việc của cô ấy
+- (B) At home → Ở nhà
+- **(C) On a business trip → Đang đi công tác** Ta thấy ý này trong câu "I have meetings all day on Tuesday. Then I'm away on business and return on Thursday."
+- (D) At an employee orientation → Tại buổi định hướng nhiên viên
+
+When will the woman help the man? → Khi nào thì người phụ nữ sẽ giúp người đàn ông?
+- (A) Tuesday → Thứ ba
+- (B) Wednesday → Thứ tư
+- (C) Thursday → Thứ năm
+- **(D) Friday → Thứ sáu** Ta thấy ý này trong câu "I'll have my secretary, Jill, send you an e-mail to confirm a time for Friday."
+
+| **Do you think** *you could come* **by on Tuesday** *to give me a hand* **preparing a presentation?** | **Bạn có nghĩ** *bạn có thể ghé qua* **vào thứ ba** *để giúp tôi* **chuẩn bị bài thuyết trình không?**
+| **We need to have** *the slides* **and** *the financial reports* **ready by next week** *for the partnership meeting.* | **Chúng ta cần phải có** *phần hình ảnh thuyết trình* **và** *báo cáo tài chính* **sẵn sàng trước tuần sau** *cho buổi họp thành viên*.
+| *Unfortunately*, **I have meetings all day** *on Tuesday*. **Then** *I'm away on business* **and** *return on Thursday*. **Would Friday work for you**? | *Xui vậy*, **tôi họp cả ngày** *thứ ba*. **Sau đó** *tôi phải đi công tác* **và** *trở về vào thứ năm*. **Thứ sáu có được cho bạn không?**
+| **That should be okay**. But **we'll have to work** *all weekend on it* **to try and get it finished** *by Monday*. | **Được mà**. Nhưng bù lại **chúng ta phải làm việc** *cả cuối tuần* **để ráng hoàn thiện nó** *trước thứ hai*.
+| **I'll have** *my secretary*, Jill, *send you an e-mail* **to confirm a time for Friday**. | **Tôi sẽ nói với thư ký của tôi**, Jill, *gởi thư điện tử xác nhận lại* **thời gian gặp hôm thứ sáu**.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part3/3BMkV.mp3 %}
+
+Why is the woman thinking of taking a trip to Chicago? → Tại sao người phụ nữ nghĩ về việc đi một chuyến đến Chicago?
+- **(A) To persuade someone. → Để thuyết phục một người.** Ta thấy ý trong đoạn "I think I am going to have to take a trip to Chicago tomorrow to talk to Mr. Shaw in person. I spoke to him on the phone just now, but he didn't sound too convinced about our offer."
+- (B) To take a vacation. → Để đi nghỉ mát.
+- (C) To visit a friend. → Để thăm một người bạn.
+- (D) To accept an offer. → Để chấp nhận một đề nghị.
+
+How will the woman travel? → Người phụ nữ sẽ đi bằng gì?
+- **(A) By bus. → Bằng xe buýt.** Ta thấy ý trong câu "By the way, can you tell me where the bus station is?"
+- (B) By subway. → Bằng tàu điện ngầm.
+- (C) By car. → Bằng xe hơi.
+- (D) On foot. → Đi bộ.
+
+What will the man do for the woman? → Người đàn ông sẽ làm gì cho người phụ nữ?
+- (A) Buy her a ticket. → Mua vé cho cô ấy.
+- **(B) Give her a lift to the station. → Cho cô ấy đi nhờ đến trạm.** Ta thấy ý trong câu "Tell you what; I will come and pick you up tomorrow and drive you to the station."
+- (C) go with her on her trip. → Đi cùng với cô ấy trong chuyến đi.
+- (D) Talk to her client. → Nói chuyện với khách hàng của cô ấy.
+
+| *I think* **I am going to have** *to take a trip* **to Chicago tomorrow** *to talk to Mr. Shaw* **in person**. | *Tôi nghĩ* **tôi sẽ đi một chuyến** *đến Chicago vào ngày mai* **để nói chuyện** *trực tiếp với ông Shaw*.
+| **I spoke to him on the phone just now**, but **he didn't sound** *too convinced* **about our offer**. | **Tôi mới vừa nói với ông ấy qua điện thoại xong**, nhưng **ông ấy không có vẻ** *quá thuyết phục* **với lời đề nghị của chúng ta.**
+| *Well*, **if that's what's needed**, *then you'd better get yourself over there*. | *Ừ thì*, **nếu đó là điều cần làm**, *thì bạn tốt hơn nên đi đến đó đi.*
+| **I don't think** *I have to stress* **the fact to you again** *how important it is* **that we get this deal**. | **Tôi không nghĩ là** *tôi phải nhấn mạnh với bạn lần nữa* **tầm quan trọng của việc** *chúng ta có được thỏa thuận này*.
+| **Please go out of your way** *to get this contract*. **In other words**, *do what you have to do to get it*. | **Xin hãy cố gắng hết sức** *để có được hợp đồng này*. **Nói cách khác**, *làm tất cả những gì bạn cần làm để có nó*.
+| *Yes sir*, **I will try my best**. *By the way*, **can you tell me** *where the bus station is*? | *Vâng thưa ngài*, **tôi sẽ cố hết sức**. *Nhân tiện*, **ngài có thể nói cho tôi** *trạm xe buýt ở đâu không*?
+| **I have never gone out of the city**, *and* **I am not sure** *where the bus station is*. | **Tôi chưa bao giờ ra ngoài thành phố**, *và* **tôi không chắc** *trạm xe buýt ở đâu*.
+| **You've got to be kidding me**. *Tell you what*; **I will come and pick you up** tomorrow **and drive you** *to the station*. | **Bạn đùa với tôi rồi**. *Nói cho bạn biết*; **tôi sẽ đến và đón bạn** vào ngày mai **và chở bạn** *đến trạm*.
+| **It's the least I can do** *to get your day* **started off right**. | **Đó là điều tối thiểu tôi có thể làm** *để giúp bạn* **bắt đầu một ngày tốt đẹp.**
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part3/aWT5R.mp3 %}
+
+Who usually prepares the man's taxes? → Ai là người thường chuẩn bị khai thuế cho người đàn ông?
+- (A) The man. → Người đàn ông.
+- **(B) His wife. → Vợ anh ta.** Ta thấy ý trong câu "...so **my spouse** usually files our taxes. She does all the calculations and fills out the forms."
+- (C) The man and his wife together. → Người đàn ông cùng vợ anh ta.
+- (D) An accountant. → Một kế toán viên.
+
+When did the man file his taxes last year? → Khi nào thì người đàn ông mới kê khai thuế của anh ta vào năm ngoái?
+- (A) One month before the deadline. → Một tháng trước hạn chót.
+- (B) Two months before the deadline. → Hai tháng trước hạn chót.
+- (C) One month after the deadline. → Một tháng sau hạn chót.
+- **(D) Two months after the deadline. → Hai tháng sau hạn chót.** Ta thấy ý trong câu "Last year was the one time I filed our taxes, but I did it two months after the deadline and had to pay a huge penalty."
+
+What is the penalty for missing the deadline? → Đâu là mức phạt cho việc trễ hạn chót?
+- (A) 1 percent. → 1 phần trăm.
+- (B) 2 percent. → 2 phần trăm.
+- (C) 9 percent. → 9 phần trăm.
+- **(D) 10 percent. → 10 phần trăm.** Ta thấy ý trong câu "Yes, the penalty is ten percent of what you owe, isn't it?"
+
+| **I'm no good** *with numbers*, so **my spouse** *usually* **files our taxes**. *She does* **all the calculations** *and* **fills out the forms**. | **Tôi không hề giỏi** *với những con số*, nên **vợ tôi** *thường là người* **khai thuế cho chúng tôi**. *Cô ấy làm* **tất cả những việc tính toán** *và* **điền vào đơn**.
+| *You're lucky*, **then**. I usually **have to pay** *an accountant* **to prepare my taxes**, and **even then** *I sometimes miss the deadline*. | **Vậy thì** *bạn may mắn đấy*. Tôi thường **phải trả tiền** *cho một kế toán viên* **để thu xếp thuế của tôi**, và **thậm chí** *tôi vẫn đôi khi lỡ hạn chót.*
+| **I did that once**. *Last year* **was the one time** *I filed our taxes*, but *I did it* **two months after the deadline** *and* **had to pay a huge penalty**. | **Tôi đã từng bị như thế một lần**. *Năm ngoái* **là một lần mà** *tôi kê khai thuế cho chúng tôi*, nhưng *tôi đã làm nó* **hai tháng sau hạn chót** *và* **phải trả một lượng lớn tiền phạt.**
+| Yes, **the penalty** *is ten percent* **of what you owe**, *isn't it?* **I guess that's why** *your spouse is the one* **who usually files your taxes**. | Vâng, **mức phạt** *là mười phần trăm* **của phần tiền bạn nợ**, *phải vậy không?* **Tôi đoán đó là lý do tại sao** *vợ bạn là người* **thường kê khai thuế của bạn**.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part3/EeG8I.mp3 %}
+
+How did the man find this place? → Làm cách nào người đàn ông tìm thấy nơi này?
+- (A) He read about it in a newspaper ad. → Anh ấy đọc về nó trong một quảng cáo trên tạp chí.
+- (B) He heard about it through a person he knows. → Anh ấy nghe nói về nó thông qua một người quen.
+- (C) It was referred to him by a real estate agent. → Nó được giới thiệu đến cho anh ta bởi một người môi giới bất động sản.
+- **(D) He saw an ad posted on the window. → Anh ấy thấy một quảng cáo dán ở cửa sổ.** Ta thấy ý trong câu "Hi, I saw for-rent sign on your lobby window."
+
+According to the woman, what is special about this place? → Dựa theo người phụ nữ, điều gì đặc biệt về nơi này?
+- (A) It is conveniently located. → Nó tọa lạc tại nơi thuận lợi.
+- (B) It has many rooms. → Nó có nhiều phòng.
+- **(C) It is very affordable. → Nó có giá rất phải chăng.** Ta thấy ý trong câu "In fact, I don't think you will be able to find a place like this for a price this low anywhere near here."
+- (D) It opens with a special key. → Nó mở với một chìa khóa đặc biệt.
+
+What will the woman do first? → Người phụ nữ sẽ làm gì trước?
+- (A) Remove the for-rent sign. → Bỏ tấm bảng cho thuê.
+- (B) Walk up to the fifth floor. → Đi bộ lên tầng năm.
+- (C) Bring out a lease agreement. → Mang ra hợp đồng cho thuê.
+- **(D) Retrieve the key. → Lấy chìa khóa.** Ta thấy ý trong câu "Just give me a second, and I will get the key."
+
+| Hi, I saw **for-rent sign** *on your lobby window*. **I am looking for** *a two-bedroom apartment*. | Chào, tôi thấy **bảng cho thuê** *trước cửa sổ sảnh chờ của bạn*. **Tôi đang tìm** *một căn hộ hai phòng ngủ*.
+| **You are in luck**. *We do have* **an available apartment for rent** *on the fifth floor*, and I think **it may be exactly what you're looking for**. | **Bạn đã gặp may rồi**. *Chúng tôi có* **một phòng sẵn sàng cho thuê** *ở tầng năm*, và tôi nghĩ **nó có thể chính xác là những gì bạn đang tìm kiếm**.
+| *It has two bedrooms*, **and** *the rent is quite reasonable*. **In fact**, *I don't think* **you will be able to find** *a place like this* **for a price this low** *anywhere near here*. | *Nó có hai phòng ngủ*, **và** *giá thuê khá là phải chăng*. **Thực tế**, *tôi không nghĩ* **bạn sẽ tìm thấy** *nơi nào như thế này* **với giá rẻ như vậy** *ở bất cứ đâu quanh đây.*
+| Really? *Do you think* **I can take a look at it** *right now*? **I really am in a hurry** *to find a place*. | Thật chứ? *Bạn có nghĩ là* **tôi có thể xem qua nó** *ngay lúc này?* **Tôi thật sự đang gấp rút** *tìm một chỗ ở*.
+| Of course. **Just give me a second**, and **I will get the key**. | Dĩ nhiên. **Chờ tôi một giây**, và **tôi sẽ đi lấy chìa khóa**.
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
