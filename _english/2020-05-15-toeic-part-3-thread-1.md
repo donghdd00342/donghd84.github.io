@@ -1010,22 +1010,22 @@ What does the woman suggest doing? → Người phụ nữ đề nghị làm gì
 {% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part3/4dbIZ.mp3 %}
 
 What type of business does the man have? → Người đàn ông kinh doanh loại hình gì?
-(A) Driveway repair → Sửa chữa đường lái xe
-**(B) Home construction → Xây dựng nhà ở** Dựa vào nội dung bài hội thoại, ta biết người đàn ông đang kinh doanh việc xây dựng
-(C) Garbage removal → Thải rác
-(D) Electrical installation → Lắp đặt điện
+- (A) Driveway repair → Sửa chữa đường lái xe
+- **(B) Home construction → Xây dựng nhà ở** Dựa vào nội dung bài hội thoại, ta biết người đàn ông đang kinh doanh việc xây dựng
+- (C) Garbage removal → Thải rác
+- (D) Electrical installation → Lắp đặt điện
 
 What does the man tell the woman to do? → Người đàn ông kêu người phụ nữ làm gì?
-(A) Get a new estimate → Lấy một bản ước lượng giá mới
-(B) Come by his office → Ghé qua văn phòng của anh ấy
-(C) Call another company → Gọi công ty khác
-**(D) Obtain permits from the city → Lấy giấy phép từ thành phố** Ta thấy ý này trong câu "you're going to need to get a permit from the city planning office"
+- (A) Get a new estimate → Lấy một bản ước lượng giá mới
+- (B) Come by his office → Ghé qua văn phòng của anh ấy
+- (C) Call another company → Gọi công ty khác
+- **(D) Obtain permits from the city → Lấy giấy phép từ thành phố** Ta thấy ý này trong câu "you're going to need to get a permit from the city planning office"
 
 When did the woman expect the work to be started? → Người phụ nữ mong chờ công việc bắt đầu vào lúc nào?
-(A) Tomorrow → Ngày mai
-(B) Later this week → Trong tuần này
-**(C) Next week → Tuần tới** Ta thấy ý này trong câu "I thought you'd be able to start next week."
-(D) Next month → Tháng tới
+- (A) Tomorrow → Ngày mai
+- (B) Later this week → Trong tuần này
+- **(C) Next week → Tuần tới** Ta thấy ý này trong câu "I thought you'd be able to start next week."
+- (D) Next month → Tháng tới
 
 | *Good morning.* *This is Conway Contractors*, **here to assist you** *with all your home needs*. **How may I help you?** | *Chào buổi sáng. Đây là Nhà thầu Conway*, **sẽ hỗ trợ** *tất cả nhu cầu nhà ở của bạn*. **Tôi có thể giúp gì cho bạn?**
 | *Hi. My name's Lenora Steele*, and **one of your workers** *came to my house yesterday* **and** *gave me an estimate* **for remodeling my basement**. | *Chào, tôi tên là Lenora Steele*, hôm qua **một trong những nhân viên bên anh** *đến nhà tôi* **và** *đưa tôi bản ước lượng* **giá tu sửa tầng hầm**.
