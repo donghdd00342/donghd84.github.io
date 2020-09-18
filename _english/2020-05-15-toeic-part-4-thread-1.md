@@ -130,28 +130,28 @@ Cách đọc trước câu hỏi:
 
 {% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part4/part4-theory-key-expressions-003.mp3 %}
 
-|	be the place for you	|	là nơi dành cho bạn	|	
-|	take advantage of	|	tận dụng lợi thế của	|	
-|	can [will] help you with	|	có thể [sẽ] giúp bạn với	|	
-|	have a special sale	|	có một đợt giảm giá đặc biệt	|	
-|	not miss out on	|	không bỏ lỡ	|	
-|	come down to	|	đi xuống	|	
-|	call our toll-free number	|	gọi số điện thoại miễn phí của chúng tôi	|	
-|	be located on	|	được đặt trên	|	
+|	**be the place** *for you*	|	**là nơi** *dành cho bạn*	|	
+|	**take advantage of**	|	**tận dụng lợi thế của**	|	
+|	**can [will] help** *you* **with**	|	**có thể [sẽ] giúp** *bạn* **với**	|	
+|	*have* **a special sale**	|	*có* **một đợt giảm giá đặc biệt**	|	
+|	*not* **miss out on**	|	*không* **bỏ lỡ**	|	
+|	*come* **down to**	|	**đi xuống**	|	
+|	**call our** *toll-free number*	|	**gọi** *số điện thoại miễn phí* của chúng tôi	|	
+|	**be located on**	|	**được đặt trên**	|	
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 ##### More Expressions
 
 {% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part4/part4-theory-more-exp-003.mp3 %}
 
-|	Opening	|	If you are thinking of improving your language skills, George Brown institute is the place for you.	|	Nếu bạn đang nghĩ đến việc cải thiện kỹ năng ngôn ngữ của mình, học viện George Brown là nơi dành cho bạn.
-|		|	Mark's Warehouse will finally open its doors this Saturday, so we are inviting everyone to join us at our grand opening sale.	|	Mark's Warehouse cuối cùng cũng sẽ mở cửa vào thứ Bảy tuần này, vì vậy chúng tôi mời mọi người đến tham gia với chúng tôi trong đợt bán hàng khai trương.
-|	Details	|	Everything in the store will be on sale, with up to 50% savings on shirts, coats, and pants.	|	Tất cả mọi thứ trong cửa hàng sẽ được giảm giá, với mức tiết kiệm lên đến 50% cho áo sơ mi, áo khoác và quần.
-|		|	The events include a foreign movie festival, a traditional food contest, and exhibits of artistic works.	|	Các sự kiện bao gồm liên hoan phim nước ngoài, cuộc thi ẩm thực truyền thống và triển lãm các tác phẩm nghệ thuật.
-|		|	With over 100 years of experience, we have all the expertise and the know-how to get you the loan you need at the best rate.	|	Với hơn 100 năm kinh nghiệm, chúng tôi có tất cả chuyên môn và bí quyết để giúp bạn có được khoản vay bạn cần với tỷ lệ tốt nhất.
-|	Closing	|	Come visit Office Depot, located on Seminole Drive, We are open 7 days a week till 5 p.m.	|	Hãy đến thăm Office Depot, nằm trên đường Seminole Drive, Chúng tôi mở cửa 7 ngày một tuần cho đến 5 giờ chiều.
-|		|	Chaplin's Electronics Store is located on 5th Street, five minutes away from City Hall.	|	Cửa hàng Điện tử của Chaplin nằm trên Đường số 5, cách Tòa thị chính năm phút đi xe.
-|		|	Our quality of service surpasses expectations every time. So, if you need something painted, pick up the phone, and call us at 736-2031.	|	Chất lượng dịch vụ của chúng tôi vượt qua sự mong đợi mọi lúc. Vì vậy, nếu bạn cần sơn gì đó, hãy nhấc máy lên và gọi cho chúng tôi theo số 736-2031.
+|	**Opening**	|	**If you are thinking of** *improving your language skills*, George Brown **institute** is **the place for you**.	|	**Nếu bạn đang nghĩ đến việc** *cải thiện kỹ năng ngôn ngữ của mình*, **học viện** George Brown là **nơi dành cho bạn**.
+|		|	*Mark's Warehouse* will **finally** open its doors this Saturday, so we are inviting everyone **to join us** at our **grand opening sale**.	|	*Mark's Warehouse* **cuối cùng** cũng sẽ mở cửa vào thứ Bảy tuần này, vì vậy chúng tôi mời mọi người đến **tham gia với chúng tôi** trong đợt **bán hàng khai trương**.
+|	**Details**	|	Everything in the store will **be on sale**, with **up to 50% savings** *on shirts, coats, and pants*.	|	Tất cả mọi thứ trong cửa hàng **sẽ được giảm giá**, với **mức tiết kiệm lên đến 50%** cho áo sơ mi, áo khoác và quần.
+|		|	*The events* **include** *a foreign movie festival*, a traditional food **contest**, and **exhibits of artistic works**.	|	*Các sự kiện* **bao gồm** liên hoan phim nước ngoài, **cuộc thi** ẩm thực truyền thống và **triển lãm các tác phẩm nghệ thuật**.
+|		|	**With over 100 years of experience**, we have all **the expertise** and **the know-how** *to get you* **the loan you need** *at the best rate*.	|	**Với hơn 100 năm kinh nghiệm**, chúng tôi có tất cả **chuyên môn** và **bí quyết** *để giúp bạn có được* **khoản vay bạn cần** *với tỷ lệ tốt nhất*.
+|	**Closing**	|	**Come visit** *Office Depot*, **located on** *Seminole Drive*, **We are open 7 days a week till 5 p.m**.	|	**Hãy đến thăm** *Office Depot*, **nằm trên** *đường Seminole Drive*, **Chúng tôi mở cửa 7 ngày một tuần cho đến 5 giờ chiều**.
+|		|	*Chaplin's Electronics Store* **is located on** *5th Street*, five minutes **away from** City Hall.	|	*Cửa hàng Điện tử của Chaplin* **nằm trên** *Đường số 5*, **cách** *Tòa thị chính năm phút đi xe.*
+|		|	*Our quality of service* **surpasses expectations** *every time*. So, **if you need** *something painted*, **pick up the phone, and call us** *at 736-2031*.	|	*Chất lượng dịch vụ của chúng tôi* **vượt qua sự mong đợi** *mọi lúc*. Vì vậy, **nếu bạn cần** *sơn gì đó*, **hãy nhấc máy lên và gọi cho chúng tôi** *theo số 736-2031*.
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 ### 04. Company Announcements
@@ -160,30 +160,30 @@ Cách đọc trước câu hỏi:
 
 {% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part4/part4-theory-key-expressions-004.mp3 %}
 
-|	The first thing I want to say is about ~.	|	Điều đầu tiên tôi muốn nói là về ~.	|	
-|	The first topic on today's agenda is ~.	|	Chủ đề đầu tiên trong chương trình nghị sự hôm nay là ~.	|	
-|	I am going to start today's announcement with the news about ~.	|	Tôi sẽ bắt đầu thông báo ngày hôm nay với tin tức về ~.	|	
-|	Please be informed that S + V ~.	|	Xin được thông báo rằng S + V ~.	|	
-|	We are planning to-V ~.	|	Chúng tôi đang lên kế hoạch để-V ~.	|	
-|	Thank you, and we apologize for ~.	|	Cảm ơn bạn, và chúng tôi xin lỗi vì ~.	|	
-|	If you'd like further information, please speak to ~.	|	Nếu bạn muốn biết thêm thông tin, vui lòng nói chuyện với ~.	|	
-|	Those with questions, please ask ~.	|	Những người có câu hỏi, xin vui lòng hỏi ~.	|	
+|	*The first thing* {% u I want to say %} **is about** ~.	|	*Điều đầu tiên* {% u tôi muốn nói %} **là về** ~.	|	
+|	**The first topic** *on today's agenda* **is** ~.	|	**Chủ đề đầu tiên** *trong chương trình nghị sự hôm nay* **là** ~.	|	
+|	**I am going to start** *today's announcement* **with the news about** ~.	|	**Tôi sẽ bắt đầu** *thông báo ngày hôm nay* **với tin tức về** ~.	|	
+|	**Please be informed that** {% u S + V %} ~.	|	**Xin được thông báo rằng** {% u S + V %} ~.	|	
+|	*We are planning* **to-V** ~.	|	*Chúng tôi đang lên kế hoạch* **để-V** ~.	|	
+|	*Thank you*, and **we apologize for** ~.	|	*Cảm ơn bạn*, và **chúng tôi xin lỗi vì** ~.	|	
+|	**If you'd like further information**, *please* **speak to** ~.	|	**Nếu bạn muốn biết thêm thông tin**, *vui lòng* **nói chuyện với** ~.	|	
+|	**Those** *with questions*, **please ask** ~.	|	**Những người** *có câu hỏi*, **xin vui lòng hỏi** ~.	|	
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 ##### More Expressions
 
 {% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part4/part4-theory-more-exp-004.mp3 %}
 
-|	Opening	|	Good morning, staff. The first topic on today's agenda is the fire alarm system.	|	Chào buổi sáng, nhân viên. Chủ đề đầu tiên trong chương trình nghị sự hôm nay là hệ thống báo cháy.
-|		|	Good afternoon, everyone. Please be informed that we will be having a company outing this Saturday at Thompson Park.	|	Chào mọi người. Xin được thông báo rằng chúng tôi sẽ có một chuyến đi chơi cùng công ty vào thứ Bảy tuần này tại Thompson Park.
-|		|	I am going to start today's announcement with the news about the retirement of Mr. Sam Jackson.	|	Tôi sẽ bắt đầu thông báo ngày hôm nay với tin tức về việc nghỉ hưu của ông Sam Jackson.
-|	Details	|	Some people from Waterworks Maintenance will be here tomorrow afternoon to upgrade the system.	|	Một số người từ Bảo trì công trình nước sẽ có mặt ở đây vào chiều mai để nâng cấp hệ thống.
-|		|	This day will be filled with games, sporting events, and lots and lots of prizes.	|	Ngày này sẽ tràn ngập các trò chơi, sự kiện thể thao và rất nhiều giải thưởng.
-|		|	In his honor, we are planning to hold a farewell party this Friday at the Horizontal Hotel.	|	Để vinh danh anh ấy, chúng tôi dự định tổ chức một bữa tiệc chia tay vào thứ Sáu tuần này tại khách sạn Horizontal.
-|	Request	|	If you have an appointment booked with a client tomorrow afternoon, please try to reschedule it for another time.	|	Nếu bạn đã đặt lịch hẹn với khách hàng vào chiều mai, vui lòng sắp xếp lại lịch hẹn vào lúc khác.
-|		|	The last thing I want to mention is that everyone should say something nice to Sam before he leaves the company this Friday.	|	Điều cuối cùng tôi muốn đề cập là mọi người nên nói điều gì đó tốt đẹp với Sam trước khi anh ấy rời công ty vào thứ sáu tuần này.
-|	Closing	|	Thank you, and we apologize for not making this announcement at an earlier time.	|	Cảm ơn bạn và chúng tôi xin lỗi vì đã không đưa ra thông báo này sớm hơn.
-|		|	If you'd like further information, please speak to Sarah, the receptionist.	|	Nếu bạn muốn biết thêm thông tin, vui lòng nói chuyện với Sarah, lễ tân.
+|	**Opening**	|	Good morning, staff. **The first topic** {% u on today's agenda %} **is the fire alarm system**.	|	Chào buổi sáng, nhân viên. **Chủ đề đầu tiên** {% u trong chương trình nghị sự hôm nay %} **là hệ thống báo cháy.**
+|		|	Good afternoon, everyone. **Please be informed that** *we will be having* **a company outing** *this Saturday at Thompson Park*.	|	Chào mọi người. **Xin được thông báo rằng** *chúng tôi sẽ có* **một chuyến đi chơi cùng công ty** *vào thứ Bảy tuần này tại Thompson Park.*
+|		|	**I am going to start** *today's announcement* **with the news about** *the retirement of Mr. Sam Jackson*.	|	**Tôi sẽ bắt đầu** *thông báo ngày hôm nay* **với tin tức về việc** *nghỉ hưu của ông Sam Jackson.*
+|	**Details**	|	*Some people* **from** *Waterworks Maintenance* **will be here** *tomorrow afternoon* **to upgrade the system**.	|	*Một số người* **từ** *Bảo trì công trình nước* **sẽ có mặt ở đây** *vào chiều mai* **để nâng cấp hệ thống**.
+|		|	*This day* **will be filled** *with games, sporting events, and* **lots and lots of** *prizes*.	|	*Ngày này* **sẽ tràn ngập** các trò chơi, sự kiện thể thao và **rất nhiều** *giải thưởng*.
+|		|	**In his honor**, *we are planning to hold* **a farewell party** this Friday at the Horizontal Hotel.	|	**Để vinh danh anh ấy**, *chúng tôi dự định tổ chức* **một bữa tiệc chia tay** vào thứ Sáu tuần này tại khách sạn Horizontal.
+|	**Request**	|	*If you have* **an appointment booked** *with a client* tomorrow afternoon, **please try to reschedule it** {% u for another time %}.	|	*Nếu bạn đã* **đặt lịch hẹn** *với khách hàng* vào chiều mai, **vui lòng sắp xếp lại lịch hẹn** {% u vào lúc khác %}.
+|		|	**The last thing I want to mention** *is that* everyone **should say something nice** *to Sam* **before he leaves the company** this Friday.	|	**Điều cuối cùng tôi muốn đề cập** *là* mọi người **nên nói điều gì đó tốt đẹp** *với Sam* **trước khi anh ấy rời công ty** vào thứ sáu tuần này.
+|	**Closing**	|	Thank you, and **we apologize for not making** *this announcement* **at an earlier time**.	|	Cảm ơn bạn và **chúng tôi xin lỗi vì đã không đưa ra** *thông báo này* **sớm hơn**.
+|		|	**If you'd like further information**, *please* **speak to** Sarah, the receptionist.	|	**Nếu bạn muốn biết thêm thông tin**, *vui lòng* **nói chuyện với** Sarah, lễ tân.
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 ### 05. Announcement - Life Situations
@@ -192,33 +192,33 @@ Cách đọc trước câu hỏi:
 
 {% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part4/part4-theory-key-expressions-005.mp3 %}
 
-|	May I have your attention, please?	|	Tôi có thể để ý của bạn được không?	|	
-|	Could I have a moment of your time, please?	|	Làm ơn cho tôi một chút thời gian được không?	|	
-|	Just a reminder to everyone that S + V ~.	|	Chỉ là một lời nhắc nhở cho mọi người rằng S + V ~.	|	
-|	will be closed off for [reason] for [time]	|	sẽ đóng cửa vì [lý do] trong [thời gian]	|	
-|	will be closing in [time]	|	sẽ đóng cửa sau [time]	|	
-|	be being delayed due to ~	|	bị trì hoãn do ~	|	
-|	Would S please V ~?	|	Xin vui lòng V ~?	|	
-|	Those with questions, please V ~.	|	Ai có thắc mắc, vui lòng V ~.	|	
-|	We will keep you updated as S + V ~.	|	Chúng tôi sẽ cập nhật cho bạn S + V ~.	|	
-|	We sincerely apologize for ~.	|	Chúng tôi thành thật xin lỗi vì ~.	|	
-|	We are very sorry for ~.	|	Chúng tôi rất xin lỗi vì ~.	|	
+|	**May I have your attention**, *please*?	|	**Tôi có thể để ý của bạn được không?**	|	
+|	**Could I have a moment of your time**, *please*?	|	**Làm ơn cho tôi một chút thời gian được không?**	|	
+|	**Just a reminder** *to everyone that* **S + V** ~.	|	**Chỉ là một lời nhắc nhở** *cho mọi người rằng* **S + V** ~.	|	
+|	**will be closed off** *for [reason]* **for [time]**	|	**sẽ đóng cửa** *vì [lý do]* **trong [thời gian]**	|	
+|	**will be closing** *in [time]*	|	**sẽ đóng cửa** *sau [time]*	|	
+|	*be being delayed* **due to** ~	|	*bị trì hoãn* **do** ~	|	
+|	**Would S please V** ~?	|	**Xin vui lòng V** ~?	|	
+|	**Those** *with questions*, **please V** ~.	|	**Ai** *có thắc mắc*, **vui lòng V** ~.	|	
+|	**We will keep you updated** {% u as S + V %} ~.	|	**Chúng tôi sẽ cập nhật cho bạn** {% u S + V %} ~.	|	
+|	We **sincerely apologize** *for* ~.	|	Chúng tôi **thành thật xin lỗi** *vì* ~.	|	
+|	We are **very sorry** *for* ~.	|	Chúng tôi **rất xin lỗi** *vì* ~.	|	
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 ##### More Expressions
 
 {% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part4/part4-theory-more-exp-005.mp3 %}
 
-|	Greeting	|	May I have your attention for a minute, please?	|	Làm ơn cho tôi chú ý một phút được không?
-|		|	Could I have a moment of your time, please?	|	Làm ơn cho tôi một chút thời gian được không?
-|	Details	|	The library will be closing in fifteen minutes.	|	Thư viện sẽ đóng cửa sau mười lăm phút nữa.
-|		|	A car is parked in front of a loading dock, and it is blocking the delivery trucks from entering.	|	Một chiếc ô tô đang đậu trước bến bốc hàng và nó chặn không cho xe tải giao hàng vào.
-|		|	Flight 399 to Boston has been delayed due to a severe snowstorm.	|	Chuyến bay 399 đến Boston đã bị hoãn do bão tuyết nghiêm trọng.
-|	Request	|	Would the owner of the car please remove it at once?	|	Chủ sở hữu của chiếc xe vui lòng tháo nó ra ngay lập tức?
-|		|	Please keep your eyes on the monitors located throughout the airport for updates.	|	Hãy chú ý theo dõi các màn hình đặt khắp sân bay để cập nhật.
-|		|	Those with questions, please consult any of our employees at the information desks.	|	Những ai có thắc mắc, vui lòng tham khảo ý kiến của bất kỳ nhân viên nào của chúng tôi tại quầy thông tin.
-|	Closing	|	We sincerely apologize for the inconvenience and appreciate your understanding.	|	Chúng tôi chân thành xin lỗi vì sự bất tiện này và đánh giá cao sự thông cảm của bạn.
-|		|	We are very sorry for the inconvenience this may cause you.	|	Chúng tôi rất xin lỗi vì sự bất tiện này có thể gây ra cho bạn.
+|	**Greeting**	|	**May I have your attention** {% u for a minute %}, please?	|	**Làm ơn cho tôi chú ý** {% u một phút %} được không?
+|		|	*Could I have* **a moment of your time**, please?	|	*Làm ơn cho tôi* **một chút thời gian được không?**
+|	**Details**	|	The library **will be closing** *in fifteen minutes*.	|	Thư viện **sẽ đóng cửa** *sau mười lăm phút nữa*.
+|		|	A car is parked in front of **a loading dock**, and **it is blocking the delivery trucks** *from entering*.	|	Một chiếc ô tô đang đậu trước **bến bốc hàng** và **nó chặn không cho xe tải giao hàng** *vào*.
+|		|	*Flight 399 to Boston* **has been delayed** {% u due to %} **a severe snowstorm**.	|	*Chuyến bay 399 đến Boston* **đã bị hoãn** *do bão tuyết nghiêm trọng*.
+|	**Request**	|	Would **the owner of the car** please remove it **at once**?	|	**Chủ sở hữu của chiếc xe** vui lòng tháo nó ra **ngay lập tức**?
+|		|	Please **keep your eyes on** *the monitors* **located throughout** the airport **for updates**.	|	Hãy **chú ý theo dõi** *các màn hình* **đặt khắp** sân bay **để cập nhật**.
+|		|	**Those** *with questions*, please **consult** *any of our employees* **at the information desks**.	|	**Những ai** *có thắc mắc*, vui lòng **tham khảo ý kiến** *của bất kỳ nhân viên nào của chúng tôi* **tại quầy thông tin**.
+|	**Closing**	|	We **sincerely apologize for** *the inconvenience* and **appreciate your understanding**.	|	Chúng tôi **chân thành xin lỗi vì** *sự bất tiện này* và **đánh giá cao sự thông cảm của bạn**.
+|		|	We are **very sorry for** *the inconvenience* **this may cause you**.	|	Chúng tôi **rất xin lỗi vì** *sự bất tiện này* *có thể gây ra cho bạn*.
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 ### 06. News Reports
@@ -227,30 +227,30 @@ Cách đọc trước câu hỏi:
 
 {% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part4/part4-theory-key-expressions-006.mp3 %}
 
-|	In sports news today, S + has (been) P2 ~.	|	Trong bản tin thể thao hôm nay, S + đã (được) P2 ~.	|	
-|	In today's top news, S + has (been) P2 ~.	|	Trong tin tức hàng đầu hôm nay, S + đã (được) P2 ~.	|	
-|	Now, to our local news, S + will be V-ing ~.	|	Bây giờ, với tin tức địa phương của chúng tôi, S + sẽ là V-ing ~.	|	
-|	S + has made an announcement that S + V ~.	|	S + đã đưa ra thông báo rằng S + V ~.	|	
-|	The proposed plan to-V ~ has (been) P2 ~.	|	Phương án đề xuất để-V ~ đã (được) P2 ~.	|	
-|	Now, here is [a name] with the details of the story.	|	Bây giờ, đây là [tên] với các chi tiết của câu chuyện.	|	
-|	This has been [a name] with the sports.	|	Đây đã là [một cái tên] với các môn thể thao.	|	
-|	I'll be back in an hour with more updates.	|	Tôi sẽ quay lại sau một giờ với nhiều thông tin cập nhật hơn.	|	
-|	We'll be right back after these commercial breaks.	|	Chúng tôi sẽ trở lại ngay sau khi nghỉ thương mại.	|	
+|	**In sports news today**, *S + has (been) P2* ~.	|	**Trong bản tin thể thao hôm nay**, *S + đã (được) P2* ~.	|	
+|	**In today's top news**, *S + has (been) P2* ~.	|	**Trong tin tức hàng đầu hôm nay**, *S + đã (được) P2* ~.	|	
+|	Now, **to our local news**, *S + will be V-ing* ~.	|	Bây giờ, **với tin tức địa phương của chúng tôi**, *S + sẽ là V-ing* ~.	|	
+|	S + **has made an announcement** {% u that S + V %} ~.	|	S + **đã đưa ra thông báo** {% u rằng S + V %} ~.	|	
+|	*The proposed* **plan to-V** ~ *has (been) P2* ~.	|	*Phương án đề xuất* **để-V** ~ *đã (được) P2* ~.	|	
+|	Now, **here is** [a name] **with the details of the story**.	|	Bây giờ, **đây là** [tên] **với các chi tiết của câu chuyện**.	|	
+|	**This has been** [a name] **with the sports**.	|	**Đây đã là** [một cái tên] **với các môn thể thao**.	|	
+|	**I'll be back** *in an hour* **with more updates**.	|	**Tôi sẽ quay lại** *sau một giờ* **với nhiều thông tin cập nhật hơn**.	|	
+|	**We'll be right back** *after* **these commercial breaks**.	|	**Chúng tôi sẽ trở lại ngay** *sau khi* nghỉ thương mại.	|	
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 ##### More Expressions
 
 {% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part4/part4-theory-more-exp-006.mp3 %}
 
-|	Opening	|	In sports news today, the Detroit Tigers signed a multi-million dollar contract with left-handed pitcher Jim Gonzales.	|	Trong bản tin thể thao hôm nay, Detroit Tigers đã ký hợp đồng trị giá hàng triệu USD với tay ném trái Jim Gonzales.
-|		|	Now, to our local news. City officials made an announcement this morning that they will build a new highway in the northern part of the city.	|	Bây giờ, đến tin tức địa phương của chúng tôi. Các quan chức thành phố đã đưa ra thông báo sáng nay rằng họ sẽ xây dựng một đường cao tốc mới ở phần phía bắc của thành phố.
-|		|	In today's top news, the construction of the city's new art gallery will begin this month and will last until the end of the year.	|	Trong tin tức hàng đầu hôm nay, việc xây dựng phòng trưng bày nghệ thuật mới của thành phố sẽ bắt đầu vào tháng này và sẽ kéo dài đến cuối năm.
-|	Details	|	This left-hander is one of the most invigorating players to watch. He throws a tailing fastball at speeds of up to 100 mph.	|	Cầu thủ thuận tay trái này là một trong những cầu thủ được tiếp thêm sinh lực đáng xem nhất. Anh ta ném một quả bóng nhanh có đuôi với tốc độ lên đến 100 dặm / giờ.
-|		|	The plan is to reduce the traffic congestion that has been a problem for those who commute to work every day.	|	Kế hoạch này nhằm giảm ùn tắc giao thông vốn là vấn đề đối với những người đi làm hàng ngày.
-|		|	The new gallery is going to be bigger with more space for new exhibitions. Now, here is Sam Jones with the details of the story.	|	Phòng trưng bày mới sẽ lớn hơn với nhiều không gian hơn cho các cuộc triển lãm mới. Bây giờ, đây là Sam Jones với các chi tiết của câu chuyện.
-|	Closing	|	This has been Ron Willis with the sports. I'll be back in an hour with more updates.	|	Đây là Ron Willis với các môn thể thao. Tôi sẽ quay lại sau một giờ với nhiều thông tin cập nhật hơn.
-|		|	For those who are planning to commute, we advise you to use public transportation.	|	Đối với những người dự định đi làm, chúng tôi khuyên bạn nên sử dụng phương tiện công cộng.
-|		|	The grand opening of the new gallery is expected to take place in early January of next year.	|	Sự kiện khai trương phòng trưng bày mới dự kiến ​​sẽ diễn ra vào đầu tháng Giêng năm sau.
+|	**Opening**	|	**In sports news today**, *the Detroit Tigers* **signed** *a multi-million dollar contract* **with** *left-handed pitcher Jim Gonzales*.	|	**Trong bản tin thể thao hôm nay**, *Detroit Tigers* **đã ký** *hợp đồng trị giá hàng triệu USD* **với** *tay ném trái Jim Gonzales*.
+|		|	Now, **to our local news**. *City officials* **made an announcement** this morning **that** *they will build* **a new highway** in the northern part of the city.	|	Bây giờ, **đến tin tức địa phương của chúng tôi**. *Các quan chức thành phố* **đã đưa ra thông báo** sáng nay **rằng** *họ sẽ xây dựng* **một đường cao tốc mới** ở phần phía bắc của thành phố.
+|		|	**In today's top news**, *the construction of the city's new art gallery* **will begin** this month **and will last until** *the end of the year*.	|	**Trong tin tức hàng đầu hôm nay**, *việc xây dựng phòng trưng bày nghệ thuật mới của thành phố* **sẽ bắt đầu** vào tháng này **và sẽ kéo dài đến** *cuối năm*.
+|	**Details**	|	**This left-hander** is one of the most **invigorating players** to watch. He throws **a tailing fastball** at **speeds of up to 100 mph**.	|	**Cầu thủ thuận tay trái này** là một trong những cầu thủ được **tiếp thêm sinh lực** đáng xem nhất. Anh ta ném **một quả bóng** nhanh có đuôi với **tốc độ lên đến 100 dặm / giờ**.
+|		|	*The plan* **is to reduce** *the traffic congestion* **that has been a problem** for **those who commute** *to work every day*.	|	*Kế hoạch này* **nhằm giảm** *ùn tắc giao thông* **vốn là vấn đề** đối với **những người đi làm hàng ngày**.
+|		|	*The new gallery* **is going to be bigger** *with more space* **for new exhibitions**. Now, **here is** Sam Jones **with the details of the story**.	|	*Phòng trưng bày mới* **sẽ lớn hơn** *với nhiều không gian hơn* **cho các cuộc triển lãm mới**. Bây giờ, **đây là** Sam Jones **với các chi tiết của câu chuyện**.
+|	**Closing**	|	**This has been Ron Willis** *with the sports*. **I'll be back** *in an hour* **with more updates**.	|	**Đây là Ron Willis** *với các môn thể thao*. **Tôi sẽ quay lại** *sau một giờ* **với nhiều thông tin cập nhật hơn.**
+|		|	**For those** *who are planning* **to commute**, **we advise you** *to use public transportation*.	|	**Đối với những người** *dự định* **đi làm**, **chúng tôi khuyên bạn nên** *sử dụng phương tiện công cộng.*
+|		|	*The grand opening of the new gallery* **is expected to take place** *in early January of next year*.	|	*Sự kiện khai trương phòng trưng bày mới* **dự kiến ​​sẽ diễn ra** *vào đầu tháng Giêng năm sau.*
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 ### 07. Weather Reports
