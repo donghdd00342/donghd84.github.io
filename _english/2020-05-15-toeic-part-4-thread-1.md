@@ -339,16 +339,16 @@ Cách đọc trước câu hỏi:
 
 {% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part4/part4-theory-more-exp-009.mp3 %}
 
-|	**Opening**	|	I'd like to thank you for taking the time out of your busy schedules to attend today.	|	Tôi muốn cảm ơn bạn đã dành thời gian ra khỏi lịch trình bận rộn của mình để tham dự ngày hôm nay.
-|		|	I'm honored to be standing before you today to accept this award on behalf of our team.	|	Tôi rất vinh dự được đứng trước các bạn hôm nay để thay mặt cho nhóm của chúng tôi nhận giải thưởng này.
-|		|	Dear attendees, it is with great pleasure that I get to introduce our keynote speaker for today's talk, Dr. Linda Smith.	|	Kính thưa những người tham dự, rất vui khi tôi được giới thiệu diễn giả chính của chúng ta cho buổi nói chuyện hôm nay, Tiến sĩ Linda Smith.
-|	**Details**	|	As you know, we have been enjoying the success our company has been going through during the last two years.	|	Như bạn đã biết, chúng tôi đang tận hưởng những thành công mà công ty chúng tôi đã trải qua trong suốt hai năm qua.
-|		|	The next thing on our agenda is to welcome our new recruit.	|	Điều tiếp theo trong chương trình làm việc của chúng tôi là chào đón tân binh.
-|		|	I'd like to mention that this would not have been possible without the complete dedication of our researchers.	|	Tôi muốn đề cập rằng điều này sẽ không thể thực hiện được nếu không có sự cống hiến hoàn toàn của các nhà nghiên cứu của chúng tôi.
-|		|	She is here today to talk to us about the contents of her latest book, entitled "The Behavior of Infants.".	|	Cô ấy ở đây hôm nay để nói chuyện với chúng tôi về nội dung của cuốn sách mới nhất của cô ấy, có tựa đề "Hành vi của trẻ sơ sinh".
-|	**Closing**	|	The hard work you have been doing is going to pay off at the end of the year. Let's all keep our heads up and work toward that goal.	|	Công việc khó khăn bạn đang làm sẽ được đền đáp vào cuối năm. Tất cả chúng ta hãy ngẩng cao đầu và làm việc hướng tới mục tiêu đó.
-|		|	I'd like for all of you to continue your great work, and I hope that we will break even more records this year.	|	Tôi muốn tất cả các bạn tiếp tục công việc tuyệt vời của mình và tôi hy vọng rằng chúng ta sẽ phá vỡ nhiều kỷ lục hơn nữa trong năm nay.
-|		|	Now, would you all join me in giving her a big hand to welcome her onto the stage?	|	Nào, các bạn cùng tôi giơ tay chào đón cô ấy lên sân khấu nhé?
+|	**Opening**	|	**I'd like to thank you for** *taking the time out of* **your busy schedules** *to attend today*.	|	**Tôi muốn cảm ơn bạn đã** *dành thời gian ra khỏi* **lịch trình bận rộn của mình** *để tham dự ngày hôm nay*.
+|		|	**I'm honored to be standing before you today** *to accept this award* **on behalf of** *our team*.	|	**Tôi rất vinh dự được đứng trước các bạn hôm nay** *để thay mặt cho nhóm của chúng tôi* **nhận giải thưởng này**.
+|		|	*Dear attendees*, **it is with great pleasure** *that I get* **to introduce our keynote speaker** *for today's talk, Dr. Linda Smith*.	|	*Kính thưa những người tham dự*, **rất vui khi** *tôi được* **giới thiệu diễn giả chính của chúng ta** *cho buổi nói chuyện hôm nay, Tiến sĩ Linda Smith*.
+|	**Details**	|	**As you know**, *we have been enjoying* **the success our company** *has been going* **through** *during the last two years*.	|	**Như bạn đã biết**, *chúng tôi đang tận hưởng* **những thành công mà công ty chúng tôi** *đã* **trải qua** *trong suốt hai năm qua.*
+|		|	**The next thing on our agenda** *is* **to welcome our new recruit**.	|	**Điều tiếp theo trong chương trình làm việc của chúng tôi** *là* **chào đón tân binh**.
+|		|	**I'd like to mention that** *this would not have been possible* **without the complete dedication** *of our researchers*.	|	**Tôi muốn đề cập rằng** *điều này sẽ không thể thực hiện được* **nếu không có sự cống hiến hoàn toàn** *của các nhà nghiên cứu của chúng tôi*.
+|		|	**She is here today** *to talk to us* **about the contents of** *her latest book*, **entitled** "*The Behavior of Infants*.".	|	**Cô ấy ở đây hôm nay** *để nói chuyện với chúng tôi* *về nội dung của* *cuốn sách mới nhất của cô ấy*, **có tựa đề** "*Hành vi của trẻ sơ sinh*".
+|	**Closing**	|	**The hard work** *you have been doing* **is going to pay off** *at the end of the year*. **Let's all keep our heads up** and **work toward that goal**.	|	**Công việc khó khăn** *bạn đang làm* **sẽ được đền đáp** *vào cuối năm*. **Tất cả chúng ta hãy ngẩng cao đầu** và **làm việc hướng tới mục tiêu đó**.
+|		|	**I'd like for** *all of you* **to continue your great work**, and **I hope that** *we will break even more records* this year.	|	**Tôi muốn** *tất cả các bạn* **tiếp tục công việc tuyệt vời của mình** và **tôi hy vọng rằng** *chúng ta sẽ phá vỡ nhiều kỷ lục hơn nữa* trong năm nay.
+|		|	Now, **would you all join me in** *giving her a big hand* **to welcome her** *onto the stage*?	|	Nào, **các bạn cùng tôi** *giơ tay* **chào đón cô ấy** *lên sân khấu nhé?*
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 ### 10. Talk
@@ -357,32 +357,32 @@ Cách đọc trước câu hỏi:
 
 {% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part4/part4-theory-key-expressions-010.mp3 %}
 
-|	I've asked you to gather here today to-V ~.	|	Tôi đã yêu cầu bạn tụ tập ở đây hôm nay để-V ~.	|	
-|	You are all here today because S + V ~.	|	Tất cả các bạn ở đây hôm nay vì S + V ~.	|	
-|	I called you all here because S + V ~.	|	Tôi đã gọi tất cả các bạn ở đây vì S + V ~.	|	
-|	As you all know, we will be V-ing ~.	|	Như các bạn đã biết, chúng ta sẽ là V-ing ~.	|	
-|	I would like (you) to -V ~.	|	Tôi muốn (bạn) đến -V ~.	|	
-|	Would you please V ~?	|	Bạn vui lòng V ~?	|	
-|	Would everyone kindly V ~?	|	Mọi người vui lòng V ~?	|	
-|	Those who ~, please talk to ~.	|	Những ai ~, hãy nói chuyện với ~.	|	
-|	Let's all ~.	|	Tất cả hãy ~.	|	
-|	feel at home	|	cảm thấy như ở nhà	|	
+|	**I've asked you** *to gather here today* **to-V** ~.	|	**Tôi đã yêu cầu bạn** *tụ tập ở đây hôm nay* **để-V** ~.	|	
+|	**You are all here today** *because S + V* ~.	|	**Tất cả các bạn ở đây hôm nay** *vì S + V* ~.	|	
+|	**I called you all here** *because S + V* ~.	|	**Tôi đã gọi tất cả các bạn ở đây** *vì S + V* ~.	|	
+|	As **you all** know, **we will be V-ing** ~.	|	Như **các bạn** đã biết, **chúng ta sẽ V-ing** ~.	|	
+|	**I would like (you) to -V** ~.	|	**Tôi muốn (bạn) -V** ~.	|	
+|	**Would you please V** ~?	|	**Bạn vui lòng V** ~?	|	
+|	**Would everyone kindly V** ~?	|	**Mọi người vui lòng V** ~?	|	
+|	**Those** *who ~,* **please talk to** ~.	|	**Những** *ai ~,* **hãy nói chuyện với** ~.	|	
+|	**Let's all** ~.	|	**Tất cả hãy** ~.	|	
+|	**feel at home**	|	**cảm thấy như ở nhà**	|	
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 ##### More Expressions
 
 {% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part4/part4-theory-more-exp-010.mp3 %}
 
-|	Opening	|	I've asked you to gather here today to let you know that we are going to have a new manager starting with us next week.	|	Tôi đã đề nghị các bạn tập trung tại đây hôm nay để cho các bạn biết rằng chúng tôi sẽ có một người quản lý mới bắt đầu với chúng tôi vào tuần tới.
-|		|	You are all here today because I have some good news to tell each and every one of you.	|	Tất cả các bạn ở đây hôm nay bởi vì tôi có một số tin tốt để nói với mỗi người trong số các bạn.
-|		|	As you all know, we will be moving into our new facility at the beginning of the next week.	|	Như các bạn đã biết, chúng tôi sẽ chuyển sang cơ sở mới vào đầu tuần tới.
-|	Details	|	Mr. Lewis, who has been working in this field for 20 years, will head the Accounting Department starting Monday.	|	Ông Lewis, người đã làm việc trong lĩnh vực này 20 năm, sẽ đứng đầu Bộ phận Kế toán bắt đầu từ thứ Hai.
-|		|	We have been chosen to participate in the competition that everyone has been waiting for.	|	Chúng tôi đã được chọn để tham gia cuộc thi mà mọi người đã chờ đợi.
-|		|	I would like everyone to clean out your desks and files and empty your lockers.	|	Tôi muốn mọi người dọn dẹp bàn làm việc và hồ sơ của bạn và làm trống tủ khóa của bạn.
-|	Closing	|	Would you please welcome him and make him feel at home here?	|	Bạn có vui lòng chào đón anh ấy và làm cho anh ấy cảm thấy như ở nhà ở đây không?
-|		|	Would everyone kindly give a warm hand of welcome for Mr. Lewis?	|	Mọi người có thể vui lòng chào đón nồng nhiệt ông Lewis không?
-|		|	Those who are interested, please talk to Mr. Harris by the end of the day.	|	Những ai quan tâm, vui lòng nói chuyện với ông Harris vào cuối ngày.
-|		|	Thanks. Let's all get to work now.	|	Cảm ơn. Tất cả hãy bắt tay vào việc ngay bây giờ.
+|	**Opening**	|	**I've asked you** *to gather here today* **to let you know that** *we are going* **to have a new manager** *starting with us* next week.	|	**Tôi đã đề nghị các bạn** *tập trung tại đây hôm nay* **để cho các bạn biết rằng** *chúng tôi sẽ* **có một người quản lý mới** *bắt đầu với chúng tôi vào tuần tới*.
+|		|	**You are all here today** *because* **I have some good news** *to tell* **each and every one of you**.	|	**Tất cả các bạn ở đây hôm nay** *bởi vì* **tôi có một số tin tốt** *để nói* **với mỗi người trong số các bạn**.
+|		|	As **you all** know, *we will be* **moving into** *our new facility* **at the beginning of the next week**.	|	Như **các bạn** đã biết, *chúng tôi sẽ* **chuyển sang** *cơ sở mới* **vào đầu tuần tới**.
+|	**Details**	|	*Mr. Lewis*, **who has been working** *in this field* **for 20 years**, *will head* **the Accounting Department** *starting Monday*.	|	*Ông Lewis*, **người đã làm việc** *trong lĩnh vực này* **20 năm**, *sẽ đứng đầu* **Bộ phận Kế toán** *bắt đầu từ thứ Hai.*
+|		|	**We have been chosen** *to participate in* **the competition** *that everyone has been* **waiting for**.	|	**Chúng tôi đã được chọn** *để tham gia* **cuộc thi** *mà mọi người đã* **chờ đợi**.
+|		|	**I would like *everyone*** *to clean out your desks* **and files** *and empty your lockers*.	|	**Tôi muốn mọi người** *dọn dẹp bàn làm việc* **và hồ sơ của bạn** *và làm trống tủ khóa của bạn*.
+|	**Closing**	|	**Would you please** *welcome him* **and** *make him feel at home* **here?**	|	**Bạn có vui lòng** *chào đón anh ấy* **và** *làm cho anh ấy cảm thấy như ở nhà* **ở đây không?**
+|		|	**Would *everyone* kindly** *give a warm hand of* **welcome for** *Mr. Lewis?*	|	**Mọi người có thể vui lòng** *chào đón nồng nhiệt* **ông Lewis không?**
+|		|	**Those** *who* **are interested**, *please talk to Mr. Harris* **by the end of the day**.	|	**Những** *ai quan tâm*, **vui lòng nói chuyện với** *ông Harris vào cuối ngày*.
+|		|	Thanks. **Let's all** *get to work* **now**.	|	Cảm ơn. **Tất cả hãy** *bắt tay vào việc* **ngay bây giờ**.
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 ### 11. Instructions
@@ -391,30 +391,30 @@ Cách đọc trước câu hỏi:
 
 {% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part4/part4-theory-key-expressions-011.mp3 %}
 
-|	Here is ~, and it is ~ to-V ~.	|	Đây là ~, và nó là ~ to-V ~.	|	
-|	I want to let [someone] know that S + V ~.	|	Tôi muốn cho [ai đó] biết rằng S + V ~.	|	
-|	Let me explain ~.	|	Hãy để tôi giải thích ~.	|	
-|	You are asked to-V ~.	|	Bạn được yêu cầu-V ~.	|	
-|	Don't forget to-V ~.	|	Đừng quên-V ~.	|	
-|	You must make sure to-V ~.	|	Bạn phải chắc chắn để-V ~.	|	
-|	Make sure that S + V ~.	|	Đảm bảo rằng S + V ~.	|	
+|	**Here is** ~, *and* **it is** ~ **to-V** ~.	|	**Đây là** ~, *và* **nó là** ~ **to-V** ~.	|	
+|	**I want to let [someone] know** {% u that S + V %} ~.	|	**Tôi muốn cho [ai đó] biết** {% u rằng S + V %} ~.	|	
+|	**Let me** *explain* ~.	|	**Hãy để tôi** *giải thích* ~.	|	
+|	**You are asked** *to-V* ~.	|	**Bạn được yêu cầu** *V* ~.	|	
+|	**Don't forget** *to-V* ~.	|	**Đừng quên**-*V* ~.	|	
+|	**You must make sure** *to-V* ~.	|	**Bạn phải chắc chắn** *để-V* ~.	|	
+|	**Make sure that** *S + V* ~.	|	**Đảm bảo rằng** *S + V* ~.	|	
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 ##### More Expressions
 
 {% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part4/part4-theory-more-exp-011.mp3 %}
 
-|	Opening	|	The phone you just picked up has many features. Let me briefly explain some of the most useful functions for you.	|	Chiếc điện thoại bạn vừa nhấc máy có nhiều tính năng. Hãy để tôi giải thích ngắn gọn một số chức năng hữu ích nhất cho bạn.
-|		|	You made a good purchase here because this phone is the latest phone on the market.	|	Bạn đã mua hàng tốt ở đây vì điện thoại này là điện thoại mới nhất trên thị trường.
-|		|	Whenever a customer wishes to exchange an item, you must ask yourself some questions before you formally accept the exchange.	|	Bất cứ khi nào khách hàng muốn đổi một món hàng, bạn phải tự hỏi mình một số câu hỏi trước khi chính thức chấp nhận việc trao đổi.
-|	Instructions	|	Make sure the battery completely runs out before you recharge it for the first time.	|	Đảm bảo hết pin hoàn toàn trước khi sạc lại lần đầu tiên.
-|		|	This adapter is very sensitive, so you must be very careful when you put it into the socket. Do not force it in because it can damage your phone.	|	Bộ chuyển đổi này rất nhạy cảm, vì vậy bạn phải rất cẩn thận khi đặt nó vào ổ cắm. Đừng ép nó vào vì nó có thể làm hỏng điện thoại của bạn.
-|		|	First, is there a receipt that proves the customer has actually purchased the item?	|	Đầu tiên, có biên lai chứng minh khách hàng đã thực sự mua hàng hay không?
-|		|	Second, is there any evidence indicating the use of the returned item?	|	Thứ hai, có bằng chứng nào cho thấy việc sử dụng hàng trả lại không?
-|		|	Lastly, has the item to be exchanged lost its value for resale?	|	Cuối cùng, đồ cần đổi có bị mất giá để bán lại không?
-|	Special Features	|	This button here allows you to record your conversation.	|	Nút này ở đây cho phép bạn ghi lại cuộc trò chuyện của mình.
-|		|	This phone comes with a built-in television that you can watch anywhere in the city, including while you are riding the subway.	|	Điện thoại này đi kèm với một TV tích hợp mà bạn có thể xem ở bất kỳ đâu trong thành phố, kể cả khi bạn đang đi tàu điện ngầm.
-|	Closing	|	If the returned item fits the above requirements, then the exchange is officially acceptable by our head office regulations.	|	Nếu mặt hàng trả lại phù hợp với các yêu cầu trên, thì việc trao đổi được chính thức chấp nhận theo quy định của trụ sở chính của chúng tôi.
+|	**Opening**	|	***The phone* you just picked up** *has many features*. **Let me** {% u briefly %} *explain* **some of the most useful functions** *for you*.	|	***Chiếc điện thoại* bạn vừa nhấc máy** *có nhiều tính năng*. **Hãy để tôi** *giải thích* {% u ngắn gọn %} **một số chức năng hữu ích nhất** *cho bạn*.
+|		|	**You made a good purchase here** *because* **this phone is the latest phone** *on the market*.	|	**Bạn đã mua hàng tốt ở đây** *vì* **điện thoại này là điện thoại mới nhất** *trên thị trường*.
+|		|	**Whenever** *a customer* **wishes** *to exchange an item*, **you must ask yourself** *some questions* **before** *you formally accept* **the exchange**.	|	**Bất cứ khi nào** *khách hàng* **muốn** *đổi một món hàng*, **bạn phải tự hỏi mình** *một số câu hỏi* **trước khi** *chính thức chấp nhận* **việc trao đổi đó**.
+|	**Instructions**	|	**Make sure** *the battery* **completely runs out** *before* **you recharge it** *for the first time*.	|	**Đảm bảo** *hết pin hoàn toàn* **trước khi** *sạc lại lần đầu tiên*.
+|		|	*This adapter is* **very sensitive**, *so you must be* **very careful** *when you put it* **into the socket**. *Do not force it in* **because** *it can damage your phone*.	|	*Bộ chuyển đổi này* **rất nhạy cảm**, *vì vậy bạn phải* **rất cẩn thận** *khi đặt nó* **vào ổ cắm**. *Đừng ép nó vào* **vì** *nó có thể làm hỏng điện thoại của bạn*.
+|		|	*First*, *is there a receipt* **that proves** *the customer has actually purchased the item?*	|	*Đầu tiên, có biên lai* **chứng minh** *khách hàng đã thực sự mua hàng hay không?*
+|		|	*Second, is there any evidence* **indicating** *the use of the returned item?*	|	*Thứ hai, có bằng chứng nào* **cho thấy việc** *sử dụng hàng trả lại không?*
+|		|	*Lastly*, has **the item to be exchanged** *lost* **its value** *for resale*?	|	*Cuối cùng*, **đồ cần đổi** *có bị mất giá* **để bán lại không?**
+|	**Special Features**	|	**This button *here*** *allows you* **to record your conversation.**	|	**Nút này *ở đây*** *cho phép bạn* **ghi lại cuộc trò chuyện của mình**.
+|		|	*This phone* **comes with** *a built-in television* **that you can** *watch anywhere* *in the city*, **including** *while* **you are riding the subway**.	|	*Điện thoại này* **đi kèm với** *một TV tích hợp* **mà bạn có thể** *xem ở bất kỳ đâu trong thành phố*, **kể cả** *khi* **bạn đang đi tàu điện ngầm**.
+|	**Closing**	|	**If the returned item *fits* the above *requirements***, *then* **the exchange is *officially* acceptable** *by our head office* **regulations**.	|	**Nếu mặt hàng trả lại *phù hợp* với *các yêu cầu trên***, *thì* **việc trao đổi được *chính thức* chấp nhận** *theo* **quy định** *của trụ sở chính của chúng tôi*.
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 ### 12. Talks
@@ -423,94 +423,94 @@ Cách đọc trước câu hỏi:
 
 {% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part4/part4-theory-key-expressions-012.mp3 %}
 
-|	I'd like to apologize for ~.	|	Tôi muốn xin lỗi vì ~.	|	
-|	I'm quite certain that S + V ~.	|	Tôi khá chắc chắn rằng S + V ~.	|	
-|	make up for	|	bù đắp	|	
-|	have to cancel ~ because of ~	|	phải hủy ~ vì ~	|	
-|	be expected to-V	|	được mong đợi để-V	|	
-|	Hello, everyone, and welcome to ~.	|	Xin chào, tất cả mọi người, và chào mừng đến với ~.	|	
-|	My name is ~, and I'm [will be] your guide today.	|	Tên tôi là ~, và tôi [sẽ là người hướng dẫn cho bạn hôm nay.	|	
-|	We'll start off the day by V-ing ~.	|	Chúng ta sẽ bắt đầu một ngày mới bằng V-ing ~.	|	
-|	Please make sure to-V ~.	|	Hãy chắc chắn để-V ~.	|	
-|	Don't forget to-V ~.	|	Đừng quên-V ~.	|	
+|	**I'd like to apologize for** ~.	|	**Tôi muốn xin lỗi vì** ~.	|	
+|	**I'm *quite* certain that** *S + V* ~.	|	**Tôi *khá* chắc chắn rằng** *S + V* ~.	|	
+|	**make up for**	|	bù đắp	|	
+|	**have to cancel** ~ **because of** ~	|	**phải hủy** ~ **vì** ~	|	
+|	**be expected** *to-V*	|	**được mong đợi/dự đoán** *sẽ V*	|	
+|	*Hello, everyone, and* **welcome to** ~.	|	*Xin chào, tất cả mọi người, và* **chào mừng đến với** ~.	|	
+|	**My name is** ~, *and* **I'm [will be] your guide** *today*.	|	**Tên tôi là** ~, *và* **tôi [sẽ là] người hướng dẫn cho bạn** *hôm nay*.	|	
+|	**We'll *start off* the day** *by* **V-ing** ~.	|	**Chúng ta sẽ *bắt đầu* một ngày mới** *bằng* **V-ing** ~.	|	
+|	**Please make sure** *to-V* ~.	|	**Hãy chắc chắn V** ~.	|	
+|	**Don't forget** *to-V* ~.	|	**Đừng quên-V** ~.	|	
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 ##### More Expressions
 
 {% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part4/part4-theory-more-exp-012.mp3 %}
 
-|	Opening	|	Welcome, everyone! My name is Jeff Wills, and I will be your guide today.	|	Chào mừng mọi người! Tên tôi là Jeff Wills, và tôi sẽ là người hướng dẫn bạn hôm nay.
-|		|	Hello, everyone, and welcome. Today, we will be going on a 10-kilometer hike up the mountain.	|	Xin chào, tất cả mọi người, và chào mừng. Hôm nay, chúng ta sẽ đi bộ 10 km lên núi.
-|		|	Good afternoon, and welcome to Peter's historic cabin.	|	Xin chào, và chào mừng đến với cabin lịch sử của Peter.
-|		|	Good morning, everyone. My name is Richard Benson, and I'm your assigned tour guide for today.	|	Chào buổi sáng mọi người. Tên tôi là Richard Benson và tôi là hướng dẫn viên du lịch được chỉ định của bạn cho ngày hôm nay.
-|	Instructions	|	On our trip, we will make three stops along the way. The first part of our trips is the local museum.	|	Trong chuyến đi của chúng tôi, chúng tôi sẽ thực hiện ba điểm dừng trên đường đi. Phần đầu tiên của chuyến đi của chúng tôi là bảo tàng địa phương.
-|		|	The first part of our trip is probably the most difficult part. However, once you get through it, the rest will be smooth sailing.	|	Phần đầu tiên của chuyến đi của chúng tôi có lẽ là phần khó khăn nhất. Tuy nhiên, một khi bạn đã vượt qua nó, những việc còn lại sẽ thuận buồm xuôi gió.
-|		|	This cabin was originally built in 1889 but has gone through many refurbishings over the years.	|	Cabin này ban đầu được xây dựng vào năm 1889 nhưng đã trải qua nhiều lần tân trang trong nhiều năm.
-|		|	We'll start off the day by taking a short hike up the mountain to observe the wild animals.	|	Chúng ta sẽ bắt đầu một ngày mới bằng cách đi bộ một đoạn ngắn lên núi để quan sát các loài động vật hoang dã.
-|	Closing	|	Please make sure to pack a bottle of water as well as a towel to wipe off your sweat,	|	Hãy nhớ mang theo một chai nước cũng như một chiếc khăn để lau mồ hôi,
-|		|	Please don't stick your hands out of the window as it is dangerous to do so.	|	Xin đừng thò tay ra ngoài cửa sổ vì làm như vậy rất nguy hiểm.
-|		|	Now, would everyone please follow me out to the yard, where we will get a spectacular view of the lake below us?	|	Bây giờ, mọi người vui lòng theo tôi ra ngoài sân, nơi chúng tôi sẽ có được một cái nhìn ngoạn mục của hồ bên dưới chúng tôi?
-|		|	So, everyone, let's all get ready to leave. Also, don't forget to pack your video of digital cameras.	|	Vì vậy, mọi người hãy chuẩn bị lên đường. Ngoài ra, đừng quên đóng gói video máy ảnh kỹ thuật số của bạn.
+|	**Opening**	|	*Welcome, everyone!* **My name is** *Jeff Wills*, *and* **I will be your guide** *today*.	|	*Chào mừng mọi người!* **Tên tôi là** *Jeff Wills, và* **tôi sẽ là người hướng dẫn bạn** *hôm nay*.
+|		|	*Hello, everyone, and welcome*. Today, **we will be going on** *a 10-kilometer* **hike up the mountain**.	|	*Xin chào, tất cả mọi người, và chào mừng*. Hôm nay, **chúng ta sẽ đi bộ** *10 km* **lên núi**.
+|		|	Good afternoon, and **welcome to** Peter's historic cabin.	|	Xin chào, và **chào mừng đến với** cabin lịch sử của Peter.
+|		|	Good morning, everyone. **My name is** *Richard Benson, and* **I'm your *assigned tour guide* for today**.	|	Chào buổi sáng mọi người. **Tên tôi là** *Richard Benson* và **tôi là *hướng dẫn viên du lịch được chỉ định* của bạn cho ngày hôm nay**.
+|	**Instructions**	|	*On our trip*, **we will make** *three stops* **along the way**. {% u The first part of our trips %} **is the local museum**.	|	*Trong chuyến đi của chúng tôi*, **chúng tôi sẽ thực hiện** *ba điểm dừng* **trên đường đi**. {% u Phần đầu tiên của chuyến đi của chúng tôi %} **là bảo tàng địa phương**.
+|		|	**The first part of our trip** is {% u probably %} **the most difficult part**. *However*, **once you get *through* it**, *the rest will be smooth sailing*.	|	**Phần đầu tiên của chuyến đi của chúng tôi** {% u có lẽ %} **là phần khó khăn nhất**. *Tuy nhiên*, **một khi bạn đã *vượt qua* nó**, *những việc còn lại sẽ thuận buồm xuôi gió.*
+|		|	*This cabin* **was *originally* built** *in 1889* **but has gone through** *many refurbishings* **over the years**.	|	*Cabin này* ***ban đầu* được xây dựng** *vào năm 1889* **nhưng đã trải qua** *nhiều lần tân trang* **trong nhiều năm**.
+|		|	**We'll *start off* the day** *by* **taking a short *hike up the mountain*** *to observe the wild animals*.	|	**Chúng ta sẽ *bắt đầu* một ngày mới** *bằng cách* **đi bộ một đoạn ngắn *lên núi*** *để quan sát các loài động vật hoang dã*.
+|	**Closing**	|	**Please make sure** *to pack a bottle of water* **as well as** *a towel* **to *wipe off* your sweat**,	|	**Hãy nhớ** *mang theo một chai nước* **cũng như** *một chiếc khăn* **để lau mồ hôi**,
+|		|	*Please* **don't stick your hands out of the window** *as* **it is dangerous to do so**.	|	*Xin* **đừng thò tay ra ngoài cửa sổ** *vì* **làm như vậy rất nguy hiểm**.
+|		|	Now, **would everyone please follow me** *out to the yard*, **where we will get** *a spectacular view of* **the lake below us?**	|	Bây giờ, **mọi người vui lòng theo tôi** *ra ngoài sân*, **nơi chúng tôi sẽ có được** *một cái nhìn ngoạn mục của* **hồ bên dưới chúng tôi?**
+|		|	*So, everyone*, **let's all** *get ready to leave*. *Also*, **don't forget** *to pack your video of* **digital cameras**.	|	*Vì vậy, mọi người* **hãy*** chuẩn bị lên đường*. *Ngoài ra*, **đừng quên** *đóng gói video máy ảnh kỹ thuật số của bạn*.
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 ## Luyện tập
 
 {% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/mp3-toeic/XpCLj.mp3 %}
 
-| I'm a wedding planner.  | Tôi là một người tổ chức lễ cưới.
-| My job brings me a lot of pleasure. | Công việc của tôi mang đến cho tôi rất nhiều niềm vui.
-| Today is an amazing day. | Hôm nay là một ngày tuyệt vời.
-| I am planning my sister's wedding. | Tôi đang tổ chức lễ cưới của em gái tôi.
-| She will wear a beautiful white dress. | Nó sẽ mặc một cái váy màu trắng xinh đẹp.
-| I also get to wear a lovely dress. | Tôi cũng sẽ mặc một cái váy rất xinh.
-| After the wedding, all the guests will have a nice dinner and will dance for hours. | Sau lễ cưới, tất cả khách ăn tối và khiêu vũ hàng giờ.
-| In the evening my sister and her new husband will cut a cake that I designed. | Vào buổi tối, em tôi và chồng mới cưới sẽ cắt bánh do tôi thiết kế.
-| I hope they like it a lot. | Tôi hy vọng họ thích nó.
+| I'm a **wedding planner**.  | Tôi là một **người tổ chức lễ cưới**.
+| *My job* **brings me** *a lot of pleasure*. | *Công việc của tôi* **mang đến cho tôi** *rất nhiều niềm vui*.
+| Today is **an amazing day**. | Hôm nay là **một ngày tuyệt vời**.
+| *I am planning* **my sister's wedding**. | *Tôi đang tổ chức* **lễ cưới của em gái tôi**.
+| **She will wear** *a beautiful white dress*. | **Nó sẽ mặc** *một cái váy màu trắng xinh đẹp.*
+| *I also* **get to wear** *a lovely dress*. | *Tôi cũng* **sẽ mặc** *một cái váy rất xinh*.
+| **After the wedding**, *all the guests* **will have a nice dinner** and **will dance *for hours***. | **Sau lễ cưới**, *tất cả khách* **ăn tối** và **khiêu vũ *hàng giờ***.
+| **In the evening**, *my sister and her new husband* **will cut a cake** *that I designed*. | **Vào buổi tối**, *em tôi và chồng mới cưới* **sẽ cắt bánh** *do tôi thiết kế*.
+| **I hope** *they like it* {% u a lot %}. | **Tôi hy vọng** *họ thích nó* {% u thật nhiều %}.
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 {% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/mp3-toeic/7PVex.mp3 %}
 
-| Attention, please. | Xin chú ý.
-| We would like to remind you that next Monday at nine o'clock, we will be having our yearly staff picnic. | Chúng tôi muốn nhắc các bạn rằng thứ Hai tuần sau lúc 9 giờ, chúng ta sẽ có buổi dã ngoại dành cho nhân viên hàng năm.
-| All staff and their families are invited to attend. | Tất cả nhân viên và gia đình đều được mời tham gia.
-| Plenty of food and drink will be provided for everyone, and we will be having our famous barbecue. | Rất nhiều thức ăn và nước uống sẽ được phục vụ cho tất cả mọi người và chúng ta sẽ có tiệc nướng.
-| We will also have our annual fun and games. | Chúng ta cũng sẽ có sự vui vẻ và những trò chơi hàng năm.
-| Prizes include a new DVD player and a holiday. | Phần thưởng gồm có một đầu DVD mới và một kỳ nghỉ.
+| **Attention, please**. | Xin chú ý.
+| *We would like to remind you* that **next Monday *at* nine o'clock**, we **will be having** *our yearly staff picnic*. | *Chúng tôi muốn nhắc các bạn* rằng **thứ Hai tuần sau *lúc* 9 giờ**, chúng ta **sẽ có** *buổi dã ngoại dành cho nhân viên hàng năm*.
+| *All staff and their families* **are invited** *to attend*. | *Tất cả nhân viên và gia đình* **đều được mời** *tham gia*.
+| **Plenty of** {% u food and drink %} **will be provided** *for everyone*, and we **will be having** *our famous barbecue*. | **Rất nhiều** {% u thức ăn và nước uống %} **sẽ được phục vụ** *cho tất cả mọi người* và chúng ta **sẽ có** *tiệc nướng*.
+| **We will *also* have** *our annual fun and games*. | **Chúng ta *cũng* sẽ có** *sự vui vẻ và những trò chơi hàng năm.*
+| *Prizes* **include** *a new DVD player and a holiday*. | *Phần thưởng* **gồm có** *một đầu DVD mới và một kỳ nghỉ.*
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 {% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/mp3-toeic/2t5hz.mp3 %}
 
-| Due to problems with the lighting, the concert has to be postponed until Friday the 22nd. | Do có vấn đề về ánh sáng, nên buổi hòa nhạc sẽ bị hoãn lại cho đến thứ Sáu ngày 22.
-| The concert will also be moved from hall A to the larger hall C. | Buổi hòa nhạc cũng sẽ được chuyển từ sảnh A sang sảnh C lớn hơn.
-| A bigger venue means a further five hundred tickets will now be available, twice the original number. | Địa điểm lớn hơn có nghĩa là sẽ có thêm 500 vé được bán, gấp đôi con số ban đầu.
-| Because of the extra tickets, tickets will now be priced at the lower cost of twenty dollars. | Vì có thêm vé nên vé sẽ có giá thấp hơn, là 20 đô.
+| **Due to** *problems* **with the lighting**, *the concert* **has to be postponed** {% u until %} *Friday the 22nd*. | **Do có** *vấn đề* **về ánh sáng**, nên *buổi hòa nhạc* **sẽ bị hoãn lại** {% u cho đến %} *thứ Sáu ngày 22*.
+| *The concert* **will *also* be moved** {% u from %} *hall A* {% u to %} *the larger hall C*. | *Buổi hòa nhạc* ***cũng* sẽ được chuyển** {% u từ %} *sảnh A* {% u sang %} *sảnh C lớn hơn*.
+| **A bigger *venue*** {% u means %} **a *further* five hundred tickets** *will now be available*, **twice** *the original number*. | ***Địa điểm* lớn hơn** {% u có nghĩa là %} *sẽ có* ***thêm* 500 vé được bán**, {% u gấp đôi %} *con số ban đầu.*
+| **Because of** *the extra tickets*, tickets **will now be priced at** *the lower cost of twenty dollars*. | **Vì có** *thêm vé* nên **vé sẽ có giá thấp hơn**, *là 20 đô*.
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 {% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/mp3-toeic/39kdG.mp3 %}
 
-| Tomorrow's issue will be the last one for our newspaper. | Số bào ngày mai sẽ là số cuối cùng của tờ báo chúng ta.
-| We all knew this day was coming, and it is a sad day. | Tất cả chúng ta đều biết ngày này sẽ đến, và nó đúng là một ngày buồn bã.
-| We lost almost $20 million last year, and the owners have tried to sell the paper but no one wants to buy it in this economy. | Chúng ta mất gần $20 triệu trong năm qua và chủ báo đã cố bán tờ báo nhưng không ai muốn mua trong tình hình kinh tế như thế này.
-| I want to thank all of you, all the editors, writers, photographers, page designers, printers... everyone who helped make this paper a city institution for the past 150 years. | Tôi muốn cám ơn tất cả các bạn, tất cả biên tập viên, nhà văn, nhiếp ảnh gia, thiết kế trang báo, in ấn,... tất cả những người đã giúp đỡ biến tờ báo này thành một truyền thống của thành phố trong 150 năm qua.
-| It's been a pleasure and an honor working with you and supervising you. | Thật là một hân hạnh và niềm vui khi được làm việc và giám sát các bạn.
-| As you've heard, we will continue to have an online news site with a staff of 25. | Như các bạn đã nghe, chúng ta sẽ tiếp tục có một trang báo mạng với dàn nhân viên gồm 25 người.
-| This re-designed website will begin tomorrow. | Trang web được thiết kế lại này sẽ bắt đầu vào ngày mai.
-| We hope that it will help fill the gap left by the departed print product. | Chúng ta hi vọng là nó sẽ giúp lắp vào khoảng trống do sản phẩm in để lại.
-| Meanwhile, we have one more issue to put out. | Còn giờ, chúng ta còn một tờ báo nữa cần in.
-| Let's get to work and make it the best it can be. | Chúng ta hãy cùng làm cho nó trở nên hay nhất có thể nào.
+| **Tomorrow's issue** *will be* **the last one for our newspaper**. | **Số báo ngày mai** **sẽ là** **số cuối cùng của tờ báo chúng ta**.
+| **We all** *knew* **this day** *was coming*, and **it is a sad day**. | **Tất cả chúng ta** *đều biết* **ngày này** *sẽ đến*, **và nó đúng là một ngày buồn bã.**
+| *We lost* ***almost* $20 million** last year, and **the owners** *have tried to sell* the paper but **no one** *wants to buy it* **in this economy**. | *Chúng ta mất* ***gần* $20 triệu** trong năm qua và **chủ báo** *đã cố bán tờ báo* nhưng **không ai** *muốn mua* **trong tình hình kinh tế như thế này.**
+| *I want to thank* **all of you**, all the editors, writers, photographers, page designers, printers... *everyone* **who helped make** *this paper* **a city institution** *for the past 150 years*. | *Tôi muốn cám ơn* **tất cả các bạn**, tất cả biên tập viên, nhà văn, nhiếp ảnh gia, thiết kế trang báo, in ấn,... *tất cả* **những người đã giúp đỡ** biến tờ báo này thành **một truyền thống của thành phố** *trong 150 năm qua*.
+| **It's been a pleasure** and **an honor** *working with you* **and** *supervising you*. | **Thật là một hân hạnh** và **niềm vui** *khi được làm việc* **và** *giám sát các bạn*.
+| **As you've heard**, *we will continue* **to have an online news site** *with* **a staff *of* 25**. | **Như các bạn đã nghe**, *chúng ta sẽ tiếp tục* **có một trang báo mạng** *với* **dàn nhân viên *gồm* 25 người.**
+| **This re-designed website** {% u will begin %} *tomorrow*. | **Trang web được thiết kế lại này** {% u sẽ bắt đầu %} *vào ngày mai.*
+| **We hope that** *it will help fill* **the gap left** *by* **the departed print product**. | **Chúng ta hi vọng là** *nó sẽ giúp lắp vào* **khoảng trống do sản phẩm in để lại**.
+| **Meanwhile**, *we have one more issue* **to put out**. | **Còn giờ**, *chúng ta còn một tờ báo nữa* **cần in**.
+| **Let's get to work** *and* **make it the best *it can be***. | **Chúng ta hãy cùng làm** *cho nó trở nên hay nhất có thể nào.*
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 {% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/mp3-toeic/zT97O.mp3 %}
 
-| Hello, this message is for Tayna Smith. | Xin chào, tin nhắn này dành cho Tayna Smith.
-| Tayna, my name is Karl Klaussen with Premium Insurance Company. | Tayna, tên tôi là Karl Klaussen ở công ty bảo hiểm Premium.
-| You had asked me to give you a quotation for your 2007 Toyaki Turbo coupe. | Cô có nhờ tôi gửi bản báo giá cho xe hai cửa 2007 Toyaki Turbo.
-| I've processed your information, and we could insure this vehicle for $600 a year. | Tôi đã xử lý thông tin của cô và chúng tôi có thể nhận bảo hiểm cho nó với giá $600 một năm.
-| That's $50 a month, and you have the choice of paying monthly or in advance. | Đó nghĩa là $50 một tháng, và cô có thể chọn trả theo tháng hay trả trước.
-| This price includes discounts for having a good driving record, and for also having your homeowner's insurance with us as well as your auto insurance. | Giá này là giá đã được giảm vì có lý lịch lái xe tốt, và vì có bảo hiểm nhà cũng ở chỗ chúng tôi cũng như bảo hiểm xe hơi.
-| It includes comprehensive coverage, uninsured motorist protection, and up to $50,000 liability. | Nó là bảo hiểm toàn diện, không kèm bảo hiểm cho người lái, và lên đến $50000 bảo hiểm trách nhiệm.
-| We could begin coverage at the first of next month. | Chúng tôi có thể bắt đầu bảo hiểm vào đầu tháng sau.
-| If you have more questions I'd be happy to answer them. | Nếu cô có bất cứ câu hỏi nào, tôi rất vui khi được trả lời chúng.
-| You can reach me at 590-095-6446 or on my cell at 342-768-0120. | Cô có thể gọi cho tôi theo số 590-095-6446 hoặc điện thoại riêng ở số 342-768-0120.
-| Thank you for considering Premium Insurance. | Cám ơn đã chọn bảo hiểm Premium.
+| Hello, *this message* **is for** *Tayna Smith*. | Xin chào, *tin nhắn này* **dành cho** *Tayna Smith*.
+| Tayna, **my name is** *Karl Klaussen* **with** *Premium Insurance Company*. | Tayna, **tên tôi là** *Karl Klaussen* **ở công ty** *bảo hiểm Premium.*
+| **You had asked me** *to give you* **a quotation for** *your 2007 Toyaki Turbo coupe*. | **Cô có nhờ tôi** *gửi* **bản báo giá cho** *xe hai cửa 2007 Toyaki Turbo*.
+| **I've processed** *your information*, and **we could insure this vehicle** *for $600 a year*. | **Tôi đã xử lý** *thông tin của cô* và **chúng tôi có thể nhận *bảo hiểm* cho nó** *với giá $600 một năm*.
+| **That's $50 a month**, and *you have* **the choice of** *paying monthly* **or** *in advance*. | **Đó nghĩa là $50 một tháng**, và *cô có thể* **chọn trả** *theo tháng* **hay** *trả trước*.
+| *This price* **includes** *discounts for* **having a good driving record**, *and* **for *also* having your homeowner's insurance *with us*** {% u as well as %} **your auto insurance**. | *Giá này* **là giá** *đã được giảm vì* **có lý lịch lái xe tốt**, *và* **vì có bảo hiểm nhà *cũng* ở chỗ chúng tôi** {% u cũng như %} **bảo hiểm xe hơi**.
+| It **includes** *comprehensive coverage*, *uninsured motorist protection*, and **up to** $50,000 **liability**. | Nó **là** *bảo hiểm toàn diện*, *không kèm bảo hiểm cho người lái*, và **lên đến** $50000 **bảo hiểm trách nhiệm**.
+| We **could begin coverage** *at the* **first of next month**. | Chúng tôi **có thể bắt đầu bảo hiểm** *vào* **đầu tháng sau**.
+| *If you have more questions* **I'd be happy to answer them**. | *Nếu cô có bất cứ câu hỏi nào*, **tôi rất vui khi được trả lời chúng.**
+| You **can reach me** *at 590-095-6446* **or** *on my cell at* 342-768-0120. | **Cô có thể gọi cho tôi** *theo số 590-095-6446* **hoặc** *điện thoại riêng ở số 342-768-0120*.
+| **Thank you for considering** *Premium Insurance*. | **Cám ơn đã chọn** *bảo hiểm Premium*.
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
