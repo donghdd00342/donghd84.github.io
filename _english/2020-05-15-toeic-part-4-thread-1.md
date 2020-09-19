@@ -259,31 +259,31 @@ Cách đọc trước câu hỏi:
 
 {% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part4/part4-theory-key-expressions-007.mp3 %}
 
-|	This is [a name] with the day's weather report.	|	Đây là [tên] với báo cáo thời tiết trong ngày.	|	
-|	Here is [a name] with the weather update for the week.	|	Đây là [tên] với bản cập nhật thời tiết trong tuần.	|	
-|	The [a weather condition] we have been enjoying will come to an end ~.	|	[Một điều kiện thời tiết] mà chúng ta đang tận hưởng sẽ kết thúc ~.	|	
-|	The current temperature outside is [sits at] ~.	|	Nhiệt độ hiện tại bên ngoài là [ở] ~.	|	
-|	a sudden change in the wind direction	|	sự thay đổi hướng gió đột ngột	|	
-|	The temperature is expected to-V ~.	|	Nhiệt độ dự kiến là-V ~.	|	
-|	There is a 50% chance of ~.	|	Có 50% cơ hội là ~.	|	
-|	This has been [a name] with the 5-minute weather report.	|	Đây là [một cái tên] với báo cáo thời tiết 5 phút.	|	
-|	I'll be back in an hour with more updates.	|	Tôi sẽ quay lại sau một giờ với nhiều thông tin cập nhật hơn.	|	
+|	**This is** [a name] **with the day's weather report.**	|	**Đây là [tên] với báo cáo thời tiết trong ngày**.	|	
+|	**Here is** [a name] **with the weather update** *for the week*.	|	**Đây là [tên] với bản cập nhật thời tiết** *trong tuần*.	|	
+|	*The [a weather condition]* **we have been enjoying** *will* **come to an end** ~.	|	*[Một điều kiện thời tiết]* **mà chúng ta đang tận hưởng** *sẽ* **kết thúc** ~.	|	
+|	**The current temperature outside** *is [sits at]* ~.	|	**Nhiệt độ hiện tại bên ngoài** *là [ở]* ~.	|	
+|	a **sudden change** *in the wind direction*	|	sự **thay đổi** *hướng gió* **đột ngột**	|	
+|	*The temperature* **is expected to-V** ~.	|	*Nhiệt độ* **dự kiến là-V** ~.	|	
+|	*There is a* **50% chance of** ~.	|	*Có* **50% cơ hội là** ~.	|	
+|	**This has been** [a name] *with* **the 5-minute weather report**.	|	**Đây là** [một cái tên] *với* **báo cáo thời tiết 5 phút**.
+|	**I'll be back** *in an hour* **with more updates**.	|	**Tôi sẽ quay lại** *sau một giờ* **với nhiều thông tin cập nhật hơn**.	|	
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 ##### More Expressions
 
 {% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part4/part4-theory-more-exp-007.mp3 %}
 
-|	Opening	|	Good morning, this is Ron Springs with the day's weather report.	|	Chào buổi sáng, đây là Ron Springs với báo cáo thời tiết trong ngày.
-|		|	Good afternoon. This is Jerry Lewis with the 2 o'clock weather update.	|	Chào buổi trưa. Đây là Jerry Lewis với bản cập nhật thời tiết lúc 2 giờ.
-|		|	Now, here is Susan with the weather update for the week.	|	Bây giờ, đây là Susan với bản cập nhật thời tiết trong tuần.
-|	Details	|	After a long week of fine weather, we are expecting a rain shower this afternoon.	|	Sau một tuần dài thời tiết đẹp, chúng ta đang mong đợi một cơn mưa rào vào chiều nay.
-|		|	The cold temperatures that have hit the city will stay with us for at least a week.	|	Nhiệt độ lạnh đã đến với thành phố sẽ ở lại với chúng tôi trong ít nhất một tuần.
-|		|	A sudden change in the direction of the wind is forcing Arctic winds to head south into our area.	|	Sự thay đổi hướng gió đột ngột đang buộc gió Bắc Cực hướng về phía nam vào khu vực của chúng ta.
-|		|	The cold temperatures are expected to stay with us until Tuesday.	|	Nhiệt độ lạnh dự kiến sẽ ở lại với chúng ta cho đến thứ Ba.
-|	Suggestion	|	So, if you are planning to go outside today, make sure you are prepared for freezing temperatures.	|	Vì vậy, nếu bạn dự định đi ra ngoài hôm nay, hãy chắc chắn rằng bạn đã chuẩn bị cho nhiệt độ lạnh.
-|		|	The temperature is expected to drop to the negative degrees, and those who are planning to go out should wear warm clothes.	|	Nhiệt độ dự báo sẽ xuống âm độ, những ai có ý định ra ngoài nên mặc áo ấm.
-|	Closing	|	I'll be back in an hour with more weather updates from around the city.	|	Tôi sẽ quay lại sau một giờ nữa với nhiều thông tin cập nhật về thời tiết từ khắp thành phố.
+|	**Opening**	|	Good morning, this is Ron Springs **with the day's weather report**.	|	Chào buổi sáng, đây là Ron Springs **với báo cáo thời tiết trong ngày.**
+|		|	Good afternoon. This is Jerry Lewis **with the 2 o'clock weather update**.	|	Chào buổi trưa. Đây là Jerry Lewis **với bản cập nhật thời tiết lúc 2 giờ.**
+|		|	Now, here is Susan **with the weather update for the week.**	|	Bây giờ, đây là Susan **với bản cập nhật thời tiết trong tuần.**
+|	**Details**	|	*After* **a long week of** *fine weather*, **we are expecting** *a rain shower* this afternoon.	|	*Sau* **một tuần dài** *thời tiết đẹp*, **chúng ta đang mong đợi** *một cơn mưa rào* vào chiều nay.
+|		|	*The cold temperatures* **that have hit the city** *will stay with us* **for at least a week**.	|	*Nhiệt độ lạnh* **đã đến với thành phố** *sẽ ở lại với chúng tôi* **trong ít nhất một tuần**.
+|		|	A **sudden change** *in the direction of the wind* **is forcing** *Arctic winds* **to head south** *into our area*.	|	Sự **thay đổi** *hướng gió* {% u đột ngột %} **đang buộc** *gió Bắc Cực* **hướng về phía nam** *vào khu vực của chúng ta*.
+|		|	*The cold temperatures* **are expected to stay with us** *until Tuesday*.	|	*Nhiệt độ lạnh* **dự kiến sẽ ở lại với chúng ta** *cho đến thứ Ba*.
+|	**Suggestion**	|	So, **if you are planning** *to go outside today*, **make sure** *you are prepared* **for freezing temperatures**.	|	Vì vậy, **nếu bạn dự định** *đi ra ngoài hôm nay*, **hãy chắc chắn rằng** *bạn đã chuẩn bị* **cho nhiệt độ lạnh**.
+|		|	*The temperature* **is expected to drop to** *the negative degrees*, and **those** *who are planning* **to go out** *should wear warm clothes*.	|	*Nhiệt độ* **dự báo sẽ xuống** *âm độ*, **những ai** *có ý định* **ra ngoài** *nên mặc áo ấm*.
+|	**Closing**	|	**I'll be back** *in an hour* **with more weather updates from around the city**.	|	Tôi sẽ quay lại sau một giờ nữa với nhiều thông tin cập nhật về thời tiết từ khắp thành phố.
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 ### 08. Traffic Reports
@@ -292,31 +292,31 @@ Cách đọc trước câu hỏi:
 
 {% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part4/part4-theory-key-expressions-008.mp3 %}
 
-|	Now, to our local traffic report in the city.	|	Bây giờ, đến báo cáo giao thông địa phương của chúng tôi trong thành phố.	|	
-|	This is [a name] with the local traffic update. 	|	Đây là [tên] có cập nhật giao thông cục bộ.	|	
-|	be causing [creating] a problem	|	đang gây ra [tạo ra] một vấn đề	|	
-|	be backed up	|	được sao lưu	|	
-|	be advised [asked] to-V	|	được khuyên [được hỏi] đến-V	|	
+|	Now, **to our local traffic report** in the city.	|	Bây giờ, **đến báo cáo giao thông địa phương** của chúng tôi trong thành phố.	|	
+|	**This is** [a name] **with the local traffic update**. 	|	**Đây là** [tên] **có cập nhật giao thông cục bộ.**	|	
+|	**be causing** [**creating**] *a problem*	|	***đang gây ra*** [**tạo ra**] *một vấn đề*	|	
+|	**be backed up**	|	được sao lưu	|	
+|	**be advised** [**asked**] *to-V*	|	**được khuyên** [*được hỏi*] *để-V*	|	
 |	be expected to-V	|	được mong đợi để-V	|	
-|	if you are thinking of ~, you should V ~.	|	nếu bạn đang nghĩ đến ~, bạn nên V ~.	|	
-|	We'll be (right) back with ~.	|	Chúng tôi sẽ (phải) trở lại với ~.	|	
+|	**if you are thinking of** ~, **you should V** ~.	|	**nếu bạn đang nghĩ đến** ~, **bạn nên V** ~.	|	
+|	**We'll be (right) back with** ~.	|	**Chúng tôi sẽ (ngay) trở lại với** ~.	|	
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 ##### More Expressions
 
 {% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part4/part4-theory-more-exp-008.mp3 %}
 
-|	Opening	|	Now, to our local traffic report in the city.	|	Bây giờ, đến báo cáo giao thông địa phương của chúng tôi trong thành phố.
-|		|	Good morning, this is Sarah McKenzie with the traffic conditions around the city.	|	Chào buổi sáng, đây là Sarah McKenzie với tình hình giao thông xung quanh thành phố.
-|		|	Thank you for tuning in. This is Ralph Morris with the traffic report around the city.	|	Cảm ơn bạn đã theo dõi. Đây là Ralph Morris với báo cáo giao thông quanh thành phố.
-|	Details	|	The road conditions in the city are bad today. The heavy snowfall last night is creating traffic jams all around the city.	|	Điều kiện đường xá trong thành phố ngày nay rất tệ. Trận tuyết rơi dày đặc đêm qua đang tạo ra tình trạng tắc đường khắp thành phố.
-|		|	A major collision involving 4 vehicles at the intersection of Main and College streets is causing havoc around that area.	|	Một vụ va chạm lớn liên quan đến 4 phương tiện tại giao lộ của đường Chính và đường Cao đẳng đang gây ra tàn phá xung quanh khu vực đó.
-|		|	The major highways leading to the city from the suburbs are all backed up for miles due to the heavy rainstorm.	|	Các đường cao tốc lớn dẫn vào thành phố từ các vùng ngoại ô đều bị lùi hàng km do trận mưa lớn.
-|		|	The police have just arrived at the accident scene to direct traffic, but the clean-up is expected to take a few hours.	|	Cảnh sát vừa có mặt tại hiện trường vụ tai nạn để chỉ đạo giao thông nhưng việc dọn dẹp dự kiến ​​sẽ mất vài giờ.
-|		|	Commuters are advised to use public transportation today as more snow is expected throughout the day.	|	Người đi làm nên sử dụng phương tiện giao thông công cộng ngay hôm nay vì dự kiến ​​sẽ có nhiều tuyết hơn trong ngày.
-|		|	If you are thinking of going out today, you should leave your cars at home and use public transportation.	|	Nếu bạn đang nghĩ đến việc đi chơi hôm nay, bạn nên để xe ô tô ở nhà và sử dụng các phương tiện công cộng.
-|	Closing	|	We'll be back again in half an hour with more traffic updates.	|	Chúng tôi sẽ quay lại sau nửa giờ nữa với nhiều thông tin cập nhật về giao thông.
-|		|	For further updates, call the Road Traffic Authority at 755-9325.	|	Để biết thêm thông tin cập nhật, hãy gọi Cơ quan giao thông đường bộ theo số 755-9325.
+|	**Opening**	|	Now, **to our local traffic report** in the city.	|	Bây giờ, **đến báo cáo giao thông địa phương** của chúng tôi trong thành phố.
+|		|	Good morning, this is Sarah McKenzie **with the traffic conditions** *around the city*.	|	Chào buổi sáng, đây là Sarah McKenzie **với tình hình giao thông** *xung quanh thành phố*.
+|		|	Thank you for **tuning in**. This is Ralph Morris **with the traffic report** *around the city*.	|	Cảm ơn bạn đã **theo dõi**. Đây là Ralph Morris **với báo cáo giao thông** *quanh thành phố*.
+|	**Details**	|	**The road conditions** *in the city* **are bad today**. **The heavy snowfall** *last night* **is creating** *traffic jams* **all around the city**.	|	**Điều kiện đường xá** *trong thành phố* **hôm nay rất tệ**. **Trận tuyết rơi dày đặc** *đêm qua* **đang tạo ra** *tình trạng tắc đường* **khắp thành phố**.
+|		|	**A major collision** *involving* **4 vehicles** *at the intersection* **of Main** and **College streets** *is causing* **havoc** *around that area*.	|	**Một vụ va chạm lớn** *liên quan đến* **4 phương tiện** *tại giao lộ* **của đường Chính** và **đường Cao đẳng** *đang gây ra* **tàn phá** *xung quanh khu vực đó.*
+|		|	**The major highways** *leading to the city* **from the suburbs** *are all backed up* **for miles** *due to* **the heavy rainstorm**.	|	**Các đường cao tốc lớn** *dẫn vào thành phố* **từ các vùng ngoại ô** *đều bị lùi* **hàng km** *do* **trận mưa lớn**.
+|		|	*The police* **have just arrived** *at the accident scene* **to direct traffic**, but **the clean-up** *is expected to take a few hours*.	|	*Cảnh sát* **vừa có mặt** *tại hiện trường vụ tai nạn* **để chỉ đạo giao thông** nhưng **việc dọn dẹp** *dự kiến ​​sẽ mất vài giờ*.
+|		|	**Commuters** *are advised* **to use public transportation** today **as** *more snow is expected* **throughout the day**.	|	**Người đi làm** *nên* **sử dụng phương tiện giao thông công cộng** ngay hôm nay **vì** *dự kiến ​​sẽ có nhiều tuyết* hơn **trong ngày**.
+|		|	**If you are thinking of going out** today, **you should leave your cars at home** *and use public transportation.*	|	**Nếu bạn đang nghĩ đến việc đi chơi** hôm nay, **bạn nên để xe ô tô ở nhà** *và sử dụng các phương tiện công cộng*.
+|	**Closing**	|	**We'll be back again** *in half an hour* **with more traffic updates**.	|	**Chúng tôi sẽ quay lại** *sau nửa giờ nữa* **với nhiều thông tin cập nhật về giao thông**.
+|		|	**For further updates**, *call the Road Traffic Authority* **at 755-9325**.	|	**Để biết thêm thông tin cập nhật**, *hãy gọi Cơ quan giao thông đường bộ* **theo số 755-9325**.
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 ### 09. Speech
@@ -325,28 +325,28 @@ Cách đọc trước câu hỏi:
 
 {% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part4/part4-theory-key-expressions-009.mp3 %}
 
-|	I'd like to thank you for ~.	|	Tôi muốn cảm ơn bạn vì ~.	|	
-|	I'm honored to-V ~.	|	Tôi rất hân hạnh được-V ~.	|	
-|	It is with great pleasure that S + V ~.	|	Thật vui khi S + V ~.	|	
-|	The first [next/last] thing on our agenda is ~.	|	Điều đầu tiên [tiếp theo / cuối cùng] trong chương trình của chúng tôi là ~.	|	
-|	The first [next/last] thing I want to mention is ~.	|	Điều đầu tiên [tiếp theo / cuối cùng] tôi muốn đề cập là ~.	|	
-|	I'd like to mention ~.	|	Tôi muốn đề cập đến ~.	|	
-|	give a big hand	|	đưa một bàn tay lớn	|	
-|	give a big round of applause	|	cho một tràng pháo tay lớn	|	
+|	**I'd like to thank you for** ~.	|	**Tôi muốn cảm ơn bạn vì** ~.	|	
+|	**I'm honored to-V** ~.	|	**Tôi rất hân hạnh được-V** ~.	|	
+|	**It is with great pleasure** *that S + V* ~.	|	**Thật vui** *khi S + V* ~.	|	
+|	*The first [next/last] thing* **on our agenda** *is* ~.	|	*Điều đầu tiên [tiếp theo / cuối cùng]* **trong chương trình của chúng tôi** *là* ~.	|	
+|	*The first [next/last] thing* **I want to mention** *is* ~.	|	*Điều đầu tiên [tiếp theo / cuối cùng]* **tôi muốn đề cập** *là* ~.	|	
+|	**I'd like to mention** ~.	|	**Tôi muốn đề cập đến** ~.	|	
+|	**give a big hand**	|	**đưa một bàn tay lớn**	|	
+|	**give a big round of applause**	|	**cho một tràng pháo tay lớn**	|	
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 ##### More Expressions
 
 {% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part4/part4-theory-more-exp-009.mp3 %}
 
-|	Opening	|	I'd like to thank you for taking the time out of your busy schedules to attend today.	|	Tôi muốn cảm ơn bạn đã dành thời gian ra khỏi lịch trình bận rộn của mình để tham dự ngày hôm nay.
+|	**Opening**	|	I'd like to thank you for taking the time out of your busy schedules to attend today.	|	Tôi muốn cảm ơn bạn đã dành thời gian ra khỏi lịch trình bận rộn của mình để tham dự ngày hôm nay.
 |		|	I'm honored to be standing before you today to accept this award on behalf of our team.	|	Tôi rất vinh dự được đứng trước các bạn hôm nay để thay mặt cho nhóm của chúng tôi nhận giải thưởng này.
 |		|	Dear attendees, it is with great pleasure that I get to introduce our keynote speaker for today's talk, Dr. Linda Smith.	|	Kính thưa những người tham dự, rất vui khi tôi được giới thiệu diễn giả chính của chúng ta cho buổi nói chuyện hôm nay, Tiến sĩ Linda Smith.
-|	Details	|	As you know, we have been enjoying the success our company has been going through during the last two years.	|	Như bạn đã biết, chúng tôi đang tận hưởng những thành công mà công ty chúng tôi đã trải qua trong suốt hai năm qua.
+|	**Details**	|	As you know, we have been enjoying the success our company has been going through during the last two years.	|	Như bạn đã biết, chúng tôi đang tận hưởng những thành công mà công ty chúng tôi đã trải qua trong suốt hai năm qua.
 |		|	The next thing on our agenda is to welcome our new recruit.	|	Điều tiếp theo trong chương trình làm việc của chúng tôi là chào đón tân binh.
 |		|	I'd like to mention that this would not have been possible without the complete dedication of our researchers.	|	Tôi muốn đề cập rằng điều này sẽ không thể thực hiện được nếu không có sự cống hiến hoàn toàn của các nhà nghiên cứu của chúng tôi.
 |		|	She is here today to talk to us about the contents of her latest book, entitled "The Behavior of Infants.".	|	Cô ấy ở đây hôm nay để nói chuyện với chúng tôi về nội dung của cuốn sách mới nhất của cô ấy, có tựa đề "Hành vi của trẻ sơ sinh".
-|	Closing	|	The hard work you have been doing is going to pay off at the end of the year. Let's all keep our heads up and work toward that goal.	|	Công việc khó khăn bạn đang làm sẽ được đền đáp vào cuối năm. Tất cả chúng ta hãy ngẩng cao đầu và làm việc hướng tới mục tiêu đó.
+|	**Closing**	|	The hard work you have been doing is going to pay off at the end of the year. Let's all keep our heads up and work toward that goal.	|	Công việc khó khăn bạn đang làm sẽ được đền đáp vào cuối năm. Tất cả chúng ta hãy ngẩng cao đầu và làm việc hướng tới mục tiêu đó.
 |		|	I'd like for all of you to continue your great work, and I hope that we will break even more records this year.	|	Tôi muốn tất cả các bạn tiếp tục công việc tuyệt vời của mình và tôi hy vọng rằng chúng ta sẽ phá vỡ nhiều kỷ lục hơn nữa trong năm nay.
 |		|	Now, would you all join me in giving her a big hand to welcome her onto the stage?	|	Nào, các bạn cùng tôi giơ tay chào đón cô ấy lên sân khấu nhé?
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
