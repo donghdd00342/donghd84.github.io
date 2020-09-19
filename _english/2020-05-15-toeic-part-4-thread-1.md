@@ -45,12 +45,18 @@ Như vậy, Part 4 có khá nhiều điểm tương đồng với Part 3. Điể
 <div class="w3-card w3-leftbar w3-border-green w3-pale-green w3-panel w3-padding-16">Đọc trước câu hỏi trước khi đoạn audio bắt đầu để có thể hình dung bài nói chuyện đang nói về cái gì.</div>
 
 Cách đọc trước câu hỏi:
-- Đọc hiểu nghĩa của các câu hỏi (WHO, WHEN, WHAT, WHERE, WHY, HOW...)
 - Hình dung xem nội dung của đoạn hội thoại sắp tới **hướng đến điều gì** *và* **diễn ra ở đâu**
+- Ai là **khán giả** được nhắm đến và **người nói** là ai?
+- Người nói **cung cấp thông tin/dịch vụ gì?**
+- Chú ý đến câu hỏi về **số lượng** và **thời gian**
 
 <div class="w3-card w3-leftbar w3-border-green w3-pale-green w3-panel w3-padding-16">Suy luận từ những dữ kiện của câu hỏi. Một số bài dễ có thể suy luận mà không cần nghe audio.</div>
 
 <div class="w3-card w3-leftbar w3-border-green w3-pale-green w3-panel w3-padding-16">Nghe và tô đáp án ngay lập tức nếu có dấu hiệu đáp án đúng</div>
+
+<div class="w3-card w3-leftbar w3-border-red w3-pale-red w3-panel w3-padding-16">Đọc câu hỏi cẩn thận không bị lừa (...nhiều hơn 500, gấp đôi số vé ban đầu => tổng hiện tại là 1000 vé chứ không phải 500; giá vé thay đổi còn 20$ => vậy 5 vé là 100$...)</div>
+
+<div class="w3-card w3-leftbar w3-border-green w3-pale-green w3-panel w3-padding-16">CÚ LỪA: ...Khoảng giữa 20-29 độ là 25 độ. (<i>trong bài sẽ nghe loáng thoáng số 20 mà không có số 25</i>)</div>
 
 ## Expressions
 
@@ -513,4 +519,192 @@ Cách đọc trước câu hỏi:
 | *If you have more questions* **I'd be happy to answer them**. | *Nếu cô có bất cứ câu hỏi nào*, **tôi rất vui khi được trả lời chúng.**
 | You **can reach me** *at 590-095-6446* **or** *on my cell at* 342-768-0120. | **Cô có thể gọi cho tôi** *theo số 590-095-6446* **hoặc** *điện thoại riêng ở số 342-768-0120*.
 | **Thank you for considering** *Premium Insurance*. | **Cám ơn đã chọn** *bảo hiểm Premium*.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+## Luyện tập với câu hỏi
+
+### Tour du lịch
+
+**Who** is *the speaker*? → Người nói là ai?
+- (A) A snake farmer. → Người trong trang trại rắn.
+- (B) A forest ranger. → Kiểm lâm.
+- **(C) A tour guide. → Hướng dẫn viên du lịch.** Ta thấy ý này trong câu "My name is Richard Benson and I'm your assigned tour guide for today."
+- (D) A Buddhist monk. → Nhà sư phật giáo.
+
+**What** will *they do first?* → Đầu tiên họ sẽ làm gì?
+- (A) Visit a Buddhist temple. → Thăm đền phật giáo.
+- (B) Shop at the city market. → Mua sắm tại khu chợ thành phố.
+- **(C) Walk up the mountain. → Leo núi.** Ta thấy ý này trong câu "We'll start off the day by taking a short hike up the mountain to observe the wild animals and exotic forestry"
+- (D) Watch some dangerous snakes. → Quan sát một vài loài rắn nguy hiểm.
+
+**What** does the speaker *remind the listeners to do?* → Người nói nhắc nhở người nghe làm gì?
+- (A) To take some money with them. → Mang theo tiền.
+- **(B) To bring along their cameras. → Mang theo máy chụp ảnh.** Ta thấy ý này trong câu "Also, don't forget to pack your video or digital cameras."
+- (C) To not be late getting back to the bus. → Không được trễ giờ lên xe buýt.
+- (D) To be careful at the snake farm. → Cẩn thận khi ở trang trại rắn.
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part4/IjSJi.mp3 %}
+
+| Good morning, everyone. **It's a bright**, *beautiful day* **today**, *isn't it*? | Xin chào moi người. **Ngày hôm nay là một ngày đẹp trời** *phải không ạ?*
+| **My name is** Richard Benson and **I'm your assigned tour guide** *for today*. | **Tôi tên là** Richard Benson và **tôi được phân làm người hướng dẫn đoàn** cho hôm nay.
+| We'll **start off the day** *by taking a short hike up the mountain* **to observe the wild animals** and **exotic forestry**, *which are found* **in no other region** *of the earth* **than this one**. | Chúng ta sẽ **bắt đầu ngày tham quan** *bằng việc đi bộ một đoạn ngắn lên núi* **để quan sát những loài động vật hoang dã** và **những loài thực vật đặc biệt** *mà bạn không thể tìm thấy chúng* **ở nơi nào khác trên trái đất này.**
+| **Then** *we'll pass* **some Buddhist temples**, *which were constructed* **in the 18th century**. | **Sau đó** *chúng ta sẽ qua* **một số ngôi đền phật giáo** *được xây dựng* **ở thế kỷ thứ 18**.
+| **We will spend some time** *there* **to relax** *and* **feel** *the serenity of the place*. | **Chúng ta sẽ nghỉ ngơi** *ở đó* **và cảm nhận** *sự tĩnh lặng của nơi đây*.
+| **Afterwards**, we will **head toward** *the city market* **for lunch**. | **Sau đó**, chúng ta sẽ **đi về** *khu chợ của thành phố* **dùng bữa trưa**.
+| **Once there**, you will **get to enjoy** *all kinds of delicacies* **of the local people**. | **Khi đến đó**, bạn sẽ **cảm nhận được** *hết tất cả sự duyên dáng* **của con người địa phương**.
+| **After lunch**, *we'll take you to* **a snake farm** *to take a look at* **some of the most venomous creatures** *on this earth*. | **Sau đó** *chúng ta sẽ đến* **nông trại rắn** *để ngắm nhìn* **một vài loài sinh vật độc nhất** *trên trái đất này*.
+| **So** *everyone*, **let's all** *get ready to leave*. **Also**, *don't forget* **to pack your video** *or* **digital cameras**. | **Nào** *mọi người*, **hãy** *chuẩn bị sẵn sàng*. **Và cũng** *đừng quên* **mang theo máy quay phim** *hoặc* **máy ảnh kỹ thuật số nhé**.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+### Thông báo ở phòng chờ sân bay
+
+**Who** is the **intended audience** for this announcement? → Thông báo này **nhắm đến đối tượng khán giả là ai?**
+- (A) Car commuters → Những người đi làm xa bằng ô tô
+- (B) Train travelers → Người đi lại bằng tàu lửa
+- (C) Bus riders → Người đi xe buýt
+- **(D) Airline customers → Khách hàng hàng không** Ta thấy thông báo này là về các chuyến bay -> người nghe là người đi máy bay
+
+**Where** would the **announcement most likely be heard?** → Có thể nghe được **thông báo này ở đâu?**
+- (A) At a train station → Ở sân ga
+- **(B) In an airport waiting area → Trong khu chờ của sân bay** Ta thấy thông báo này là về các chuyến bay -> có thể được nghe thấy tại sân bay
+- (C) On the radio → Trên radio
+- (D) In a bus depot → Ở trạm chờ xe buýt
+
+**What** does the **speaker suggest listeners do?** → Người nói **đề nghị người nghe làm gì?**
+- (A) Miss connecting flights → Bỏ lỡ các chuyến bay chuyển tiếp
+- (B) Call customer service → Gọi dịch vụ khách hàng
+- **(C) Get more information → Lấy thêm thông tin** Ta thấy ý này trong câu "Please check the arrivals and departure boards, located on the concourses of each main terminal, for more specific information and updates on individual flights."
+- (D) Fly Midwestern Airlines → Bay của hãng Midwestern
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part4/fgvtL.mp3 %}
+
+| Ladies and gentlemen, **can I have your attention please**. | Kính chào quý ông và quý bà, **tôi xin có đôi lời.**
+| We **regret to inform** you that **a thunderstorm** in Chicago **has delayed several flights.**  | Chúng tôi **lấy làm tiếc khi phải thông báo** cho quý vị biết là **một cơn giông bão** ở Chicago **đã làm trì hoãn nhiều chuyến bay.**
+| Bluebird Airlines Flight 963 to Brussels, **scheduled for departure** *at 10:30 from gate C-7*, **is now scheduled to depart** *at 11:45 from gate C-4*. | Chuyến bay Bluebird Airlines số 963 đến Brussels, **được lên lịch khởi hành** *vào lúc 10h30 ở cổng C-7*, **giờ đã được chuyển sang** *11h45 từ cổng C-4*.
+| Concord Airlines Flight 226 to Hong Kong, **scheduled for departure** at 11:30 from gate N-8, **is now scheduled to depart** at 2 o'clock. | Chuyến bay Concord Airlines 226 đến Hong Kong, **được lên lịch khởi hành** vào lúc 11h30 ở cổng N-8, **giờ được chuyển sang** 2h chiều.
+| **In addition**, all flights **arriving** on Midwestern Airlines **have been delayed** *one hour*. | **Thêm vào đó**, tất cả *chuyến bay* **đến** của hãng Midwestern Airlines **đã bị trì hoãn** *một tiếng*.
+| Flights arriving on Jet Green Air **have been delayed** *intermittently*. | Các chuyến bay đến của hãng Jet Green Air **cũng bị trì hoãn** *không liên tục*.
+| Please check **the arrivals** and **departure boards**, {% u located on %} **the concourses** *of each main terminal*, **for more specific information and updates** *on* **individual flights**. | Vui lòng kiểm tra **bảng thông báo chuyến đến** và **chuyến khởi hành**, {% u nằm ở %} **đại sảnh** *của từng ga chính* **để biết thêm thông tin chi tiết và cập nhật** *cho* **từng chuyến bay**.
+| **For passengers** *who will miss connecting flights*, please go to the customer service desk of your **respective airlines** *for assistance*. | **Với những hành khách** *bị lỡ chuyến bay chuyển tiếp*, vui lòng đi đến quầy dịch vụ của **hãng máy bay** của quý vị *để được trợ giúp thêm*.
+| We are sorry for the **inconvenience**. | Chúng tôi xin lỗi vì **sự bất tiện** này.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+### Cung cấp lời khuyên cho những người muốn khởi nghiệp
+
+**What** is the **purpose of the talk?** → **Mục đích** của bài nói **là gì?**
+- (A) To give tips on how to quickly climb the corporate ladder. → Đưa ra những chiêu thức để thăng tiến nhanh trong công ty.
+- **(B) To provide advice to people who are thinking of starting a business. → Cung cấp lời khuyên cho những người muốn khởi nghiệp.**
+- (C) To learn to manage one's workers to get the most out of them. → Học cách quản lý và tận dụng tốt nhất nhân viên.
+- (D) To brainstorm new ideas on the products the company should be making. → Động não suy nghĩ những ý tưởng mới về sản phẩm mà công ty nên sản xuất.
+
+**Who** is **Michael Bell?** → **Michael Bell là ai?**
+- (A) The speaker. → Người nói.
+- (B) The CEO of a company. → Giám đốc điều hành của một công ty.
+- **(C) A business owner. → Chủ doanh nghiệp.**
+- (D) A motivational speaker. → Người diễn giả truyền cảm hứng.
+
+**What** does the **speaker recommend?** → Người nói **khuyên điều gì?**
+- (A) To listen to other people's ideas. → Lắng nghe ý kiến của người khác.
+- **(B) To always prepare a business plan. → Luôn luôn lên kế hoạch kinh doanh.**
+- (C) To have as many investors as possible. → Có càng nhiều nhà đầu tư càng tốt.
+- (D) To use a local bank if possible. → Sử dụng ngân hàng địa phương nếu có.
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part4/P0cDC.mp3 %}
+
+| **Many people** *have great ideas*, **yet** they have **much difficulty** *in getting* their own businesses **off the ground**. | **Nhiều người** *có ý tưởng rất hay*, **nhưng** *rất khó khăn* **trong việc làm cho** doanh nghiệp của họ **thành công (khỏi mặt đất)**.
+| If you are **the entrepreneurial type** *and* **are interested in** *starting your own business*, here are **a couple of words** *of interest* **from previous entrepreneurs** {% u such as %} Michael Bell and Susan McDonald, **who have started their own businesses**. | Nếu bạn thuộc **tuýp người thích khởi nghiệp** và **hứng thú với việc** *tự kinh doanh*, sau đây là **một vài lời** *rất thú vị* **từ những người khởi nghiệp trước** {% u như %} Michael Bell và Susan McDonald, **những người đã tự mở công ty cho chính mình**.
+| **First**, *you may have a great idea*, **but great ideas don't run a business**. | **Trước hết**, *có thể bạn cần phải có một ý tưởng tuyệt vời*, **nhưng những ý tưởng tuyệt vời không vận hành được một công ty.**
+| **To run a great business**, *it is always recommended* **that you have a business plan**. | **Để vận hành được công ty**, *bạn chắc chắn cần phải* **có kế hoạch kinh doanh**.
+| **This way** *if you're not sure* **where you are headed** *during the course of your business*, **you can always refer to** *the business plan* **that you constructed before** *you started your business*. | **Bằng cách này** *nếu bạn không chắc liệu có* **đang đi đúng hướng** *trong lúc kinh doanh hay không*, **bạn luôn có thể tham khảo/xem lại/quay lại** *kế hoạch kinh doanh* **mà bạn đề ra trước đó/ban đầu** *bạn bắt đầu kinh doanh*.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+### Quảng cảo nước tăng lực Rev up
+
+**What** is *being advertised?* → **Cái gì** *đang được quảng cáo?*
+- (A) Heart medication → Thuốc cho bệnh tim
+- **(B) An energy drink → Đồ uống tăng lực** Ta thấy ý này trong câu One package of Rev Up contains enough vitamins and minerals to energize you for five straight hours.
+- (C) A cola beverage → Nước cola
+- (D) Instant coffee → Cà phê hòa tan
+
+**What** does the speaker *claim about Rev Up?* → Người nói **nói gì về Rev Up?**
+- (A) It will make you stronger. → Nó sẽ giúp bạn trở nên mạnh mẽ hơn.
+- (B) It is a new type of drug. → Nó là một loại thuốc mới.
+- (C) It will leave you tired. → Nó sẽ khiến bạn trở nên mệt.
+- **(D) It works for five hours. → Nó có hiệu quả trong 5 tiếng.** Ta thấy ý này trong câu "One package of Rev Up contains enough vitamins and minerals to energize you for five straight hours."
+
+**Where** can people *buy Rev Up?* → Có thể **mua được Rev Up ở đâu?**
+- (A) In pharmacies → Trong nhà thuốc.
+- **(B) In supermarkets → Trong siêu thị.** Ta thấy ý này trong câu "available at supermarkets"
+- (C) Only online → Chỉ ở trên mạng.
+- (D) At coffee shops → Ở tiệm cà phê.
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part4/zcElN.mp3 %}
+
+| **Feeling run down**? {% u Low on energy %}? **Like** *you'll never make it through the day?* **Then** *it's time for you* **to Rev Up**. | **Cảm thấy kiệt sức**? {% u Thiếu năng lượng %}? **Cứ như là** *bạn chẳng thể nào sống nổi qua ngày?* **Vậy thì** *đã đến lúc bạn* **cần đến Rev Up**.
+| *One package of Rev Up* **contains** *enough vitamins and minerals* **to energize you** *for five straight hours*. | *Một gói Rev Up* **chứa** *đủ vitamin và khoáng chất* **để bổ sung năng lượng cho bạn** *suốt 5 tiếng liền.*
+| And **the best part** is, *you won't come crashing down* **even more tired** *than when you started*. | Và **phần tốt nhất** là, *bạn sẽ không bị* **kiệt sức** {% u và %} **gục ngã** và **trở nên mệt mỏi** *hơn lúc mới bắt đầu*.
+| **Mix** {% tooltip amazing [(adj) kinh ngạc] %} Rev Up **with a glass of cold water**, *and you'll feel* **energized** and **ready to tackle** *the busy day* **ahead of you**. | **Trộn** Rev Up **với một cốc nước lạnh**, *và bạn sẽ cảm thấy* **tràn đầy năng lượng** và **sẵn sàng đối mặt** *với một ngày bận rộn* **phía trước**.
+| Rev Up **contains** {% u more than %} 100 percent of the **vital nutrients** your body needs to help you think clearly and **perform at maximum efficiency**. | Rev Up **chứa** {% u hơn %} 100% **dưỡng chất thiết yếu** mà cơ thể bạn cần để giúp bạn suy nghĩ sáng suốt và **làm việc với hiệu suất tối đa**.
+| Rev Up **comes in** *three great flavors* -- grape, lime and cherry -- and is **available at supermarkets** *throughout* the Tri-County area. | Rev Up **có** *3 mùi* - nho, chanh và anh đào - và **có bán tại các siêu thị** *khắp* khu vực Tri-County.
+| **When you're down**, Rev it Up, with Rev Up. | **Khi bạn cảm thấy mệt mỏi**, cho tinh thần tăng lên, bằng Rev Up.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+### Tin nhắn thoại để sắp xếp một cuộc phỏng vấn
+
+**Who** is the *message for?* → Thông điệp này **dành cho ai?**
+- (A) Wanda Carlson → Wanda Carlson
+- **(B) James Yamaguchi → James Yamaguchi** Ta thấy ý này trong câu "this is Wanda Carson calling for James Yamaguchi."
+- (C) Kathleen Christenson → Kathleen Christenson
+- (D) The Local Business Journal → Tờ báo Kinh doanh Địa phương
+
+**What** is the **main purpose** of the message? → **Mục đích chính** của thông điệp này **là gì?**
+- **(A) To arrange a meeting → Để sắp xếp một buổi gặp mặt** Ta thấy ý này trong câu "I'd like to arrange a time this week that we could meet for an interview."
+- (B) To discuss development → Để thảo luận về việc phát triển
+- (C) To learn about the Twin Towers → Để biết về tòa Tháp đôi
+- (D) To solicit money → Để quyên tiền
+
+**What** does the speaker **ask the listener to do?** → Người nói **yêu cầu người nghe làm gì?**
+- (A) Meet him downtown → Gặp anh ta dưới phố
+- **(B) Return his phone call → Gọi lại cho anh ta** Ta thấy ý này trong câu "Could you please call me at 555-737-6233?"
+- (C) Write a newspaper article → Viết một bài báo
+- (D) Talk with Kareen Christenson → Nói chuyện với Kareen Christenson
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part4/hnobe.mp3 %}
+
+| Hello, **this is** *Wanda Carson* **calling for** *James Yamaguchi*. | Xin chào, **tôi là** *Wanda Carson* **gọi cho** *James Yamaguchi*.
+| James, I'm a **reporter** at the Local Business Journal, and **I was referred to you** by Kareen Christenson of **your marketing department**. | James, tôi là **một phóng viên** ở Tờ báo Kinh doanh Địa phương, và **tôi được giới thiệu tới bạn** bởi Kareen Christenson **trong bộ phận marketing của bạn.**
+| **She said that** *you would be a good person* **to talk with** *for my upcoming piece* on new downtown development, and *I'd like to arrange* **a time this week** *that we could meet* **for an interview**. | **Cô ấy nói rằng** *bạn sẽ là người phù hợp* **để nói chuyện** *cho mẩu tin sắp tới của tôi* về dự án phát triển đô thị mới, và *tôi muốn sắp xếp* **thời gian gặp trong tuần này** *để chúng ta có thể gặp* **phỏng vấn**.
+| **I'll need only** {% u about 20 minutes of your time %}. | **Tôi chỉ cần** {% u khoảng 20 phút của bạn thôi. %}
+| **I want to talk** {% u mostly about %} *the Twin Towers building*, **and also** *about developments* **in the works for next year**. | **Tôi muốn nói** {% u phần chính về %} *Tòa tháp Đôi*, **và cũng như** *về những dự án phát triển trong năm sau.*
+| **Could you please call me** *at 555-737-6233?* | **Bạn có thể vui lòng gọi cho tôi** *ở số 555-737-6233 được không?*
+| **Again**, *my name's Wanda Carlson* **of the Local Business Journal**. | **Một lần nữa**, *tên tôi là Wanda Carlson* **của Tờ báo Kinh doanh Địa phương.**
+| *Thank you. Goodbye*. | *Cám ơn. Tạm biệt.*
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+### Dự báo thời tiết cho đến cuối tuần
+
+**What** is the **current weather like outside?** → Thời tiết **bên ngoài hiện đang như thế nào?**
+- **(A) Sunny. → Trời nắng** Ta thấy ý này trong câu "The weather outside at the moment is fantastic with sunny skies"
+- (B) Rainy. → Trời mưa
+- (C) Cloudy. → Trời đầy mây
+- (D) Muggy. → Trời oi bức
+
+**When** will it **rain?** → **Khi nào** thì trời **sẽ mưa?**
+- (A) This afternoon. → Chiều nay
+- **(B) This evening. → Tối nay** Ta thấy ý này trong câu "by this evening, rain is expected to come our way."
+- (C) Tomorrow. → Ngày mai
+- (D) This weekend. → Cuối tuần này
+
+**What** will the **temperatures be like on Saturday?** → Thời tiết vào **thứ 7 sẽ như thế nào?**
+- (A) 20 degrees Celsius. → 20 độ C
+- **(B) 25 degrees Celsius. → 25 độ C** Ta thấy ý này trong câu "temperatures rising to the mid-20s by Saturday afternoon." *Khoảng giữa 20-29 độ là 25 độ.*
+- (C) 28 degrees Celsius. → 28 độ C
+- (D) 30 degrees Celsius. → 30 độ C
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part4/GMfRL.mp3 %}
+
+| **The weather outside** *at the moment* **is fantastic** *with sunny skies* and **mild temperatures** {% u throughout the city %}. | **Thời tiết ngoài trời** *hiện đang* **rất tuyệt vời**, *trời đầy nắng* và **nhiệt độ dễ chịu** {% u trên khắp thành phố. %}
+| *However*, **by this evening**, *rain is expected* **to come our way**. | *Tuy nhiên*, **vào tối nay**, *sẽ có một đợt mưa.*
+| *Tomorrow*, **we will have beautiful weather again**. | *Ngày mai*, **chúng ta sẽ lại có thời tiết đẹp trở lại.**
+| **It is going to last throughout the weekend** *with temperatures rising to the* {% u mid-20s %} **by Saturday afternoon**. | **Nó sẽ kéo dài xuyên suốt cả tuần** *với nhiệt độ tăng đến khoảng* {% u giữa 20-29 độ %} **vào chiều thứ bảy.**
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
