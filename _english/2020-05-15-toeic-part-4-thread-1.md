@@ -56,7 +56,7 @@ Cách đọc trước câu hỏi:
 
 <div class="w3-card w3-leftbar w3-border-red w3-pale-red w3-panel w3-padding-16">Đọc câu hỏi cẩn thận không bị lừa (...nhiều hơn 500, gấp đôi số vé ban đầu => tổng hiện tại là 1000 vé chứ không phải 500; giá vé thay đổi còn 20$ => vậy 5 vé là 100$...)</div>
 
-<div class="w3-card w3-leftbar w3-border-green w3-pale-green w3-panel w3-padding-16">CÚ LỪA: ...Khoảng giữa 20-29 độ là 25 độ. (<i>trong bài sẽ nghe loáng thoáng số 20 mà không có số 25</i>)</div>
+<div class="w3-card w3-leftbar w3-border-red w3-pale-red w3-panel w3-padding-16">CÚ LỪA: ...Khoảng giữa 20-29 độ là 25 độ. (<i>trong bài sẽ nghe loáng thoáng số 20 mà không có số 25</i>)</div>
 
 ## Expressions
 
@@ -707,4 +707,169 @@ Cách đọc trước câu hỏi:
 | *However*, **by this evening**, *rain is expected* **to come our way**. | *Tuy nhiên*, **vào tối nay**, *sẽ có một đợt mưa.*
 | *Tomorrow*, **we will have beautiful weather again**. | *Ngày mai*, **chúng ta sẽ lại có thời tiết đẹp trở lại.**
 | **It is going to last throughout the weekend** *with temperatures rising to the* {% u mid-20s %} **by Saturday afternoon**. | **Nó sẽ kéo dài xuyên suốt cả tuần** *với nhiệt độ tăng đến khoảng* {% u giữa 20-29 độ %} **vào chiều thứ bảy.**
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+### Gọi điện để hủy hẹn và xin hẹn vào một ngày khác
+
+**Who** is the **message for?** → Thông điệp này dành cho ai?
+- (A) Adam Swanson → Adam Swanson
+- **(B) Ron Jaworski → Ron Jaworski** Ta thấy ý này trong câu "Hi, this is Adam Swanson calling for Ron Jaworski."
+- (C) Pete Schilling → Pete Schilling
+- (D) Crystal Gains → Crystal Gains
+
+**What** is the **main purpose of the message?** → Mục đích chính của thông điệp này là gì?
+- **(A) To reschedule an appointment → Để lên lịch một cuộc hẹn** Ta thấy ý này trong câu "I'd like to reschedule for later in the week,"
+- (B) To explain a meeting cancellation → Để giải thích việc hủy một cuộc họp
+- (C) To propose a new meeting topic → Để đề nghị một chủ đề mới cho cuộc họp
+- (D) To change a meeting location → Để thay đổi địa điểm họp
+
+**What** will the listener **probably do next?** → Người nghe có lẽ sẽ làm gì tiếp theo?
+- (A) Cancel Monday's meeting → Hoãn cuộc hẹn ngày thứ 2
+- (B) E-mail Crystal Gains → Gửi email cho Crystal Gains
+- **(C) Return the phone call → Trả lời một cuộc gọi điện thoại** Ta thấy ý này trong câu "Please call me as soon as you can after hearing this."
+- (D) Take a long vacation → Đi nghỉ dài ngày
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part4/EZmEM.mp3 %}
+
+| Hi, **this is** *Adam Swanson* **calling for** *Ron Jaworski*. | Chào, **tôi là** *Adam Swanson*, **gọi để gặp** *Ron Jaworski.* 
+| **It's about** 3 **on Friday afternoon**. | **Giờ đã là** 3 giờ **chiều thứ 6**. 
+| Ron, **I had something come up** {% u at the last-minute %}, so **I won't *be able to meet* with you and Pete Schiling** Monday {% u as we had planned %}. | Ron, **tôi có chuyện gấp** {% u vào phút chót %} nên **không thể đến gặp bạn và Pete Schilling** *vào thứ hai* {% u như chúng ta đã bàn. %} 
+| **I'd like to reschedule** {% u for later in the week %}, **if *that works for* you and Pete**. | **Tôi muốn chuyển lại** {% u vào một ngày khác trong tuần %}, **nếu *tiện cho* anh và Pete**. 
+| **I'm available** {% u late Tuesday %} **and** {% u Thursday afternoons %}, but {% u early morning Wednesday %} **or** {% u Friday %} **would *actually* be best for me**. | **Tôi rảnh vào** {% u cuối ngày thứ 3 %} và {% u các chiều thứ 5 %}, nhưng nếu là {% u sáng sớm thứ 4 %} **hoặc** {% u thứ 6 %} **là tiện nhất với tôi**. 
+| We **could still meet** at Pete's office, **as we planned**, or I'd be able to meet **somewhere else** {% u if it's more convenient for you. %} | Chúng ta **vẫn có thể gặp** ở văn phòng của Pete **như đã bàn**, hoặc là tôi có thể gặp **ở chỗ khác** {% u nếu tiện với anh. %} 
+| *Sorry about* **the cancellation**. *Please call me* **as soon as you can** *after* {% u hearing this %}. | *Xin lỗi vì* **đã hủy hẹn**. *Xin gọi lại cho tôi* **ngay khi anh** {% u nghe %} **được lời nhắn này**. 
+| *My cell is 886-2468*, **or** *you can call my office at 351-9823* **and** *leave a message with my secretary, Crystal Gains*. | *Số di động của tôi là 886-2468*, **hoặc** *anh có thể điện đến văn phòng tôi ở số 351-9823* **và** *để lại lời nhắn cho thư ký của tôi là Crystal Gains*. 
+| *Thanks, Ron*. **I'll talk to you soon**. | *Cám ơn Ron*, **tôi sẽ nói chuyện với anh sau**.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+### Trả lời sau khi nhận được tin nhắn yêu cầu thay đổi giờ họp và lên lịch lại cuộc hẹn
+
+**Who** is the **message for?** → Thông điệp này là **dành cho ai?**
+- **(A) Clancy Billups → Clancy Billups** Ta thấy ý này trong câu chào đầu bài "Hi Clancy Billups,"
+- (B) Darlene Ellstad → Darlene Ellstad
+- (C) Frugal Financial Services → Frugal Financial Services
+- (D) Lori Crowther → Lori Crowther
+
+**What** is the **main purpose of the message?** → Mục đích chính của **thông điệp này là gì?**
+- (A) To offer financial advice → Để cung cấp lời khuyên về tài chính
+- (B) To exchange contact information → Để trao đổi thông tin liên lạc
+- **(C) To reschedule an appointment → Để lên lại lịch cuộc hẹn** Ta thấy trong bài có câu "I got your message asking about changing our meeting time" và sau đó người nói đưa ra các thời gian mà người nói có thể chuyển được
+- (D) To make an introduction → Để đưa ra giới thiệu
+
+**What** does the speaker **suggest the listener should do?** → Người nói đề nghị người nghe **nên làm gì?**
+- (A) Change the meeting time → Thay đổi thời gian cuộc họp
+- (B) Come at 4 o'clock → Đến vào lúc 4 giờ
+- (C) Cancel the meeting → Hoãn cuộc họp
+- **(D) Telephone him → Gọi cho anh ta** Ta thấy ý này trong câu "Why don't you call me"
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part4/DQiBa.mp3 %}
+
+| Hi Clancy Billups, **this is** *Darlene Ellstad* **with** *Frugal Financial Services* **calling again**. | Chào Clancy Billups, **tôi là** *Darlene Ellstad* **ở công ty** *Frugal Financial Services* **gọi lại**.
+| *I got your message* **asking about changing our meeting time** *on Thursday from 5 o'clock to 3*, and **I'm afraid that time won't work for me**. | *Tôi nhận được tin nhắn của anh* **yêu cầu thay đổi giờ họp** *vào thứ 5 từ 5h sang 3h* và **tôi e là không được rồi**.
+| I'm **tied up** *in a tele-conference that day* **until 4**. | Tôi **bận tham gia** *một hội nghị qua điện thoại vào ngày đó* **cho đến 4h mới xong**.
+| **Would *4 o'clock* work for you?** | **4h thì có tiện cho anh không?**
+| **If not**, {% u I'm available %} **Friday morning** *at 8 and 11*, **and in the afternoon** *at either 2 or 3:30*. | **Nếu không,** {% u tôi rảnh %} **vào sáng thứ 6**, *lúc 8h và 11h*, **và vào buổi chiều** *lúc 2h hoặc 3h30.*
+| **Otherwise**, *we'll have to* **aim** {% u for next week sometime %}. | **Nếu không được nữa thì** *chúng ta phải* **dời qua** {% u tuần sau %} thôi.
+| *Monday and Wednesday afternoons* **work best for me**, but I **also have a couple of morning openings** *on Tuesday and Friday*. | *Chiều thứ 2 và thứ 4* **là tốt nhất** nhưng tôi cũng **rảnh vào một số giờ** *trong sáng thứ 3 và thứ 6*.
+| **Why don't you call me** {% u and %} **let me know what works best for you?** | **Anh hãy gọi cho tôi** {% u và %} **cho tôi biết giờ nào tiện nhất với anh nhé**.
+| **My office number** *is 555-3084, extension 111*. | **Số văn phòng của tôi** *là 555-3084, số máy lẻ là 111*.
+| **If I'm not in**, *you can* **set an appointment** *with my secretary*, Lori Crowther. | **Nếu tôi không có ở văn phòng**, *anh có thể* **lên lịch hẹn** *với thư ký của tôi* là Lori Crowther.
+| **Or**, {% u you could try my cell %} *at 555-3169*. | **Hoặc không** {% u anh có thể gọi số di động của tôi %} *là 555-3169*.
+| **If you need to e-mail me**, it's {% u dellstad at frugal.net %}. | **Nếu cần email cho tôi**, địa chỉ email là {% u dellstad@frugal.net. %}
+| **I'm looking forward to meeting with you**, Mr. Billups. Good bye. | **Tôi mong chờ sẽ được gặp anh**. Tạm biệt.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+### Thông báo các chuyến bay bị hủy và delay vì thời tiết thay đổi thất thường ở một số điểm đến.
+
+**What** is **causing** the schedule changes? → **Điều gì gây ra** sự thay đổi về kế hoạch bay?
+- **(A) Weather conditions. → Điều kiện thời tiết.** Ta thấy ý này ở câu "Due to the unanticipated weather changes at several of our scheduled destinations, a number of flights will either be cancelled or severely delayed."
+- (B) Overbooked flights. → Chuyến bay hết chỗ.
+- (C) An Airline employee strike. → Đình công của nhân viên hãng hàng không.
+- (D) A security alert. → Báo động an ninh.
+
+**Which of the following** flights has been **cancelled**? → **Chuyến bay nào** trong số những chuyến sau **bị hủy?**
+- (A) Flight number 776. → Chuyến bay 776.
+- **(B) Flight number 777. → Chuyến bay 777.** Ta thấy ý này ở câu "Flight numbers 777, 778, and 779 have been cancelled"
+- (C) Flight number 789. → Chuyến bay 789.
+- (D) Flight number 790. → Chuyến bay 790.
+
+*According to the speaker*, **what suggestion** is given to those passengers who must leave town immediately? → Theo người thông báo, những hành khách muốn rời đi liền **nên làm gì?**
+- (A) Drive their cars. → Láy xe hơi của họ.
+- (B) Cancel their trips. → Hủy chuyến đi của họ.
+- **(C) Contact their travel agents. → Liên hệ với công ty lữ hành của họ.** Ta thấy ý này ở câu "If you need to depart immediately, we suggest checking with your local travel agent to find alternative routes available throughout the day."
+- (D) Talk to an airline staff member. → Nói chuyện với nhân viên hãng hàng không.
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part4/TXStP.mp3 %}
+
+| **Due to** {% u the unanticipated weather changes %} **at several of** {% u our scheduled destinations %}, **a number of flights** will **either** *be cancelled* **or** *severely delayed*. | **Do** {% u thời tiết thay đổi thất thường %} **ở một số** {% u điểm đến của chúng ta %}, một số lượng lớn chuyến bay {% u sẽ được hủy %} **hoặc** {% u hoãn lại %}.
+| *Flight numbers* {% u 777, 778, and 779 %} **have been cancelled** and passengers {% u will be rescheduled %} **for different flights** {% u later this evening %}. | *Chuyến bay số* {% u 777, 778 và 779 %} **đã được hủy** và hành khách {% u sẽ được sắp xếp %} **lên chuyến bay khác** {% u vào tối nay %}.
+| *Flight numbers* {% u 776, 789, and 790 %} **have been delayed *indefinitely***. | *Chuyến bay* {% u 776, 789 và 790 %} **sẽ hoãn lại *vô thời hạn***.
+| We **will have** {% u their rescheduled times %} **available for you** {% u shortly %}. | **Chúng tôi sẽ sớm có/thông báo** {% u lịch bay dời lại %} **cho quý khách**.
+| If you **need to depart** {% u immediately %}, **we suggest checking with** *your local travel agent* **to find alternative routes available** *throughout the day*. | Nếu **bạn cần khởi hành** {% u ngay lập tức %}, **chúng tôi đề nghị quý khách kiểm tra với** *các công ty lữ hành nội địa* **để tìm chuyến bay sẽ cất cánh** *trong suốt ngày hôm nay*.
+| We **sincerely apologize** for **the inconvenience caused**. | Chúng tôi **chân thành xin lỗi** vì **sự bất tiện này**.
+| {% u For you convenience %}, **the lounge on the first floor** *will serve* **complimentary drinks and snacks**. | {% u Để tiện cho quý khách %}, **phòng chờ ở tầng một** *sẽ phục phụ* **nước và thức ăn nhẹ *miễn phí/tặng/biếu***.
+| **You are invited** *to wait there* **if you deem it** {% u fitting to do so %}. | **Quý khách được mời** *để chờ ở đó* **nếu quý khách cho là/nghĩ là** {% u việc đó thích hợp %}.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+### Tình hình giao thông trên Radio với sự tài trợ của Koala Cola
+
+**Where** is this report most likely being broadcast? → Thông báo này có khả năng là được phát sóng ở đâu nhất?
+- (A) On television → Trên tivi
+- (B) On the Internet → Trên Internet
+- **(C) On radio → Trên radio** Ta có thể suy ra ý này từ cụm "WRAP-FM traffic."
+- (D) On an MP3 → Trên MP3
+
+**What** does the speaker say about traffic? → Người nói nói gì về xe cộ?
+- (A) It is flowing smoothly. → Nó di chuyển thuận lợi.
+- **(B) It is very heavy. → Nó đang bị kẹt nặng.** Ta thấy ý này trong câu "The commute is pretty much a mess everywhere at this hour."
+- (C) It is lighter than usual. → Nó nhẹ hơn thông lệ.
+- (D) It is a commute. → Nó gồm những người đi làm xa nhà.
+
+**Who** is sponsoring this report? → Ai là người tài trợ cho báo cáo này?
+- (A) Patricia Prentice → Patricia Prentice
+- (B) WRAP-FM → WRAP-FM
+- (C) The convention center → Trung tâm hội nghị
+- **(D) Koala Cola → Koala Cola** Ta thấy ý này trong câu "This report is brought to you by Koala Cola,"
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part4/TpngW.mp3 %}
+
+| *Patricia Prentice* **here with** *WRAP-FM* **traffic**. | **Tôi là** *Patricia Prentice* **với đài giao thông** *WRAP-FM*.
+| *The commute* **is pretty much a mess** {% u everywhere at this hour %}. | *Việc đi làm xa* **gần như luôn lộn xộn** {% u ở bất kỳ đâu vào giờ giấc này. %}
+| *Highway 22* **is crawling** from downtown to the North Street exit. | Xe cộ trên Highway 22 **đang di chuyển rất chậm/bò trườn** từ dưới phố xuống lối đi Phía bắc.
+| Interstate 7 {% u is a logjam %} **between** *Hillville* **to** *the county line*, and *State Route 10* **is heavy** {% u from %} *the city heading east* {% u into %} *Bell Acres*. | Đường Interstate 7 {% u gần như không thể di chuyển được %} **giữa** *Hillville* **đến** *đường chạy về đường biên*, và *State Route 10* **kẹt xe nặng nề** {% u từ %} *phía thành phố* {% u hướng ra %} *phía đông vào khu vực Bell Acres*.
+| **We're getting a report** *of a two-car* **collision** *on Highway 12* **just** *south of Kinnear Street* **that's blocking the left two lanes there**. | *Chúng tôi nhận được bản báo cáo về* **một vụ va chạm** *2 xe hơi trên Highway 12* **nằm** *ở phía nam đường Kinnear*, **kết quả là chặn hai làn đường bên trái ở đó.**
+| **The only route** *that looks pretty good right now* **is** *Interstate 306*, which is **bottle-necked** at the **convention center** but **clears** *west of there* **and then** *is off* and **on into** Rockway. | **Con đường duy nhất** *trông có vẻ vẫn còn ổn hiện giờ* **là** *Interstate 306*, vẫn còn **di chuyển chậm** ở khu vực **trung tâm hội nghị** nhưng **đã thông** từ *phía tây ở đó* và lúc **kẹt** lúc thông **vào hướng** Rockway.
+| This report **is brought to you by** {% u Koala Cola %}, the drink that is **refreshingly different**. | Bản tin này được Koala Cola mang đến cho bạn, món nước giải khát mà **khác biệt và làm con người tỉnh táo**.
+| **This has been** *Patricia Prentice* **for** *WRAP-FM*. | **Vẫn luôn là** *Patricia Prentice* **của đài** *WRAP-FM*.
+| **Our next** *Koala Cola update* {% u will be at the top of the hour %}. | Cập nhật mới nhất **tiếp theo của chúng tôi** về Koala Cola {% u sẽ là vào đầu giờ sau %}.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+### Họp các chuyên viên quản lý để trình bày một số thay đổi sẽ diễn ra trong công ty
+
+**Who** is most likely **the audience of this talk?** → **Ai** có khả năng sẽ là người **nghe bài nói này?**
+- (A) The sales staff. → Nhân viên kinh doanh.
+- (B) Accountants. → Kế toán.
+- **(C) Managers. → Nhân viên quản lý.** Ta thấy ý này trong câu "I have invited all the managerial staff here today to explain a few changes that will take place here."
+- (D) Lawyers. → Luật sư.
+
+**What** will **be sent to the head office?** → **Cái gì được gởi** đến văn phòng trụ sở chính?
+- (A) Computer disks. → Đĩa máy tính.
+- **(B) Sales reports. → Báo cáo doanh số.** Ta thấy ý này trong câu "Payroll and sales reports were kept here in our main computer in the past, but they will be sent to the head office for review and final confirmation from now on."
+- (C) Employee records. → Hồ sơ nhân viên.
+- (D) Daily reports. → Báo cáo hàng ngày.
+
+**What** is **causing the change to occur?** → **Điều gì** tạo nên sự thay đổi này?
+- (A) A request made by the acting board members. → Thành viên hội đồng quản trị đưa ra đề nghị này.
+- (B) An order by the new president who was recently appointed. → Lệnh của tổng thống mới đắc cử.
+- **(C) A new regulation set by the Financial Accounting Services Board. → Luật mới được đưa ra bởi Hội đồng dịch vụ kế toán tài chính.** Ta thấy ý này trong câu "This procedure is being introduced to comply with the reporting procedures of the Financial Accounting Services Board in accordance with new regulation 134."
+- (D) An attempt by the managerial staff to improve the working conditions. → Sự nỗ lực của nhân viên quản lý để cải thiện điều kiện làm việc.
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part4/qTlYe.mp3 %}
+
+| Good afternoon, everyone, and thank you for **attending today's meeting**. | Chào mọi người, cám ơn mọi người **đã tham dự buổi họp hôm nay**.
+| *I have invited* **all the managerial staff** *here today* **to explain a few changes** *that will take place here*. | *Tôi đã mời* **tất cả những chuyên viên quản lý** *đến đây hôm nay* **để trình bày một số sự thay đổi** *sẽ diễn ra trong công ty*.
+| **First**, {% u as you know %}, **some changes** *have been* **put into place** {% u regarding %} *payroll and sales reports*. | **Đầu tiên**, {% u như mọi người đã biết %}, **một số thay đổi** *đã được* **tiến hành** {% u liên quan đến %} *bảng lương và báo cáo doanh số*.
+| *Payroll and sales reports* **were kept here** *in our main computer* **in the past**, but **they will be sent to** *the head office* **for review and final confirmation** {% u from now on %}. | *Bảng lương và báo cáo doanh số* **được lưu giữ** *trong máy chủ* **trong quá khứ**, nhưng sau này **chúng sẽ được chuyển đến cho** *trụ sở chính* **để kiểm tra và xác nhận**.
+| **This procedure** *is being introduced* **to comply** *with the reporting procedures* **of the Financial Accounting Services Board** *in accordance* **with new regulation 134**. | **Quy trình này** *được đưa ra* **nhằm để tương thích** *với quy trình báo cáo* **của hội đồng dịch vụ kế toán tài chính** *theo luật 134 mới*.
+| *The sales reports* **will also need to follow** *this same procedure* **in accordance** *with new regulation 135*. | **Báo cáo doanh số** **cũng sẽ phải đi theo** *quy trình tương tự* **theo luật 135 mới.**
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
