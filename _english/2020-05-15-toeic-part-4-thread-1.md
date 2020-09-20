@@ -525,6 +525,8 @@ Cách đọc trước câu hỏi:
 
 ### Tour du lịch
 
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part4/part4-questions-synthesize-001.mp3 %}
+
 **Who** is *the speaker*? → Người nói là ai?
 - (A) A snake farmer. → Người trong trang trại rắn.
 - (B) A forest ranger. → Kiểm lâm.
@@ -557,6 +559,8 @@ Cách đọc trước câu hỏi:
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 ### Thông báo ở phòng chờ sân bay
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part4/part4-questions-synthesize-002.mp3 %}
 
 **Who** is the **intended audience** for this announcement? → Thông báo này **nhắm đến đối tượng khán giả là ai?**
 - (A) Car commuters → Những người đi làm xa bằng ô tô
@@ -591,6 +595,8 @@ Cách đọc trước câu hỏi:
 
 ### Cung cấp lời khuyên cho những người muốn khởi nghiệp
 
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part4/part4-questions-synthesize-003.mp3 %}
+
 **What** is the **purpose of the talk?** → **Mục đích** của bài nói **là gì?**
 - (A) To give tips on how to quickly climb the corporate ladder. → Đưa ra những chiêu thức để thăng tiến nhanh trong công ty.
 - **(B) To provide advice to people who are thinking of starting a business. → Cung cấp lời khuyên cho những người muốn khởi nghiệp.**
@@ -619,6 +625,8 @@ Cách đọc trước câu hỏi:
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 ### Quảng cảo nước tăng lực Rev up
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part4/part4-questions-synthesize-004.mp3 %}
 
 **What** is *being advertised?* → **Cái gì** *đang được quảng cáo?*
 - (A) Heart medication → Thuốc cho bệnh tim
@@ -650,6 +658,8 @@ Cách đọc trước câu hỏi:
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 ### Tin nhắn thoại để sắp xếp một cuộc phỏng vấn
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part4/part4-questions-synthesize-005.mp3 %}
 
 **Who** is the *message for?* → Thông điệp này **dành cho ai?**
 - (A) Wanda Carlson → Wanda Carlson
@@ -683,6 +693,8 @@ Cách đọc trước câu hỏi:
 
 ### Dự báo thời tiết cho đến cuối tuần
 
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part4/part4-questions-synthesize-006.mp3 %}
+
 **What** is the **current weather like outside?** → Thời tiết **bên ngoài hiện đang như thế nào?**
 - **(A) Sunny. → Trời nắng** Ta thấy ý này trong câu "The weather outside at the moment is fantastic with sunny skies"
 - (B) Rainy. → Trời mưa
@@ -710,6 +722,8 @@ Cách đọc trước câu hỏi:
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 ### Gọi điện để hủy hẹn và xin hẹn vào một ngày khác
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part4/part4-questions-synthesize-007.mp3 %}
 
 **Who** is the **message for?** → Thông điệp này dành cho ai?
 - (A) Adam Swanson → Adam Swanson
@@ -743,6 +757,8 @@ Cách đọc trước câu hỏi:
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 ### Trả lời sau khi nhận được tin nhắn yêu cầu thay đổi giờ họp và lên lịch lại cuộc hẹn
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part4/part4-questions-synthesize-008.mp3 %}
 
 **Who** is the **message for?** → Thông điệp này là **dành cho ai?**
 - **(A) Clancy Billups → Clancy Billups** Ta thấy ý này trong câu chào đầu bài "Hi Clancy Billups,"
@@ -781,6 +797,8 @@ Cách đọc trước câu hỏi:
 
 ### Thông báo các chuyến bay bị hủy và delay vì thời tiết thay đổi thất thường ở một số điểm đến.
 
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part4/part4-questions-synthesize-009.mp3 %}
+
 **What** is **causing** the schedule changes? → **Điều gì gây ra** sự thay đổi về kế hoạch bay?
 - **(A) Weather conditions. → Điều kiện thời tiết.** Ta thấy ý này ở câu "Due to the unanticipated weather changes at several of our scheduled destinations, a number of flights will either be cancelled or severely delayed."
 - (B) Overbooked flights. → Chuyến bay hết chỗ.
@@ -812,6 +830,8 @@ Cách đọc trước câu hỏi:
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 ### Tình hình giao thông trên Radio với sự tài trợ của Koala Cola
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part4/part4-questions-synthesize-0091.mp3 %}
 
 **Where** is this report most likely being broadcast? → Thông báo này có khả năng là được phát sóng ở đâu nhất?
 - (A) On television → Trên tivi
@@ -846,6 +866,8 @@ Cách đọc trước câu hỏi:
 
 ### Họp các chuyên viên quản lý để trình bày một số thay đổi sẽ diễn ra trong công ty
 
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part4/part4-questions-synthesize-0092.mp3 %}
+
 **Who** is most likely **the audience of this talk?** → **Ai** có khả năng sẽ là người **nghe bài nói này?**
 - (A) The sales staff. → Nhân viên kinh doanh.
 - (B) Accountants. → Kế toán.
@@ -875,6 +897,8 @@ Cách đọc trước câu hỏi:
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 ### Dự báo thời tiết cho ngày mai
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part4/part4-questions-synthesize-0093.mp3 %}
 
 **What** will the weather be like tomorrow during the day? → Thời tiết sẽ như thế nào vào ngày mai?
 - (A) Cool → Mát
@@ -909,6 +933,8 @@ Cách đọc trước câu hỏi:
 
 ### Hỏi mua thiết bị nhà bếp của đơn vị có quảng cáo trên tờ báo địa phương
 
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part4/part4-questions-synthesize-0094.mp3 %}
+
 **Where** did the woman see this ad? → Người phụ nữ thấy quảng cáo này ở đâu?
 - (A) On a flyer → Trên tờ bướm
 - (B) On a sign → Trên bảng hiệu
@@ -941,19 +967,21 @@ Cách đọc trước câu hỏi:
 
 ### Cơ trưởng cung cấp thông tin về chuyến bay dài
 
-Where is this announcement probably being heard? → Có thể nghe được thông báo này ở đâu?
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part4/part4-questions-synthesize-0095.mp3 %}
+
+**Where** is this announcement probably being heard? → Có thể nghe được thông báo này ở đâu?
 - (A) On a train → Trên tàu lửa
 - (B) On a cruise ship → Trên du thuyền
 - (C) On a bus → Trên xe buýt
 - **(D) On an airplane → Trên máy bay** Ta có thể suy ra đáp án này từ câu "Welcome aboard. This is captain Markus DiPolo up here in the cockpit. Our flight to Chicago"
 
-What is the main purpose of the announcement? → Mục đích chính của thông báo này là gì?
+**What** is the main purpose of the announcement? → Mục đích chính của thông báo này là gì?
 - **(A) To provide information → Để cung cấp thông tin** Dựa vào nội dung của bài, ta thấy bài này cung cấp thông tin về chuyến bay như thời gian bay, thời tiết, độ cao, ...
 - (B) To update changes → Để cập nhật thay đổi
 - (C) To entertain passengers → Đểlàm hành khách vui
 - (D) To calm down smokers → Để làm những người hút thuốc bình tĩnh lại
 
-Who is making the announcement? → Ai là người đưa ra thông báo?
+**Who** is making the announcement? → Ai là người đưa ra thông báo?
 - (A) A flight attendant → Tiếp viên hàng không
 - (B) An engineer → Kỹ sư
 - **(C) A pilot → Phi công** Ta thấy ý này trong câu "This is captain Markus DiPolo up here in the cockpit."

@@ -538,6 +538,8 @@ Cách đọc trước câu hỏi:
 
 ### Tại quán ăn hỏi bồi bàn
 
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part3/questions-synthesize-001.mp3 %}
+
 **What** would the woman like? → Người phụ nữ muốn gì?
 - **(A) Some water → Một ít nước lọc** *Ta thấy ý này trong câu "I'd like to order some more water."*
 - (B) Some dessert → Một ít món tráng miệng
@@ -565,6 +567,8 @@ Cách đọc trước câu hỏi:
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 ### Nói chuyện với bác sĩ nha khoa để làm trắng răng
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part3/questions-synthesize-002.mp3 %}
 
 **What** does the patient want? → Người bệnh nhân muốn gì?
 - **(A) Shinier teeth. → Răng sáng bóng hơn.** Ta thấy ý trong câu "I just want you to restore the shine to my teeth."
@@ -596,6 +600,8 @@ Cách đọc trước câu hỏi:
 
 ### Nói về tranh sơn dầu ở bảo tàng
 
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part3/questions-synthesize-003.mp3 %}
+
 **What** does the man like about it? → Người đàn ông thích điều gì về bức họa?
 - (A) The size. → Kích thước.
 - **(B) The color. → Màu sắc.** Ta thấy ý trong câu "I admire the use of color."
@@ -626,6 +632,8 @@ Cách đọc trước câu hỏi:
 
 ### Hỏi về nguồn sỉ đồ thủy tinh
 
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part3/questions-synthesize-004.mp3 %}
+
 **How will** he obtain more information about what he needs? → Làm sao để anh ấy có được nhiều thông tin hơn về thứ anh ta cần?
 - (A) He'll write a letter. → Anh ấy sẽ viết một bức thư.
 - (B) He'll make a phone call. → Anh ấy sẽ thực hiện một cuộc gọi.
@@ -654,6 +662,8 @@ Cách đọc trước câu hỏi:
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 ### Nói về phong cách diễn xuất của một diễn viên
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part3/questions-synthesize-005.mp3 %}
 
 **What** are the speakers discussing? → Những người nói đang bàn luận về điều gì?
 - (A) The lighting in the theater. → Ánh sáng trong rạp chiếu phim.
@@ -685,6 +695,8 @@ Cách đọc trước câu hỏi:
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 ### Tặng vé xem phim cho đồng nghiệp
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part3/questions-synthesize-005.mp3 %}
 
 **What does** the woman offer the man? → Người phụ nữ đề nghị cho người đàn ông cái gì?
 - **(A) Free tickets. → Vé miễn phí.** Ta thấy ý trong câu "I got these two complimentary tickets that you can use at that theater."
@@ -719,6 +731,8 @@ Cách đọc trước câu hỏi:
 
 ### Nhờ gọi đội IT Support vì máy tính bị hỏng
 
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part3/questions-synthesize-006.mp3 %}
+
 **What is** the woman's problem? → Vấn đề của người phụ nữ là gì?
 - (A) She missed a meeting. → Cô ta lỡ một cuộc họp.
 - **(B) Her computer is not working. → Máy tính của cô ta bị hư.** Ta thấy ý này trong câu "Bob, did you contact technical support about my computer?"
@@ -747,6 +761,8 @@ Cách đọc trước câu hỏi:
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 ### Giới thiệu về văn phòng cho thuê với khách đến xem
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part3/questions-synthesize-007.mp3 %}
 
 **Who** most likely is the woman? → Người phụ nữ có khả năng là ai nhất?
 - (A) An architect. → Một kiến ​​trúc sư.
@@ -778,6 +794,8 @@ Cách đọc trước câu hỏi:
 
 ### Hỏi về bảng hợp đồng kinh doanh
 
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part3/questions-synthesize-008.mp3 %}
+
 **What are** the speakers discussing? → Người nói đang bàn về việc gì?
 - **(A) A business contract → Bảng hợp đồng kinh doanh** Ta thấy ý này trong câu "Arthur, did we receive the signed contract from the talent agency yet?"
 - (B) An invoice → Hóa đơn
@@ -806,6 +824,8 @@ Cách đọc trước câu hỏi:
 
 ### Công ty quảng cáo nói chuyện với khách hàng đang có nhu cầu
 
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part3/questions-synthesize-009.mp3 %}
+
 **Where do** the women work? → Người phụ nữ làm việc ở đâu?
 - **(A) At an advertising firm. → Tại một công ty quảng cáo.**
 - (B) At a music studio. → Tại một phòng thu âm.
@@ -833,6 +853,8 @@ Cách đọc trước câu hỏi:
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 ### Nhờ và căn dặn mua đồ nhu yếu phẩm của văn phòng
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part3/questions-synthesize-0091.mp3 %}
 
 **What do** they need to order? → Họ cần phải đặt hàng cái gì?
 - (A) Computers. → Máy tính.
@@ -864,6 +886,8 @@ Cách đọc trước câu hỏi:
 
 ### Nhân viên ngân hàng phụ vụ khách hàng rút tiền bằng séc
 
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part3/questions-synthesize-0092.mp3 %}
+
 **What does** the man want to do? → Người đàn ông muốn làm gì?
 - (A) Open a bank account. → Mở một tài khoản ngân hàng.
 - (B) Get a new driver's license. → Lấy một bằng lái xe mới.
@@ -893,6 +917,8 @@ Cách đọc trước câu hỏi:
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 ### Nhân viên cửa hàng nội thất xử lý việc trả hàng của khách
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part3/questions-synthesize-0093.mp3 %}
 
 **Where are** the speakers? → Người nói đang ở đâu?
 - (A) At a supermarket. → Tại một siêu thị.
@@ -925,6 +951,8 @@ Cách đọc trước câu hỏi:
 
 ### Nói về các trường hợp thanh toán của bảo hiểm y tế
 
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part3/questions-synthesize-0094.mp3 %}
+
 **What will** happen if the man sees a specialist without a referral? → Chuyện gì sẽ xảy ra nếu người đàn ông gặp một bác sĩ chuyên khoa mà không có sự giới thiệu?
 - (A) He will be dropped from his health plan. → Anh ấy sẽ sẽ bị bỏ khỏi diện bảo hiểm y tế.
 - (B) He will see only a portion of the bill. → Anh ấy sẽ chỉ thấy được một phần của hóa đơn.
@@ -952,6 +980,8 @@ Cách đọc trước câu hỏi:
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 ### Xin hỏi gặp bác sĩ sau khi bị lỡ hẹn tại bệnh viện
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part3/questions-synthesize-0095.mp3 %}
 
 **Why did** Mary miss her appointment? → Tại sao Mary bỏ lỡ cuộc hẹn của mình?
 - (A) Her meeting ran late. → Cuộc họp của cô ấy đã kết thúc muộn.
@@ -983,6 +1013,8 @@ Cách đọc trước câu hỏi:
 
 ### Hỏi về giá dịch vụ chuyển phát ở bưu điện
 
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part3/questions-synthesize-0096.mp3 %}
+
 **Where is** the conversation most likely taking place? → Cuộc hội thoại này rất có thể diễn ra ở đâu?
 - (A) In a library → Thư viện
 - (B) At a bus station → Ga xe lửa
@@ -1011,6 +1043,8 @@ Cách đọc trước câu hỏi:
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 ### Trò chuyện online giữa 3 người về chiến dịch quảng cáo của công ty
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part3/questions-synthesize-0096.mp3 %}
 
 **What field** do the speakers most likely work in? → Những người nói có khả năng làm việc trong lĩnh vực nào?
 - (A) Engineering. → Kỹ thuật.
@@ -1043,6 +1077,8 @@ Cách đọc trước câu hỏi:
 
 ### Nói chuyện giữa bên xây dựng nhà ở và khác hàng để bắt đầu quy trình
 
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part3/questions-synthesize-0097.mp3 %}
+
 **What type of** business does the man have? → Người đàn ông kinh doanh loại hình gì?
 - (A) Driveway repair → Sửa chữa đường lái xe
 - **(B) Home construction → Xây dựng nhà ở** Dựa vào nội dung bài hội thoại, ta biết người đàn ông đang kinh doanh việc xây dựng
@@ -1073,6 +1109,8 @@ Cách đọc trước câu hỏi:
 
 ### Hỏi về lịch trình có thể gặp nhau để chuẩn bị cho buổi thuyết trình sắp tới
 
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part3/questions-synthesize-0098.mp3 %}
+
 **What is** the man working on? → Người đàn ông đang làm việc liên quan đến gì?
 - (A) The contract with the new partners → Hợp đồng với các đối tác mới
 - (B) The staff directory and phone listing → Lên danh sách nhân viên và danh bạ điện thoại
@@ -1101,6 +1139,8 @@ Cách đọc trước câu hỏi:
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 ### Người phụ nữ trò chuyện với quản lý về việc muốn đi đến tận nơi để thuyết phục khách hàng
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part3/questions-synthesize-0099.mp3 %}
 
 **Why is** the woman thinking of taking a trip to Chicago? → Tại sao người phụ nữ nghĩ về việc đi một chuyến đến Chicago?
 - **(A) To persuade someone. → Để thuyết phục một người.** Ta thấy ý trong đoạn "I think I am going to have to take a trip to Chicago tomorrow to talk to Mr. Shaw in person. I spoke to him on the phone just now, but he didn't sound too convinced about our offer."
@@ -1135,6 +1175,8 @@ Cách đọc trước câu hỏi:
 
 ### Nói về việc tính và nộp thuế của bản thân
 
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part3/questions-synthesize-00991.mp3 %}
+
 **Who** usually prepares the man's taxes? → Ai là người thường chuẩn bị khai thuế cho người đàn ông?
 - (A) The man. → Người đàn ông.
 - **(B) His wife. → Vợ anh ta.** Ta thấy ý trong câu "...so **my spouse** usually files our taxes. She does all the calculations and fills out the forms."
@@ -1162,6 +1204,8 @@ Cách đọc trước câu hỏi:
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 ### Người đàn ông muốn hỏi thuê phòng vì thấy quảng cáo dán ở cửa sổ
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part3/questions-synthesize-00992.mp3 %}
 
 **How** did the man find this place? → Làm cách nào người đàn ông tìm thấy nơi này?
 - (A) He read about it in a newspaper ad. → Anh ấy đọc về nó trong một quảng cáo trên tạp chí.
