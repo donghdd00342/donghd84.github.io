@@ -873,3 +873,102 @@ Cách đọc trước câu hỏi:
 | **This procedure** *is being introduced* **to comply** *with the reporting procedures* **of the Financial Accounting Services Board** *in accordance* **with new regulation 134**. | **Quy trình này** *được đưa ra* **nhằm để tương thích** *với quy trình báo cáo* **của hội đồng dịch vụ kế toán tài chính** *theo luật 134 mới*.
 | *The sales reports* **will also need to follow** *this same procedure* **in accordance** *with new regulation 135*. | **Báo cáo doanh số** **cũng sẽ phải đi theo** *quy trình tương tự* **theo luật 135 mới.**
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+### Dự báo thời tiết cho ngày mai
+
+**What** will the weather be like tomorrow during the day? → Thời tiết sẽ như thế nào vào ngày mai?
+- (A) Cool → Mát
+- **(B) Hot → Nóng** Ta thấy ý này trong câu "It'll be another very hot day with temperatures in the high 30s."
+- (C) Breezy → Có gió
+- (D) Rainy → Mưa
+
+**What** might occur tomorrow evening? → Chuyện gì có thể xảy ra vào tối mai?
+- (A) A powerful thunderstorm → Một cơn bão sấm chớp mạnh
+- (B) A temperature increase → Nhiệt độ tăng
+- (C) A light snowstorm → Một cơn bão tuyết nhỏ
+- **(D) A drop in temperatures → Nhiệt độ giảm** Ta thấy ý này trong câu "We might get some much needed relief in the late evening as temperatures temporarily cool down"
+
+**What** will listeners hear next? → Người nghe sẽ nghe gì tiếp theo?
+- **(A) News reports → Bản tin** Ta thấy ý này trong câu "Now stay tuned for the 8 o'clock news."
+- (B) Traffic updates → Cập nhật tin tức giao thông
+- (C) Next week's forecast → Dự báo thời tiết cho tuần sau
+- (D) A weather advisory → Cảnh báo thời tiết
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part4/j6bqf.mp3 %}
+
+| **Here is** *the forecast* **for tomorrow**. | **Đây là** *dự báo thời tiết* **cho ngày mai**.
+| **It'll be** *another very hot day* **with temperatures in the high 30s**. | **Ngày mai sẽ là** *một ngày nóng nực* **với nhiệt độ trên 30 độ**.
+| *Make sure* **you keep your air conditioners running** *and* **drink plenty of water**. | *Hãy đảm bảo* **bạn để điều hòa luôn chạy** *và* **uống nhiều nước**.
+| **Check out** *our Website* **for more tips** *on preventing summer illnesses*. | **Tìm hiểu thông tin** *trên trang web của chúng tôi* **về các mẹo nhỏ** *giúp phòng tránh các bệnh mùa hè*.
+| We might **get some much needed relief** *in the late evening* **as** *temperatures temporarily cool down* **with chances of rain and wind**. | Buổi tối muộn **có thể sẽ dễ chịu hơn** *khi* **nhiệt độ hạ xuống tạm thời** *và* **có thể có mưa và gió**.
+| **However**, {% u that %} **will only last till** *the early morning hours* **on Friday**. | **Tuy nhiên**, {% u điều đó %} **chỉ kéo dài đến** *sáng sớm* **thứ Sáu**.
+| {% u The good news is that %}, **although** *the heat has been intense*, **the hot season has been fairly mild**. | {% u Tin vui là %}, **mặc dù** *nhiệt độ cao*, **nhưng mùa nóng này cũng khá là dễ chịu.**
+| **The fall season** {% u is approaching quite quickly %}, **so get ready to pull** *your jackets out of storage*. | **Mùa thu** {% u đang đến rất nhanh %}, **vì thế hãy sẵn sàng mang** *áo khoác ra*.
+| **Well**, {% u that's all for the weather %}. **Now stay tuned for** *the 8 o'clock news*. | {% u Bản tin thời tiết đến đây là hết %}. **Bây giờ hãy ở lại để nghe** *bản tin lúc 8 giờ*.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+### Hỏi mua thiết bị nhà bếp của đơn vị có quảng cáo trên tờ báo địa phương
+
+**Where** did the woman see this ad? → Người phụ nữ thấy quảng cáo này ở đâu?
+- (A) On a flyer → Trên tờ bướm
+- (B) On a sign → Trên bảng hiệu
+- (C) In a small store → Trong một cửa hiệu nhỏ
+- **(D) In a local publication → Trên một tờ báo địa phương** Ta thấy ý này trong "I saw your stove ad in the local newspaper"
+
+**What** is the purpose of this message? → Mục đích của tin nhắn này là gì?
+- (A) To sell a house → Bán nhà
+- (B) To build a new kitchen → Mua nhà bếp mới
+- **(C) To ask about buying a kitchen appliance → Hỏi về việc mua thiết bị nhà bếp** Dựa vào nội dung bài nói, ta biết người này đang muốn mua bếp lò -> cô hỏi về giá và hẹn thời gian đến cửa hàng để xem bếp
+- (D) To conduct research about stoves → Thực hiện nghiên cứu về bếp
+
+**What** does Ms. Flynn ask Mr. Burke to do? → Cô Flynn yêu cầu ông Burke làm gì?
+- **(A) Return her call → Gọi lại cho cô ấy** Ta thấy ý này trong câu "Please call me back"
+- (B) Install her new equipment → Lắp đặt thiết bị mới của cô ấy
+- (C) Give her information about space → Cho cô ấy thông tin về không gian
+- (D) Buy a newspaper → Mua báo
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part4/keNbv.mp3 %}
+
+| Morning Mr. Burke. **My name is** *Sandra Flynn* **and I saw your stove ad** *in the local newspaper* **the other day**. | Chào buổi sáng ông Burke. **Tên tôi là** *Sandra Flynn* **và tôi thấy quảng cáo bếp của ông** *trên tờ báo địa phương* **ngày hôm kia**.
+| **We'd like to come** *look at the stoves* **you have available**. | **Chúng tôi muốn đến** *xem những cái bếp* **ông có**.
+| *Does* **the listed price** *include* **the delivery charges**? | **Giá đó** *đã bao gồm* **phí vận chuyển** *chưa?*
+| **Neither** *my husband* **nor** *I* **have a big enough car** *to bring the stove* **to our home**. | **Cả** *chồng tôi* **và** *tôi* **đều không có xe đủ lớn** *để mang bếp* **về nhà**.
+| **Can I come by** *your store* **on Friday afternoon**? | **Tôi có thể đến** *cửa hàng của ông* **vào chiều thứ Sáu được không?**
+| **I have never replaced** *any of my kitchen equipment before*, **so please let me know if** *you need any information from me* **about the space available** *for the stove*. | **Tôi chưa bao giờ thay** *thiết bị nhà bếp trước đây* **nên ông vui lòng cho tôi biết nếu** *ông cần bất cứ thông tin gì từ tôi* **về không gian** *để bếp*.
+| **Please call me back** *at 564-5531* **this afternoon** *or* **tomorrow morning**. | **Vui lòng gọi lại cho tôi** *theo số 564-5531* **vào chiều nay** *hoặc* **sáng mai**.
+| **I look forward to our meeting**. *Thank you*. | **Tôi mong chờ cuộc gặp của chúng ta**. *Cảm ơn*.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
+
+### Cơ trưởng cung cấp thông tin về chuyến bay dài
+
+Where is this announcement probably being heard? → Có thể nghe được thông báo này ở đâu?
+- (A) On a train → Trên tàu lửa
+- (B) On a cruise ship → Trên du thuyền
+- (C) On a bus → Trên xe buýt
+- **(D) On an airplane → Trên máy bay** Ta có thể suy ra đáp án này từ câu "Welcome aboard. This is captain Markus DiPolo up here in the cockpit. Our flight to Chicago"
+
+What is the main purpose of the announcement? → Mục đích chính của thông báo này là gì?
+- **(A) To provide information → Để cung cấp thông tin** Dựa vào nội dung của bài, ta thấy bài này cung cấp thông tin về chuyến bay như thời gian bay, thời tiết, độ cao, ...
+- (B) To update changes → Để cập nhật thay đổi
+- (C) To entertain passengers → Đểlàm hành khách vui
+- (D) To calm down smokers → Để làm những người hút thuốc bình tĩnh lại
+
+Who is making the announcement? → Ai là người đưa ra thông báo?
+- (A) A flight attendant → Tiếp viên hàng không
+- (B) An engineer → Kỹ sư
+- **(C) A pilot → Phi công** Ta thấy ý này trong câu "This is captain Markus DiPolo up here in the cockpit."
+- (D) A passenger → Hành khách
+
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part4/nAy4B.mp3 %}
+
+| Welcome **aboard**. | Chào mừng mọi người **lên máy bay.**
+| **This is** *captain Markus DiPolo* **up here in the cockpit.** | **Tôi là** *cơ trưởng Markus DiPolo* **hiện đang ở buồng lái**.
+| **Our flight to Chicago** *should take about 6 hours and 15 minutes*, **with a scheduled** *3:30 landing at O'Hare International.* | **Chuyến bay của chúng ta đến Chicago** *sẽ mất khoảng 6 tiếng 15 phút*, **với lịch trình** *sẽ hạ cánh lúc 3h30 ở sân bay quốc tế O'Hare*.
+| **We'll be cruising** *at an altitude of 35,000 feet* **with a maximum speed of 30,000 knots**, *and our route* **will take us** *north-northeast over the Grand Canyon and Rocky Mountains*. | **Chúng ta sẽ bay** *ở độ cao 35.000 feet (10.668 km)* **với tốc độ tối đa là 30.000 knot**, *và chuyến bay* **sẽ đưa chúng ta về hướng** *đông bắc-bắc quanh Grand Canyon và dãy núi Rocky*.
+| *The weather on route* **is clear and calm**, *so we're anticipating little to no turbulence*. | *Thời tiết trên đường đi* **trong và bình ổn**, *nên chúng ta có thể mong đợi là không có gì bất trắc.*
+| **Your flight crew** *will be serving* **drinks and a snack**, {% u followed %} **in an hour** or {% u so by a full dinner %}. | **Phi hành đoàn** *sẽ phục vụ* **nước uống và đồ ăn nhẹ**, *khoảng 1 giờ hoặc sau đó sẽ là bữa tối.*
+| **After dinner** *we have a full-length movie*. | **Sau bữa tối**, *chúng ta sẽ có một bộ phim dài.*
+| *So relax and enjoy* **yourselves**. | *Vậy nên hãy thư giãn và tận hưởng* **chuyến đi**.
+| **We do ask that** *you obey the no-smoking signs*, **including** *no smoking in the lavatories*. | **Chúng tôi yêu cầu** *các bạn hãy tuân thủ bản hiệu không hút thuốc*, **bao gồm cả** *không hút thuốc ở nhà vệ sinh.*
+| Thank you for **flying with us** today. | Cám ơn vì **đã bay với chúng tôi** trong ngày hôm nay.
+{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
