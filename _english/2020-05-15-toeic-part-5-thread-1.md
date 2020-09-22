@@ -310,3 +310,37 @@ Các đáp án A B C D là **4 loại đại từ** của **he**:
 #### Từ loại Tính Từ
 
 #### Từ loại Trạng Từ
+
+### Cách làm bài part 5 (Loại câu hỏi về từ vựng)
+
+**Nhận dạng**: *đọc câu hỏi > thấy các đáp án là những từ hoàn toàn khác nhau, không thuộc cùng một họ từ (family words) và không thể loại suy luận bằng ngữ pháp*
+
+- Phương pháp duy nhất để chọn được câu đúng chính là **dựa vào ý nghĩa của toàn câu**.
+- Trước hết là xem câu trả lời xem biết nghĩa được bao nhiêu câu, *nếu hoàn toàn không biết thì chỉ có đánh bừa.*
+- Tìm những từ đã biết nghĩa ở câu hỏi > đoán nội dung câu hỏi. Từ những câu trả lời có thể dùng **phương pháp loại trừ** hay không?
+- Chọn đáp án bằng cách suy luận dựa vào những từ đi chung với nhau ({% u collocations %} = **cấu tạo từ những từ đơn giản**)
+
+#### Lưu ý các từ có cách viết gần giống nhau dễ gây nhầm lẫn
+
+Trong tiếng Anh có một số cặp từ dễ gây nhầm lẫn mà nếu chúng ta không để ý kỹ thì sẽ rất dễ rơi vào bẫy của đề thi TOEIC Part 5.
+
+Một số cặp từ tiêu biểu có thể kể ra là:
+- **Accept** (chấp nhận) và **Except** (ngoại trừ)
+- **Adverse** (bất lợi) và **Averse** (chống lại)
+- **Advice** (lời khuyên) và **Advise** (khuyên răn)
+- **Affect** (gây ảnh hưởng) và **Effect** (sự ảnh hưởng)
+- **Assent** (sự đồng ý) và **Ascent** (sự đi lên)
+- **Brake** (thắng, phanh xe) và **Break** (sự đổ vỡ)
+- **Complement** (bổ sung) và **Compliment** (khen ngợi)
+- **Council** (hội đồng) và **Counsel** (khuyên)
+- **Desert** (sa mạc) và **Dessert** (món tráng miệng)
+- **Discrete** (riêng biệt) và **Discreet** (thận trọng)
+- **Ensure** (bảo đảm) và **Insure** (bảo hiểm)
+- **Everyday** (mỗi ngày – tính từ) và **Every day** (mỗi ngày – trạng từ)
+- **Hard** (khó, chăm chỉ) và **Hardly** (hầu như không)
+- **Historic** (kinh điển) và **Historical** (thuộc về lịch sử)
+- **Lose** (đánh mất) và **Loose** (rộng, lỏng lẻo)
+- **Principal** (hiệu trưởng) và **Principle** (chính)
+- **Site** (vị trí) và **sight** (tầm nhìn, thị lực)
+- **Stationary** (đứng yên) và **Stationery** (dụng cụ văn phòng)
+- **Story** (câu chuyện) và **Storey** (tầng)
