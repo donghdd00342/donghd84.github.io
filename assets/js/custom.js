@@ -1,5 +1,8 @@
 // When document ready
 function documentReady() {
+  try {
+    openAudioControl();
+  } catch (error) {}
   var tocnavElm = document.getElementsByClassName("toc-nav")[0];
   if (tocnavElm) {
     tocnavElm.addEventListener('click', () => {
@@ -112,6 +115,10 @@ function topFunction() {
   document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
 }
 
+function gotoBottom() {
+  window.scrollTo(0, document.body.scrollHeight || document.documentElement.scrollHeight);
+}
+
 // Img Modal
 function onZoomImg(element) {
   document.getElementById("imgModal").src = element.src;
@@ -210,6 +217,8 @@ function handleAudioEnd(audios, currentIndex, audiosLength) {
   window.currentAudioPlaying.play();
 }
 
+function isOdd(num) { return num % 2;}
+
 /**
  * Ưu tiên Repeat > Auto Next > Random
  */
@@ -221,6 +230,20 @@ function getNextAudio(currentIndex, audiosLength) {
   if (document.getElementById('asAutoNextCheck').checked) {
     if (nextIndex >= audiosLength) {
       nextIndex = 0;
+    }
+    // check ItemToItem (even or odd) here
+    if (document.getElementById('asPlayItemToItem').checked) {
+      if (document.getElementById('asEvenOrOdd').value === 'odd') {
+        if ( isOdd(nextIndex) ) {
+          return nextIndex;
+        }
+        return getNextAudio(nextIndex, audiosLength);
+      } else {
+        if ( ! isOdd(nextIndex) ) {
+          return nextIndex;
+        }
+        return getNextAudio(nextIndex, audiosLength);
+      }
     }
     return nextIndex;
   }
@@ -296,4 +319,22 @@ function changeAudioControlIcon(icon) {
   if (document.getElementById("audioControlEl")) {
     document.getElementById("audioControlEl").innerHTML = icon;
   }
+}
+
+// speech (experiment): "articleBody"
+function get_content(id) {
+  var html = document.getElementById(id).innerHTML;
+  return html.replace(/<[^>]*>/g, "");
+}
+function say(m) {
+  var msg = new SpeechSynthesisUtterance();
+  var voices = window.speechSynthesis.getVoices();
+  msg.voice = voices[10];
+  msg.voiceURI = "native";
+  msg.volume = 1;
+  msg.rate = 1;
+  msg.pitch = 0.8;
+  msg.text = m;
+  msg.lang = document.getElementById('asLangSay').value;
+  speechSynthesis.speak(msg);
 }
