@@ -35,6 +35,214 @@ date: 2020-05-15 14:26:14 +0700
 
 ### Loại câu hỏi về ngữ pháp
 
+<div class="w3-card w3-leftbar w3-border-green w3-pale-green w3-panel w3-padding-16">Ta có cấu trúc "{% u to + bare inf %}" = để làm gì đó
+</div>
+- {% u This is a perfect place %} [**to enjoy**] fresh baked breads and tasty entrées {% u while %} taking in the view of our beautiful city's skyline.
+- Đây là nơi hoàn hảo **để thưởng thức** bánh mì mới nướng và món chính ngon tuyệt *trong lúc* ngắm nhìn đường chân trời trong thành phố xinh đẹp của chúng ta.
+    - thưởng thức (động từ nguyên mẫu dạng bare inf) A. **enjoy** 
+    - thưởng thức (động từ chia ở thì hiện tại đơn theo ngôi thứ ba số ít) B. **enjoys** 
+    - thưởng thức (động từ dạng to + bare inf) C. **to enjoy** 
+    - thưởng thức (động từ chia thể bị động) D. **are enjoyed** 
+
+<div class="w3-card w3-leftbar w3-border-green w3-pale-green w3-panel w3-padding-16">Sau "{% u to be %}" ta có thể dùng động từ V_ing (mang nghĩa chủ động), V_ed (mang nghĩa bị động) hoặc tính từ (tùy theo vị trí của từ trong câu).
+Xét ý nghĩa câu này đang mang nghĩa bị động -> chọn C.</div>
+- The contract {% u stipulates that %} an employee is [**required**] to do overtime during weeks that presentations or special reports are being prepared.
+- Hợp đồng {% u quy định rằng %} nhân viên **được yêu cầu** phải tăng ca trong những tuần cần phải chuẩn bị cho những bài thuyết trình hoặc các báo cáo đặc biệt.
+    - yêu cầu (danh từ) A. **requirement** 
+    - yêu cầu (động từ chia theo ngôi thứ ba số ít ở thì hiện tại đơn) B. **requires** 
+    - (động từ dạng V_ed) C. **required** 
+    - lệnh (danh từ) D. **requisition** 
+
+<div class="w3-card w3-leftbar w3-border-green w3-pale-green w3-panel w3-padding-16">Đây là cấu trúc mệnh đề if loại 3, "If + S + had + Ved/3, S + would + have + Ved/3".
+</div>
+- If there had been fringe benefits, such as a company car or stock options, I [**would have considered**] applying for the position.
+- Nếu có những quyền lợi phụ, chẳng hạn như xe công ty đưa đón hoặc quyền mua cổ phiếu công ty, thì tôi có lẽ đã cân nhắc nộp hồ sơ ứng tuyển cho vị trí này.
+    - có thể xem xét (could + bare_inf) A. **could consider** 
+    - xem xét (động từ dạng V_ing) B. **considering** 
+    - xem xét (would + have + Ved/3) C. **would have considered** 
+    - xem xét (thì tương lai tiếp diễn) D. **will be considering** 
+
+<div class="w3-card w3-leftbar w3-border-green w3-pale-green w3-panel w3-padding-16">Sau giới từ "in" ta cần một danh từ hoặc V-ing.
+Vì sau chỗ trống có thêm tân ngữ "a performance" -> chọn V-ing -> chọn A.</div>
+- For anyone interested in [**seeing**] {% u a performance %} by Rosa Marche, she is expected to resume her free weekly performances on June 27 at 12:30 p.m.at the Moreen Park band shelter.
+- Bất kỳ ai có hứng thú **muốn xem** màn trình diễn của Rosa Marche, cô ấy được mong đợi là sẽ tiếp tục các buổi biểu diễn miễn phí hàng tuần vào ngày 27 tháng 6 lúc 12h30 trưa tại phòng tập nhạc của công viên Moreen Park.
+    - xem (động từ dạng V_ing) A. **seeing** 
+    - xem (động từ dạng to + bare inf) B. **to see** 
+    - xem (động từ nguyên mẫu dạng bare inf) C. **see** 
+    - xem (quá khứ phân từ của see) D. **seen** 
+
+<div class="w3-card w3-leftbar w3-border-green w3-pale-green w3-panel w3-padding-16">Đây là cấu trúc mệnh đề if loại 3, "If + S + had + Ved/3, S + might + have + Ved/3".
+</div>
+- If he had taken flight 307 as was arranged for him in the original itinerary, he [**would have arrived**] on time for the luncheon.
+- Nếu anh ấy bắt chuyến bay 307 như đã được thu xếp trong hành trình ban đầu thì anh ta **đã có thể đến** kịp buổi ăn trưa.
+    - đến (thì hiện tại đơn theo ngôi thứ 3 số ít) A. **arrives** 
+    - đến (thì quá khứ tiếp diễn theo ngôi thứ 3 số ít) B. **was arriving** 
+    - đến (động từ dạng would have + Ved/3) C. **would have arrived** 
+    - đến (động từ dạng Ved) D. **arrived** 
+
+<div class="w3-card w3-leftbar w3-border-green w3-pale-green w3-panel w3-padding-16">Đây là câu có mệnh đề if loại 1.
+"If + S + V (chia ở thì hiện tại đơn), S + will + bare inf" -> chọn B.
+"Go bankrupt" = phá sản.</div>
+- If insolvency laws do not change and continue to favor creditors, many small-scale companies [**will go**] bankrupt.
+- Nếu luật vỡ nợ không thay đổi và tiếp tục thiên vị người cho vay, nhiều công ty nhỏ sẽ phải phá sản.
+    - đi (động từ chia ở thì hiện tại hoàn thành) A. **have gone** 
+    - (động từ chia ở thì tương lai đơn) B. **will go** 
+    - (quá khứ của go) C. **went** 
+    - (động từ chia theo ngôi thứ ba số ít ở thì hiện tại đơn) D. **goes** 
+
+<div class="w3-card w3-leftbar w3-border-green w3-pale-green w3-panel w3-padding-16">Ta có cụm "around the world" = vòng quanh/trên thế giới.
+</div>
+- Don't miss Port Smith's annual trade fair with companies representing 18 different countries from [**around**] **the world**.
+- Đừng bỏ lỡ hội chợ thương mại hàng năm Port Smith với các công ty đại diện cho 18 quôc gia **trên thế giới**.
+    - xung quanh (giới từ) A. **around** 
+    - xuyên (giới từ) B. **through** 
+    - giữa (giới từ) C. **among** 
+    - lên trên (giới từ) D. **onto** 
+
+<div class="w3-card w3-leftbar w3-border-green w3-pale-green w3-panel w3-padding-16">Evidence là danh từ không đếm được -> loại D.
+Đây là câu phủ định -> không dùng SOME -> loại B.
+Phía trước đã có NOT -> không dùng NO nữa.
+-> chọn A.</div>
+
+- Since they did not find [**any**] further evidence, the case is now considered closed.
+- Bởi vì họ không tìm được **bất kì** thêm chứng cứ nào, nên vụ án bây giờ được xem là đã kết thúc.
+    - bất kì, một ít A. **any** 
+    - một vài của B. **some of** 
+    - không C. **no** 
+    - nhiều D. **many** 
+
+<div class="w3-card w3-leftbar w3-border-green w3-pale-green w3-panel w3-padding-16">Ta cần điền một (cụm) danh từ hoặc (cụm) danh động từ (V_ing) sau giới từ OF.
+Do trong câu đã có danh từ BUDGETS -> ta cần một tính từ đi trước và bổ sung ý nghĩa cho budgets -> chọn B.</div>
+- Most of the start-up companies spend a relatively high percentage of [**their**] budgets on advertising costs.
+- Hầu hết các công ty khởi nghiệp chi một tỷ lệ phần trăm tương đối cao ngân sách **của họ** cho chi phí quảng cáo.
+    - họ, chúng nó (đại từ nhân xưng) A. **they** 
+    - của họ, chúng (tính từ sở hữu) B. **their** 
+    - họ, chúng (đại từ tân ngữ) C. **them** 
+    - cái của họ (đại từ sở hữu) D. **theirs** 
+
+<div class="w3-card w3-leftbar w3-border-green w3-pale-green w3-panel w3-padding-16">Ta có cụm "to talk about something/somebody" = nói về điều gì/ai
+</div>
+- Some managers are supposed to meet each other at the end of the month to **talk** [**about**] their monthly performance reviews.
+- Vài người trưởng phòng gặp nhau vào cuối tháng để **nói về việc** xem lại hiệu quả công việc hàng tháng.
+    - dưới A. **under** 
+    - về B. **about** 
+    - dọc theo C. **along** 
+    - vào D. **into** 
+
+<div class="w3-card w3-leftbar w3-border-green w3-pale-green w3-panel w3-padding-16">Ta có cấu trúc "both... and... "
+</div>
+- Employees who participate in this training program can learn a great deal about themselves as well as experience in [**both**] personal **and** profession growth.
+- Các nhân viên tham gia vào chương trình huấn luyện này có thể học được rất nhiều về bản thân mình cũng như kinh nghiệm trong phát triển bản thân và sự nghiệp.
+    - mỗi A. **every** 
+    - cả hai B. **both** 
+    - hoặc cái này hoặc cái kia C. **either** 
+    - liệu D. **whether** 
+
+<div class="w3-card w3-leftbar w3-border-green w3-pale-green w3-panel w3-padding-16">Ta có cấu trúc "look forward to doing something" = mong đợi làm điều gì đó
+</div>
+- **As always**, we here at Gray Consulting look forward **to** assisting you with your future legal needs.
+- **Như thường lệ**, chúng tôi Gray Consulting luôn mong đợi hỗ trợ bạn khi bạn có nhu cầu về tư vấn luật pháp trong tương lai.
+    - lên trên, tăng (giới từ) A. **up** 
+    - trong (giới từ) B. **in** 
+    - đến (giới từ) C. **to** 
+    - trên (giới từ) D. **on** 
+
+<div class="w3-card w3-leftbar w3-border-green w3-pale-green w3-panel w3-padding-16">Ta dịch câu để chọn nghĩa phù hợp.
+</div>
+- **In order** *to compete for* **a shrinking pool of qualified programmers**, companies that are [**otherwise**] conservative are now offering flextime and work-from-home options.
+- Để cạnh tranh giành các lập trình viên tài năng mà số lượng ngày càng giảm, các công ty bảo thủ về những mặt khác giờ đây đã có các chế độ giờ làm việc linh động và cho phép làm việc từ nhà.
+    - thỉnh thoảng A. **sometimes** 
+    - luôn luôn B. **always** 
+    - không thường xuyên C. **infrequently** 
+    - mặt khác D. **otherwise** 
+
+<div class="w3-card w3-leftbar w3-border-green w3-pale-green w3-panel w3-padding-16">Đây là câu có sử dụng mệnh đề if loại 3: "If + S + had (not) + V_ed/3, S + would (not) have + V_ed/3" (từ "would" có thể thay thế bằng "could" hoặc "might").
+Suy ra, loại A và B.
+Xét về ý nghĩa, "nếu giám đốc ĐƯỢC nói cho biết... " -> bị động -> chọn "had been told".</div>
+- If the director [**had been told**] that the top candidate was still a consultant for Master Lines, Inc. , he could have given others greater priority.
+- Nếu giám đốc {% u được %} **cho biết rằng** ứng cử viên hạng nhất vẫn còn là nhà tư vấn cho Master Lines, Inc., ông ấy đã có thể ưu tiên những ứng viên khác hơn.
+    - nói (động từ nguyên mẫu bare inf) A. **tell** 
+    - (động từ dạng V_ing) B. **telling** 
+    - (động từ chia ở thì quá khứ hoàn thành) C. **had told** 
+    - (động từ chia ở thì quá khứ hoàn thành thể bị động) D. **had been told** 
+
+<div class="w3-card w3-leftbar w3-border-green w3-pale-green w3-panel w3-padding-16">Trong câu trên, sau "due to" là cụm "the large number of product flaws _____ reported. "
+Nếu điền "is" hay "are" hay "were" thì cả cụm trên đều trở thành một mệnh đề.
+Tuy nhiên, vì "due to" là giới từ nên sau nó không thể là mệnh đề được --> loại cả 3 lựa chọn "is", "are", "were"; chọn "being".</div>
+- *The quality-control process* **will be revised** {% u due to %} the large number of product flaws [**being**] reported.
+- *Quy trình kiểm soát chất lượng* **sẽ được điều chỉnh** {% u bởi vì %} rất nhiều lỗi sản phẩm **được** báo cáo.
+    - dùng cho ngôi thứ 3 số ít ở hiện tại A. **is** 
+    - dùng cho ngôi thứ 2 và 3 số nhiều, hoặc hai người/hai vật ở hiện tại B. **are** 
+    - dùng cho you/we/they/hai người/hai vật ở thì quá khứ C. **were** 
+    - động từ thêm -ing của be D. **being** 
+
+<div class="w3-card w3-leftbar w3-border-green w3-pale-green w3-panel w3-padding-16">Đây là dạng rút gọn mệnh đề quan hệ.
+Câu nguyên gốc là: "... at a time and place THAT IS ACCEPTABLE to both parties involved. "
+Ta rút gọn thành "... at a time and place BEING ACCEPTABLE to both parties involved. "
+Nếu sau khi rút gọn xong mà động từ trở thành BEING thì chúng ta lược bỏ BEING luôn: "... at a time and place ACCEPTABLE to both parties involved. "</div>
+- **A conference** *to discuss* **the terms of the settlement** {% u will be held %} *at a time and place* [**acceptable**] *to both parties involved.*
+- **Một buổi hội nghị** *thảo luận về* **điều khoản dàn xếp** {% u sẽ được diễn ra %} *tại một thời gian và địa điểm* **thích hợp** *cho hai bên có liên quan.*
+    - sự chấp nhận (danh từ) A. **acceptance** 
+    - một cách chấp nhận (trạng từ) B. **acceptingly** 
+    - chấp nhận (động từ nguyên mẫu) C. **accept** 
+    - chấp nhận được (tính từ) D. **acceptable** 
+
+<div class="w3-card w3-leftbar w3-border-green w3-pale-green w3-panel w3-padding-16">Ta có cấu trúc "be notified of sth" = được thông báo về điều gì đó
+</div>
+- I **was notified of** *this position* by Christopher Lewis, a marketing assistant in your company.
+- Tôi **đã được** Christopher Lewis, trợ lý tiếp thị trong công ty của bạn, **báo cho biết** về vị trí này.
+    - với (giới từ) A. **with** 
+    - của (giới từ) B. **of** 
+    - bằng (giới từ) C. **by** 
+    - đến (giới từ) D. **to** 
+
+<div class="w3-card w3-leftbar w3-border-green w3-pale-green w3-panel w3-padding-16">Ta có cấu trúc "both... and" = cả cái này và cái kia
+</div>
+- At the end of Sarah's first month of employment, the company evaluated **both** *her daily performance* **and** *her total month's production.*
+- Vào cuối tháng làm việc đầu tiên của Sarah, công ty đánh giá **cả** *hiệu suất hàng ngày* **và** *tổng sản lượng tháng của cô*.
+    - mỗi (trong hai) A. **either** 
+    - cả hai B. **both** 
+    - hơn nữa, thêm vào C. **plus** 
+    - vì vậy D. **so** 
+
+<div class="w3-card w3-leftbar w3-border-green w3-pale-green w3-panel w3-padding-16">Ta có cấu trúc "as soon as possible" = càng sớm càng tốt
+</div>
+- All persons who wish to register for the Skills in Marketing Workshop must sign up at the main office **as soon as possible**.
+- Những người mong muốn đăng ký buổi hội thảo kỹ năng trong tiếp thị phải ghi danh ở trụ sở chính **càng sớm càng tốt**.
+    - ngay khi, càng sớm càng A. **as soon as** 
+    - miễn là, càng dài càng B. **as long as** 
+    - nhiều như, càng nhiều càng C. **as much as** 
+    - nhiều như, càng nhiều càng D. **as many as** 
+
+<div class="w3-card w3-leftbar w3-border-green w3-pale-green w3-panel w3-padding-16">Câu đã có động từ chính là "must present" -> "Customers _____ wish to return merchandise within 7 days of purchase" là một cụm danh từ làm chủ ngữ.
+Phân tích chủ ngữ ta lại có "customers" là danh từ chính, " _____ wish to return merchandise within 7 days of purchase" là mệnh đề quan hệ bổ nghĩa cho "customers".
+Vì "customers" là danh từ chỉ người -> loại B và C.
+Sau chỗ trống là động từ "wish" -> chọn A.</div>
+- Customers **who** wish to return merchandise within 7 days of purchase must present the valid receipt to the store.
+- Các khách hàng muốn trả lại sản phẩm trong vòng 7 ngày kể từ ngày mua phải xuất trình được hóa đơn còn giá trị cho cửa hàng.
+    - người mà (đại từ quan hệ chỉ người làm chủ ngữ) A. **who** 
+    - khi (trạng từ) B. **when** 
+    - cái mà (đại từ) C. **what** 
+    - người mà(đại từ quan hệ chỉ người làm tân ngữ) D. **whom** 
+
+<div class="w3-card w3-leftbar w3-border-green w3-pale-green w3-panel w3-padding-16">Trong mệnh đề quan hệ "... we stayed during our summer vacation", ta chỉ có thể dùng "which" hoặc "where" để đặt trước vế câu.
+Tuy nhiên trong câu đề cập "The Victoria Hotel" là địa điểm -> chọn B</div>
+- The Victoria Hotel, **where** we stayed during our summer vacation, will be torn down for extensive renovations.
+- Khách sạn Victoria, **nơi** chúng tôi đã ở lại trong kì nghỉ hè, sẽ bị phá bỏ để cải tạo mở rộng.
+    - khi mà A. **when** 
+    - nơi mà B. **where** 
+    - trong đó C. **in that** 
+    - trong nó D. **in it** 
+
+<div class="w3-card w3-leftbar w3-border-green w3-pale-green w3-panel w3-padding-16">Câu có chủ ngữ là "Emma Jean", động từ chính là "will deliver" -> "_____ was nominated for ... " là mệnh đề quan hệ.
+Vì chỗ trống là động từ "was" -> cần chủ ngữ và "Emma Jean" là người -> cần đại từ quan hệ chỉ người.</div>
+- Emma Jean, **who** was nominated for an Employee of the Month Award for her exceptional work performance, will deliver a speech this evening.
+- Emma Jean, **người** được đề cử giải Nhân viên của tháng vì biểu hiện công việc xuất sắc, sẽ phát biểu tối nay.
+    - (đại từ quan hệ chỉ người) A. **who** 
+    - bất kỳ ai (đại từ) B. **anyone** 
+    - (đại từ quan hệ chỉ sở hữu) C. **whose** 
+    - bất kỳ cái nào (đại từ) D. **whichever** 
+
 <div class="w3-card w3-leftbar w3-border-green w3-pale-green w3-panel w3-padding-16">Xét về mặt ngữ nghĩa ta có thể loại 3 đáp án "order", "context", "sample".
 Lưu ý, ta cũng có cụm IN ORDER TO + bare inf mang nghĩa "để làm gì đó", nhưng không hợp nghĩa trong câu này.</div>
 - The two banks have agreed in **principle** to a merger that would make the new company the largest local bank on the East Coast.
@@ -277,6 +485,50 @@ Ta xét thấy động từ "consist of" là động từ dành cho danh từ s�
     - số nhiều của "holding" D. **holdings** 
 
 ### Loại câu hỏi về chọn từ loại
+
+<div class="w3-card w3-leftbar w3-border-green w3-pale-green w3-panel w3-padding-16">Chúng ta có: "In any news medium" = cụm trạng từ bổ nghĩa cho cả câu; "the only news" = chủ ngữ (subject); "is" = động từ của chủ ngữ (verb); "what the editor ______ is news" = tân ngữ (object)
+Bên trong tân ngữ "what the editor decides is news" chúng ta phân tích ra tiếp: "what the editor ______" = chủ ngữ; "is" = động từ của chủ ngữ; "news" = tân ngữ
+Bên trong chủ ngữ "what the editor _____": đại từ chính là "what"; "the editor _____" là mệnh đề quan hệ bổ nghĩa cho "what"
+Bên trong mệnh đề quan hệ "the editor _____" chưa có động từ, vì vậy chúng ta cần điền động từ.
+Do chủ ngữ là danh từ số ít nên động từ chia ở hiện tại sẽ phải thêm “s/es” -> chọn "decides".</div>
+<div class="w3-card w3-leftbar w3-border-red w3-pale-red w3-panel w3-padding-16">Hãy mổ xẻ để xem xét cấu trúc câu nếu có thể...</div>
+- In any news medium, the only news is what the editor [**decides**] is news.
+- Trong bất kỳ phương tiện tin tức nào, chỉ những tin tức nào mà biên tập viên ra quyết định đó là tin tức thì mới thật sự được coi là tin tức.
+    - quyết định (động từ nguyên mẫu BARE INF) A. **decide** 
+    - (động từ chia theo ngôi thứ 3 số ít ở thì hiện tại đơn) B. **decides** 
+    - (danh từ) C. **decision** 
+    - (danh từ số nhiều) D. **decisions** 
+
+<div class="w3-card w3-leftbar w3-border-green w3-pale-green w3-panel w3-padding-16">"Humans are doing to the environment" chính là một mệnh đề quan hệ bị rút gọn đi đại từ quan hệ "that".
+Chỗ trống nằm sau mạo từ "the" và nằm trước mệnh dề quan hệ, nên chắc chắn chỗ trống chính là một danh từ -> loại "destroy" và "destructive".
+Xét về mặt ngữ nghĩa ta loại "destructibility", chọn "destruction".</div>
+<div class="w3-card w3-leftbar w3-border-red w3-pale-red w3-panel w3-padding-16">Bẫy quá ngọt...không nên chủ quan, nên dành chút thời gian để dịch nhanh nếu có thể!</div>
+- We should be responsible for the [**destruction**] humans are doing to the environment.
+- Chúng ta phải có trách nhiệm với sự tàn phá mà con người đang gây ra cho môi trường.
+    - phá hoại (động từ dạng bare inf) A. **destroy** 
+    - mang tính phá hoại (tính từ) B. **destructive** 
+    - sự phá hoại (danh từ) C. **destruction** 
+    - tính có thể bị tàn phá (danh từ) D. **destructibility** 
+
+<div class="w3-card w3-leftbar w3-border-green w3-pale-green w3-panel w3-padding-16">Sau giới từ ta dùng V_ing hoặc một danh từ -> còn lại "user" và "use".
+Chúng ta thấy trước chỗ trống là giới từ "for", ngoài ra không có từ hạn định như "a, an, the" hay "my, your... " nào cả, nên chỗ trống không thể điền một dành từ số ít được -> loại "user", chọn "use".</div>
+<div class="w3-card w3-leftbar w3-border-red w3-pale-red w3-panel w3-padding-16">Đựng vội vàng chọn mà không suy luận các đáp án khác, nếu một trong số chúng thì sao? hãy tin vào lý thuyết mà mình đã vững!</div>
+- Drevno flooring products are designed for [**use**] in industrial settings.
+- Các sản phẩm sàn nhà Drevno được thiết kế để **sử dụng** trong môi trường công nghiệp.
+    - người sử dụng (danh từ số ít) A. **user** 
+    - động từ ở dạng quá khứ đơn và quá khứ phân từ của "use" B. **used** 
+    - hữu dụng (tính từ) C. **useful** 
+    - sự sử dụng (danh từ không đếm được) D. **use** 
+
+<div class="w3-card w3-leftbar w3-border-green w3-pale-green w3-panel w3-padding-16">Chúng ta lưu ý "to" ở sau từ "conducive" không phải là cấu trúc "to + Verb" mà "to" là giới từ.
+Chúng ta biết "to" ở đây là giới từ bởi vì nó là giới từ đi liền với tính từ "conducive" ({% tooltip conducive to [thuận lợi cho] %}).
+Sau giới từ, chúng ta cần dùng cụm danh từ, đại từ, hoặc V-ing --> chọn danh từ "relaxation".</div>
+- Orchestra music is wonderfully {% tooltip conducive to [thuận lợi cho] %} [**relaxation**].
+- Nhạc thính phòng **giúp ích** cho **việc thư giãn** một cách tuyệt vời.
+    - sự nghỉ ngơi, thư giãn (danh từ) A. **relaxation** 
+    - thư giãn (động từ dạng V_ed) B. **relaxed** 
+    - (động từ chia theo ngôi thứ 3 số ít ở thì hiện tại đơn) C. **relaxes** 
+    - (động từ nguyên mẫu BARE INF) D. **relax** 
 
 <div class="w3-card w3-leftbar w3-border-green w3-pale-green w3-panel w3-padding-16">Sau tính từ sở hữu ITS ta cần một danh từ -> chọn D.
 </div>
