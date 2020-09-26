@@ -33,7 +33,49 @@ date: 2020-05-15 14:26:14 +0700
 ### permalink: /url-ghi-de-mac-dinh # cân nhắc nếu muốn dùng!
 ---
 
+## Mục đích
+
+- Đọc câu hiểu, học từ vựng
+- Nắm được cấu trúc câu
+
 ### Loại câu hỏi về ngữ pháp
+
+<div class="w3-card w3-leftbar w3-border-green w3-pale-green w3-panel w3-padding-16">Ta có cấu trúc "{% u It is + tính từ + (for someone) to do something %}" = Nó là/sẽ là ... (trường hợp này ko cần "for someone")
+(cho ai đó) để làm gì đó.
+-> chọn C.</div>
+- It was important **to rehearse** the presentation before giving it to the over two hundred business school graduates in the audience.
+- Tập dợt bài thuyết trình trước khi phát biểu trước hơn hai trăm sinh viên tốt nghiệp ngành kinh doanh là rất quan trọng.
+    - tập dợt (động từ nguyên mẫu bare inf) A. **rehearse** 
+    - sự tập dợt (danh từ) B. **rehearsal** 
+    - (to + bare inf) C. **to rehearse** 
+    - (động từ dạng V_ed) D. **rehearsed** 
+
+<div class="w3-card w3-leftbar w3-border-green w3-pale-green w3-panel w3-padding-16">Ta có cấu trúc "{% u It is + tính từ + for someone to do something %}" = Nó thì/sẽ là ...
+cho ai đó để làm gì đó.</div>
+- *It is necessary* **for** *all factory employees* **to sign out** *the tools* {% u they use and return them at the end of the workday. %}
+- *Nó thì cần thiết* **cho** *tất cả nhân viên nhà máy* **ký** *trả những vật liệu đã dùng* vào cuối ngày làm việc.
+    - cho (giới từ) A. **for** 
+    - xa hơn (tính từ) B. **further** 
+    - bởi vì (liên từ) C. **because** 
+    - những cái này (đại từ) D. **these** 
+
+<div class="w3-card w3-leftbar w3-border-green w3-pale-green w3-panel w3-padding-16">Ta cần điền một đại từ quan hệ thay thế cho THE OFFICE vào chỗ trống.
+Do THE OFFICE là địa điểm nên ta có thể dùng WHICH hoặc THAT để thay thế -> chọn D.</div>
+- Mr. Kim knows the location of the office **which** issues parking permits.
+- Ông Kim biết địa chỉ văn phòng cấp giấy phép đậu xe.
+    - ai, người mà A. **who** 
+    - nó B. **it** 
+    - chính họ, nó (đại từ phản thân) C. **themselves** 
+    - cái mà D. **which** 
+
+<div class="w3-card w3-leftbar w3-border-green w3-pale-green w3-panel w3-padding-16">Xét về mặt ý nghĩa ta loại B và D.
+Ta chỉ dùng "any" trong câu phủ định hoặc nghi vấn trong trường hợp này -> chọn A.</div>
+- A meeting sometime after the project deadline fits **better** for my schedule than trying to have one this week.
+- Một buổi gặp mặt vào thời gian nào đó sau hạn nộp dự án sẽ phù hợp với lịch trình của tôi hơn là tuần này.
+    - tốt hơn (tính từ / trạng từ so sánh hơn) A. **better** 
+    - tốt (tính từ) B. **good** 
+    - tốt (gì) hơn C. **any better** 
+    - tốt (gì) D. **any good** 
 
 <div class="w3-card w3-leftbar w3-border-green w3-pale-green w3-panel w3-padding-16">Ta có cấu trúc "{% u to + bare inf %}" = để làm gì đó
 </div>

@@ -35,6 +35,14 @@ date: 2020-05-15 14:26:14 +0700
 
 ## Hướng dẫn làm Part 5
 
+Part 5 có nội dung như thế nào:
+- Sẽ có từ 8-10 câu hỏi về từ vựng, 9-10 câu hỏi về từ loại và 10-13 câu hỏi về ngữ pháp khác. Do đó, "chiến lược" lâu dài trong phần này là mở rộng vốn từ vựng của mình, còn "chiến lược" ngắn hạn là học từ loại.
+- Về mặt ngữ pháp thì part 5 thường chỉ xoay quanh những điểm ngữ pháp TOEIC chính như thì (tense), **câu điều kiện trong tiếng Anh, mệnh đề quan hệ, câu bị động**, v.v. Những ngữ pháp nâng cao nếu có cũng khá ít nên có thể tạm bỏ qua.
+
+### Mục đích
+
+- Nắm được cách làm các dạng bài TOEIC part 5 và cách làm
+
 ### Hướng dẫn chung
 
 1. Xem lướt qua đáp án để xem câu đó thuộc loại câu hỏi nào?

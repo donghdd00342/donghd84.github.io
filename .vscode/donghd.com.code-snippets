@@ -37,73 +37,32 @@
 // ------------------------------------------------------------------------------------>
 // {% endraw %}{% endcomment %}
 {
-	"donghd.com post template": {
-		"prefix": "dhtemplate",
+	"donghd.com part 6 template": {
+		"prefix": "dhpart6template",
 		"body": [
-			"---",
-			"# Tên file phải đúng định dạng \"YYYY-MM-DD-title.md\"",
-			"layout: post # collections",
-			"author_name: Dong Ho",
-			"draft: true # public or not",
-			"exclude: true # exclude on search",
-			"### SEO",
-			"title: CHANGE",
-			"description: CHANGE",
-			"robots: noindex, nofollow, follow, noarchive",
+			"<hr>",
+			"### SHORT_TITLE",
 			"",
-			"### HUMAN",
-			"header: CHANGE",
-			"coverImg: /assets/img/articles/demo/girl_hat.jpg # size: 1068x703 | 900x500 | 600x400",
-			"effect: true # use img-sepia?",
-			"thumbnailImg: /assets/img/articles/demo/940-900x500-grayscale.jpg # size: 900x500 | 600x400",
+			"<div class=\"w3-row\">",
+			"  <div class=\"w3-col s6 w3-container\">",
+			"    <p>s1</p>",
+			"    <p>s2</p>",
+			"    <p>s3</p>",
+			"  </div>",
+			"  <div class=\"w3-col s6 w3-container\">",
+			"    <p>s1</p>",
+			"    <p>s2</p>",
+			"    <p>s3</p>",
+			"  </div>",
+			"</div>",
 			"",
-			"### categories: mỗi category cách nhau bởi dấu cách!",
-			"# categories: Jekyll",
-			"### Table of content (TOC mặc định false), SKIP: <h1 class=\"no_toc\">Skip toc</h1> hoặc <div class=\"no_toc_section\">",
-			"toc: true",
-			"mermaid: false",
-			"highlight: false",
-			"amp: false",
-			"# collection: english # this for AMP related post",
-			"### category: dùng để group collection",
-			"# category: Grammar",
-			"",
-			"### Date nếu không có sẽ lấy từ tên file theo format \"YEAR-MONTH-DAY-title.md\"",
-			"date: 2019-06-13 22:26:14 +0700",
-			"### permalink: /url-ghi-de-mac-dinh # cân nhắc nếu muốn dùng!",
-			"---"
+			"- (1): GIẢI THÍCH...",
+			"    - (A) forbid → cấm",
+			"    - (B) thank → cảm ơn",
+			"    - (C) caution → cảnh báo",
+			"    - (D) invite → mời"
 		],
-		"description": "donghd.com post template"
-	},
-	"donghd.com reference": {
-		"prefix": "dhreference",
-		"body": [
-			"*) Tools",
-			"- Test AMP: https://search.google.com/test/amp",
-			"- Free Icons: https://icons8.com/icons",
-			"- Free Images: https://unsplash.com/",
-			"- Lorem Picsum: https://picsum.photos/",
-			"- Snippet Generator: https://snippet-generator.app/",
-			"",
-			"*) Jekyll Plugins",
-			"- Jekyll Paginate V2: https://github.com/sverrirs/jekyll-paginate-v2/blob/master/README-GENERATOR.md",
-			"- https://github.com/toshimaru/jekyll-toc",
-			"- https://github.com/jekyll/jekyll-redirect-from",
-			"- https://github.com/lavas-project/jekyll-pwa",
-			"",
-			"*) Jekyll Docs",
-			"- Jekyll Quickstart: https://jekyllrb.com/docs/",
-			"- Kramdown Quick Reference: https://kramdown.gettalong.org/quickref.html",
-			"- Liquid for Designers: https://github.com/Shopify/liquid/wiki/Liquid-for-Designers",
-			"",
-			"*) Jekyll Blogs",
-			"- https://jojozhuang.github.io/tutorial/",
-			"",
-			"*) Etc:",
-			"- https://cake23.de/suckerpunch.html",
-			""
-		],
-		"description": "donghd.com reference"
+		"description": "donghd.com part 6 template"
 	},
 	"donghd.com underline text": {
 		"prefix": "dhunderline",
@@ -127,11 +86,18 @@
 		"description": "donghd.com insert tooltip"
 	},
 	"donghd.com highlighted text": {
-		"prefix": "dhtooltip",
+		"prefix": "dhmark",
 		"body": [
 			"{% mark HIGHLIGHTED_TEXT %}"
 		],
 		"description": "donghd.com highlighted text"
+	},
+	"donghd.com Strong text": {
+		"prefix": "dhstrong",
+		"body": [
+			"{% strong STRONG_TEXT %}"
+		],
+		"description": "donghd.com strong text"
 	},
 	"donghd.com insert an image": {
 		"prefix": "dhimg",
@@ -175,7 +141,7 @@
 	"donghd.com insert an alert message": {
 		"prefix": "dhmsg",
 		"body": [
-			"<div class=\"w3-card w3-leftbar w3-border-green w3-pale-green w3-panel w3-padding-16\">MESSAGE</div>"
+			"<div class=\"w3-card w3-leftbar w3-border-blue w3-pale-blue w3-panel w3-padding-16\">MESSAGE</div>"
 		],
 		"description": "donghd.com insert an alert message"
 	},
@@ -211,5 +177,73 @@
 			"- FLOATING: w3-left, w3-right"
 		],
 		"description": "donghd.com w3 reference"
-	}
+	},
+	"donghd.com reference": {
+		"prefix": "dhreference",
+		"body": [
+			"*) Tools",
+			"- Test AMP: https://search.google.com/test/amp",
+			"- Free Icons: https://icons8.com/icons",
+			"- Free Images: https://unsplash.com/",
+			"- Lorem Picsum: https://picsum.photos/",
+			"- Snippet Generator: https://snippet-generator.app/",
+			"",
+			"*) Jekyll Plugins",
+			"- Jekyll Paginate V2: https://github.com/sverrirs/jekyll-paginate-v2/blob/master/README-GENERATOR.md",
+			"- https://github.com/toshimaru/jekyll-toc",
+			"- https://github.com/jekyll/jekyll-redirect-from",
+			"- https://github.com/lavas-project/jekyll-pwa",
+			"",
+			"*) Jekyll Docs",
+			"- Jekyll Quickstart: https://jekyllrb.com/docs/",
+			"- Kramdown Quick Reference: https://kramdown.gettalong.org/quickref.html",
+			"- Liquid for Designers: https://github.com/Shopify/liquid/wiki/Liquid-for-Designers",
+			"",
+			"*) Jekyll Blogs",
+			"- https://jojozhuang.github.io/tutorial/",
+			"",
+			"*) Etc:",
+			"- https://cake23.de/suckerpunch.html",
+			""
+		],
+		"description": "donghd.com reference"
+	},
+	"donghd.com post template": {
+		"prefix": "dhtemplate",
+		"body": [
+			"---",
+			"# Tên file phải đúng định dạng \"YYYY-MM-DD-title.md\"",
+			"layout: post # collections",
+			"author_name: Dong Ho",
+			"draft: true # public or not",
+			"exclude: true # exclude on search",
+			"### SEO",
+			"title: CHANGE",
+			"description: CHANGE",
+			"robots: noindex, nofollow, follow, noarchive",
+			"",
+			"### HUMAN",
+			"header: CHANGE",
+			"coverImg: /assets/img/articles/demo/girl_hat.jpg # size: 1068x703 | 900x500 | 600x400",
+			"effect: true # use img-sepia?",
+			"thumbnailImg: /assets/img/articles/demo/940-900x500-grayscale.jpg # size: 900x500 | 600x400",
+			"",
+			"### categories: mỗi category cách nhau bởi dấu cách!",
+			"# categories: Jekyll",
+			"### Table of content (TOC mặc định false), SKIP: <h1 class=\"no_toc\">Skip toc</h1> hoặc <div class=\"no_toc_section\">",
+			"toc: true",
+			"mermaid: false",
+			"highlight: false",
+			"amp: false",
+			"# collection: english # this for AMP related post",
+			"### category: dùng để group collection",
+			"# category: Grammar",
+			"",
+			"### Date nếu không có sẽ lấy từ tên file theo format \"YEAR-MONTH-DAY-title.md\"",
+			"date: 2019-06-13 22:26:14 +0700",
+			"### permalink: /url-ghi-de-mac-dinh # cân nhắc nếu muốn dùng!",
+			"---"
+		],
+		"description": "donghd.com post template"
+	},
 }
