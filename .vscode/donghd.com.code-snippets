@@ -37,6 +37,34 @@
 // ------------------------------------------------------------------------------------>
 // {% endraw %}{% endcomment %}
 {
+	
+	"donghd.com part 7 template": {
+		"prefix": "dhpart7template",
+		"body": [
+			"<hr>",
+			"### SHORT_TITLE",
+			"",
+			"<div class=\"w3-row\">",
+			"  <div class=\"w3-col s6 w3-container\">",
+			"    <p>s1</p>",
+			"    <p>s2</p>",
+			"    <p>s3</p>",
+			"  </div>",
+			"  <div class=\"w3-col s6 w3-container\">",
+			"    <p>s1</p>",
+			"    <p>s2</p>",
+			"    <p>s3</p>",
+			"  </div>",
+			"</div>",
+			"",
+			"- (1): GIẢI THÍCH...",
+			"    - (A) forbid → cấm",
+			"    - (B) thank → cảm ơn",
+			"    - (C) caution → cảnh báo",
+			"    - (D) invite → mời"
+		],
+		"description": "donghd.com part 7 template"
+	},
 	"donghd.com part 6 template": {
 		"prefix": "dhpart6template",
 		"body": [

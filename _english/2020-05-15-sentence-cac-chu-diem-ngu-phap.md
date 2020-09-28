@@ -20,7 +20,7 @@ header: Tổng hợp Sentence về các chủ điểm ngữ pháp phổ biến
 toc: true
 mermaid: false
 highlight: false
-amp: false
+amp: true
 audioSetting: true # có menu để setting audio or not
 collection: Writing # this for AMP related post
 ### category: dùng để group collection

@@ -20,7 +20,7 @@ categories: wordpress
 toc: true
 mermaid: false
 highlight: false
-amp: false
+amp: true
 # collection: english # this for AMP related post
 ### category: dùng để group collection
 # category: Grammar

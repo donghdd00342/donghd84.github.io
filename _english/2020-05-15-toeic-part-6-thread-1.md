@@ -20,7 +20,7 @@ header: TOEIC - Part 6 - Thread 1
 toc: true
 mermaid: false
 highlight: false # để thêm màu mè cho <pre> CODE </pre>
-amp: false
+amp: true
 audioSetting: true # có menu để setting audio or not
 collection: TOEIC
 ### category: dùng để group collection

@@ -20,7 +20,7 @@ header: RV-Level 1 - Thread 1
 toc: true
 mermaid: false
 highlight: false # để thêm màu mè cho <pre> CODE </pre>
-amp: false
+amp: true
 audioSetting: true # có menu để setting audio or not
 collection: Supper_Simple_Sentence # this for AMP related post
 ### category: dùng để group collection
