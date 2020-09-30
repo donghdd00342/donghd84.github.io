@@ -663,7 +663,7 @@ Cách đọc trước câu hỏi:
 
 ### Nói về phong cách diễn xuất của một diễn viên
 
-{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part3/questions-synthesize-005.mp3 %}
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part3/questions-synthesize-005-missing.mp3 %}
 
 **What** are the speakers discussing? → Những người nói đang bàn luận về điều gì?
 - (A) The lighting in the theater. → Ánh sáng trong rạp chiếu phim.
@@ -1013,7 +1013,7 @@ Cách đọc trước câu hỏi:
 
 ### Hỏi về giá dịch vụ chuyển phát ở bưu điện
 
-{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part3/questions-synthesize-0096.mp3 %}
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part3/questions-synthesize-0096-missing.mp3 %}
 
 **Where is** the conversation most likely taking place? → Cuộc hội thoại này rất có thể diễn ra ở đâu?
 - (A) In a library → Thư viện
@@ -1225,7 +1225,7 @@ According to the woman, **what** is special about this place? → Dựa theo ng�
 - (C) Bring out a lease agreement. → Mang ra hợp đồng cho thuê.
 - **(D) Retrieve the key. → Lấy chìa khóa.** Ta thấy ý trong câu "Just give me a second, and I will get the key."
 
-{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part3/aWT5R.mp3 %}
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part3/aWT5R-missing.mp3 %}
 
 | Hi, I saw **for-rent sign** *on your lobby window*. **I am looking for** *a two-bedroom apartment*. | Chào, tôi thấy **bảng cho thuê** *trước cửa sổ sảnh chờ của bạn*. **Tôi đang tìm** *một căn hộ hai phòng ngủ*.
 | **You are in luck**. *We do have* **an available apartment for rent** *on the fifth floor*, and I think **it may be exactly what you're looking for**. | **Bạn đã gặp may rồi**. *Chúng tôi có* **một phòng sẵn sàng cho thuê** *ở tầng năm*, và tôi nghĩ **nó có thể chính xác là những gì bạn đang tìm kiếm**.
