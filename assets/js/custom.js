@@ -340,11 +340,11 @@ function say(m) {
 }
 
 // BEGIN Konami Code
-var pattern = ['ArrowUp', 'ArrowUp', 'ArrowDown', 'ArrowDown', 'ArrowLeft', 'ArrowRight', 'ArrowLeft', 'ArrowRight', 'b', 'a'];
+// var pattern = ['ArrowUp', 'ArrowUp', 'ArrowDown', 'ArrowDown', 'ArrowLeft', 'ArrowRight', 'ArrowLeft', 'ArrowRight', 'b', 'a'];
+var pattern = ['w', 'w', 's', 's', 'a', 'd', 'a', 'd', 'e', 'r'];
 var current = 0;
 
 var keyHandler = function (event) {
-
 	// If the key isn't in the pattern, or isn't the current key in the pattern, reset
 	if (pattern.indexOf(event.key) < 0 || event.key !== pattern[current]) {
 		current = 0;
@@ -358,7 +358,9 @@ var keyHandler = function (event) {
 	if (pattern.length === current) {
     current = 0;
     try {
-      document.getElementById('konamiHide').style.display = 'initial';
+      for (let item of document.getElementsByClassName('konamiHide')) {
+        item.style.display = 'initial';
+      }
     } catch (error) {}
 	}
 

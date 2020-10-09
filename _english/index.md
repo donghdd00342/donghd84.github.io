@@ -5,7 +5,7 @@ robots: NOINDEX, FOLLOW
 draft: true
 ---
 <!-- SEARCH: # Nhớ sửa đường dẫn tìm kiếm bên dưới # -->
-<div id="search-container">
+<div id="search-container" class="konamiHide">
   <label>
 		<span class="dh-unnecessary">Tìm kiếm</span>
     <input type="text" id="search-input" placeholder="Search...">
@@ -26,10 +26,12 @@ draft: true
 
     {% include disclaimer-copyright.html %}
 
+    {% assign excludeArr = "Speaking,Vocabulary,TOEIC,Supper_Simple_Sentence,Writing,Business_English,In_Actions" | split:"," %}
+
     {% assign groups = serial.docs | group_by: "category" %}
     {% for group in groups %}
       {% if group.name != "" %}
-      <div class="w3-section">
+      <div class="w3-section {% if excludeArr contains group.name %}konamiHide{% endif %}">
         <h5 id="{{ group.name }}">{{ group.name | replace: "_", " " }} ({{ group.size }})</h5>
         <ul class="w3-ul">
         {% for doc in group.items %}
