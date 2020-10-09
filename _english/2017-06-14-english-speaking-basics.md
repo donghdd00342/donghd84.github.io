@@ -39,7 +39,15 @@ date: 2019-06-13 22:26:14 +0700
 
 Tham khảo: [Mẫu câu thông dụng kinh điển trong tiếng anh](/collections/english/sentence-mau-cau-kinh-dien-thong-dung-trong-tieng-anh){:.hvr-forward}
 
+Full Repeat:<br>
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/mp3/0_0_REPEAT_1_0_English_Speaking_Basics.mp3 %}
+
 ## Basics - Section I
+
+<div class="w3-section konamiHide">
+Full Repeat Section I:<br>
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/mp3/0_1_REPEAT_1_0_English_Speaking_Basics.mp3 %}
+</div>
 
 ### 1. Basic usage of 'I'm'
 
@@ -744,6 +752,11 @@ Here are some examples:
 
 ## Basics - Section II
 
+<div class="w3-section konamiHide">
+Full Repeat Section II:<br>
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/mp3/0_2_REPEAT_1_0_English_Speaking_Basics.mp3 %}
+</div>
+
 ### 1. I'm calling to + (verb/noun) [Tôi gọi để/Tôi muốn gọi để/Tôi sẽ gọi đây là/Tôi kêu gọi sự ...]
 
 {% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/mp3/2031-long.mp3 %}
@@ -1384,6 +1397,11 @@ Here are some examples:
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 ## Basics - Section III
+
+<div class="w3-section konamiHide">
+Full Repeat Section III:<br>
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/mp3/0_3_REPEAT_1_0_English_Speaking_Basics.mp3 %}
+</div>
 
 ### 1. How often do you + (Verb) [Bạn có hay/Bạn có thường xuyên/Bao lâu bạn ...]
 
