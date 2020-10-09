@@ -338,3 +338,34 @@ function say(m) {
   msg.lang = document.getElementById('asLangSay').value;
   speechSynthesis.speak(msg);
 }
+
+// BEGIN Konami Code
+// var pattern = ['ArrowUp', 'ArrowUp', 'ArrowDown', 'ArrowDown', 'ArrowLeft', 'ArrowRight', 'ArrowLeft', 'ArrowRight', 'b', 'a'];
+var pattern = ['w', 'w', 's', 's', 'a', 'd', 'a', 'd', 'e', 'r'];
+var current = 0;
+
+var keyHandler = function (event) {
+	// If the key isn't in the pattern, or isn't the current key in the pattern, reset
+	if (pattern.indexOf(event.key) < 0 || event.key !== pattern[current]) {
+		current = 0;
+		return;
+	}
+
+	// Update how much of the pattern is complete
+	current++;
+
+	// If complete, action and reset
+	if (pattern.length === current) {
+    current = 0;
+    try {
+      for (let item of document.getElementsByClassName('konamiHide')) {
+        item.style.display = 'initial';
+      }
+    } catch (error) {}
+	}
+
+};
+
+// Listen for keydown events
+document.addEventListener('keydown', keyHandler, false);
+// END Konami Code
