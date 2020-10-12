@@ -180,10 +180,44 @@
 		],
 		"description": "donghd.com insert an alert message by tag"
 	},
+	"donghd.com 750 words template": {
+		"prefix": "dh750WordsTemplate",
+		"body": [
+			"<hr>",
+			"",
+			"[R]elational Words (từ liên quan/từ loại) [S]ynonyms (đồng nghĩa) [A]ntonyms (trái nghĩa) [C]onfusing Words (gây nhầm lẫn)",
+			"- **AAA**",
+			"- [S] BBB",
+			"- [A] BBB",
+			"- [C] BBB",
+			"- [R] BBB",
+			"",
+			"<div class=\"w3-card w3-leftbar w3-border-blue w3-pale-blue w3-panel w3-padding-16\">GIAITHICH</div>",
+			"",
+			"|	EXAMPLE	|	VIETNAMESE",
+			"{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}"
+		],
+		"description": "donghd.com 750 words template"
+	},
+	"donghd.com simple table": {
+		"prefix": "dhsimpletable",
+		"body": [
+			"|	AAA	|	BBB	|	CCC",
+			"{:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}"
+		],
+		"description": "donghd.com simple table"
+	},
+	"donghd.com hint 750 words": {
+		"prefix": "dh750hint",
+		"body": [
+			"[R]elational Words (từ liên quan/từ loại) [S]ynonyms (đồng nghĩa) [A]ntonyms (trái nghĩa) [C]onfusing Words (gây nhầm lẫn)"
+		],
+		"description": "donghd.com hint 750 words"
+	},
 	"donghd.com insert an mp3 player": {
 		"prefix": "dhmp3",
 		"body": [
-			"{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/part4/AAAA %}"
+			"{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/750-words/AAAA %}"
 		],
 		"description": "donghd.com insert an mp3 player"
 	},
@@ -237,7 +271,7 @@
 		"description": "donghd.com reference"
 	},
 	"donghd.com post template": {
-		"prefix": "dhtemplate",
+		"prefix": "dhPostTemplate",
 		"body": [
 			"---",
 			"# Tên file phải đúng định dạng \"YYYY-MM-DD-title.md\"",
