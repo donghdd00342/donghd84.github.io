@@ -361,6 +361,7 @@ var keyHandler = function (event) {
       for (let item of document.getElementsByClassName('konamiHide')) {
         item.style.display = 'initial';
       }
+      document.getElementById('inputCheat').style.display = 'none';
     } catch (error) {}
 	}
 
