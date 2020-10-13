@@ -37,6 +37,7 @@ date: 2020-05-15 14:26:14 +0700
 ### 1-1. Contracts (Hợp đồng)
 
 {% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/750-words/TRACK01.mp3 %}
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/750-words/REPEAT_TRACK_TRUNC_SL01.mp3 %}
 
 *[**R**]elational Words (từ liên quan/từ loại) [**S**]ynonyms (đồng nghĩa) [**A**]ntonyms (trái nghĩa) [**C**]onfusing Words (gây nhầm lẫn)*
 - **acceptance** (n) sự chấp nhận
@@ -46,7 +47,7 @@ date: 2020-05-15 14:26:14 +0700
 
 <div class="w3-card w3-leftbar w3-border-blue w3-pale-blue w3-panel w3-padding-16">"acceptance" trong thương mại có thể dùng để chỉ "hóa đơn, hay chứng từ giao dịch có đảm bảo thanh toán"</div>
 
-|	**Now that** *you have shown* **your acceptance of our offer**, *I will prepare the contract for you* **to sign**. | Do ông chấp nhận đơn đặt hàng của chúng tôi, tôi sẽ chuẩn bị hợp đồng để ông ký.	|	Bây giờ bạn đã thể hiện sự chấp nhận đề nghị của chúng tôi, tôi sẽ chuẩn bị hợp đồng để bạn ký. 
+|	**Now that** *you have shown* **your acceptance of our offer**, *I will prepare the contract for you* **to sign**. | Do ông chấp nhận đơn đặt hàng của chúng tôi, tôi sẽ chuẩn bị hợp đồng để ông ký.
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 <hr>
@@ -58,7 +59,7 @@ date: 2020-05-15 14:26:14 +0700
 
 <div class="w3-card w3-leftbar w3-border-blue w3-pale-blue w3-panel w3-padding-16">"agreement" khi mang nghĩa "hiệp định, hiệp ước" là danh từ đếm được, khi mang nghĩa là "đồng ý, thống nhất" thì lại là danh từ không đếm được. "Trade agreement" chỉ "Hiệp định thương mại"</div>
 
-|	**The two countries** *signed* **a trade agreement**.	|	Hai quốc gia đã ký một hợp đồng thương mại. |	Hai nước đã ký hiệp định thương mại.
+|	**The two countries** *signed* **a trade agreement**.	|	Hai quốc gia đã ký một hợp đồng thương mại.
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 <hr>
@@ -69,7 +70,7 @@ date: 2020-05-15 14:26:14 +0700
 - [R] amendment (n) sự sửa đổi
 - [S] correct (v) hiệu chỉnh
 
-|	**Can we** *amend this part* **of the contract** *before we sign?*	|	Chúng tôi có thể sửa đổi một phần của bản hợp đồng này trước khi chúng tôi ký không?	|	Chúng tôi có thể sửa đổi phần này của hợp đồng trước khi chúng tôi ký không?
+|	**Can we** *amend this part* **of the contract** *before we sign?*	|	Chúng tôi có thể sửa đổi một phần của bản hợp đồng này trước khi chúng tôi ký không?
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 <hr>
@@ -81,7 +82,7 @@ date: 2020-05-15 14:26:14 +0700
 
 <div class="w3-card w3-leftbar w3-border-blue w3-pale-blue w3-panel w3-padding-16">"amendment" thường dùng để chỉ "sự bổ sung hoặc sửa đổi một hiến pháp hay một đạo luận", ví dụ: {% u a constitutional amendment %} là chỉ "sửa đổi một hiến pháp"</div>
 
-|	**I have made** *the amendments (that) you wanted*; **would you like** *to sign it* now?	|	Tôi đã thực hiện một số sửa đổi như ông muốn, vậy ông sẽ ký bây giờ chứ?	|	Tôi đã thực hiện các sửa đổi mà bạn muốn; bạn có muốn ký nó ngay bây giờ không?
+|	**I have made** *the amendments (that) you wanted*; **would you like** *to sign it* now?	|	Tôi đã thực hiện một số sửa đổi như ông muốn, vậy ông sẽ ký bây giờ chứ?
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 <hr>
@@ -93,7 +94,7 @@ date: 2020-05-15 14:26:14 +0700
 
 <div class="w3-card w3-leftbar w3-border-blue w3-pale-blue w3-panel w3-padding-16">khi bind có nghĩa "bắt buộc, ràng buộc", thường dùng hình thức bị động dạng "{% u be bound %}". Thì quá khứ và quá khứ phân từ của "bind" là "bound".</div>
 
-|	**She cannot work for** *anyone else* **as** *she is bound* **by her contract**.	|	**Cô ấy không thể làm việc cho** *người khác* **bởi vì** *cô gấy bị ràng buộc* **bởi hợp đồng của cô**.	|	Cô ấy không thể làm việc cho bất kỳ ai khác vì cô ấy bị ràng buộc bởi hợp đồng của mình.
+|	**She cannot work for** *anyone else* **as** *she is bound* **by her contract**.	|	**Cô ấy không thể làm việc cho** *người khác* **bởi vì** *cô gấy bị ràng buộc* **bởi hợp đồng của cô**.
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 <hr>
@@ -106,7 +107,7 @@ date: 2020-05-15 14:26:14 +0700
 
 <div class="w3-card w3-leftbar w3-border-blue w3-pale-blue w3-panel w3-padding-16">Khi binding là một danh từ, có thể chỉ "bìa sách, keo, chất dán, dây buộc, miếng nẹp...</div>
 
-|	*The contract* **is legally** *binding*.	|	*Hợp đồng này* **là ràng buộc hợp pháp**.	|	Hợp đồng có giá trị pháp lý ràng buộc.
+|	*The contract* **is legally** *binding*.	|	*Hợp đồng này* **là ràng buộc hợp pháp**.
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 <hr>
@@ -120,7 +121,7 @@ date: 2020-05-15 14:26:14 +0700
 
 <div class="w3-card w3-leftbar w3-border-blue w3-pale-blue w3-panel w3-padding-16">"breach of sth" biểu thị "vi phạm việc gì đó". Ví dụ: "breach of an agreement (vi phạm hiệp ước), breach of etiquette (vi phạm thuần phong mỹ tục), breach of trust (bội tín)..."</div>
 
-|	**If** you *raise the price*, that **will** be *a breach of our contract*.	|	Nếu ông tăng giá cả lên thì sẽ vi phạm hợp đồng của chúng ta.	|	Nếu bạn tăng giá, điều đó sẽ vi phạm hợp đồng của chúng ta.
+|	**If** you *raise the price*, that **will** be *a breach of our contract*.	|	Nếu ông tăng giá cả lên thì sẽ vi phạm hợp đồng của chúng ta.
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 <hr>
@@ -133,7 +134,7 @@ date: 2020-05-15 14:26:14 +0700
 
 <div class="w3-card w3-leftbar w3-border-blue w3-pale-blue w3-panel w3-padding-16">Trong ngữ pháp, clause có nghĩa là mệnh đề, ví dụ: main clause (mệnh đề chính), relative clause (mệnh đề quan hệ), subordinate clause (mệnh đề phụ thuộc)</div>
 
-|	I want a clause put in the contract that says I will also get 5 percent of the profits.	|	Tôi muốn trong hợp đồng này có điều khoản rằng tôi cũng sẽ được nhận 5% lợi nhuận.	|	Tôi muốn một điều khoản ghi trong hợp đồng nói rằng tôi cũng sẽ nhận được 5% lợi nhuận.
+|	**I want a clause** {% u put in the contract %} **that says** *I will also get 5 percent of the profits.*	|	Tôi muốn trong hợp đồng này có điều khoản rằng tôi cũng sẽ được nhận 5% lợi nhuận.
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 <hr>
@@ -144,7 +145,7 @@ date: 2020-05-15 14:26:14 +0700
 - [R] contract (n, v) hợp đồng
 - [R] contractually (adv) tuân theo hợp đồng
 
-|	We have a contractual agreement.	|	Tôi có một thỏa thuận bằng hợp đồng.	|	Chúng tôi có một thỏa thuận hợp đồng.
+|	*We have* **a contractual agreement**.	|	Tôi có một thỏa thuận bằng hợp đồng.
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 <hr>
@@ -154,7 +155,7 @@ date: 2020-05-15 14:26:14 +0700
 - [R] current (adj) hiện tại
 - [S] now, presently, right now, at present (adv) hiện tại, ngay bây giờ
 
-|	We are currently tied to another contract, but that will end early next year.	|	Hiện tại chúng tôi bị ràng buộc bởi hợp đồng khác, nhưng nó sẽ kết thúc vào đầu tuần sau.	|	Chúng tôi hiện đang ràng buộc với một hợp đồng khác, nhưng điều đó sẽ kết thúc vào đầu năm sau.
+|	**We are currently tied to** *another contract*, **but** {% u that will end early %} next year.	|	Hiện tại chúng tôi bị ràng buộc bởi hợp đồng khác, nhưng nó sẽ kết thúc vào đầu tuần sau.
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 <hr>
@@ -168,7 +169,7 @@ date: 2020-05-15 14:26:14 +0700
 
 <div class="w3-card w3-leftbar w3-border-blue w3-pale-blue w3-panel w3-padding-16">Mẫu câu thường dùng là "{% u be obligate to V %}" = "phải có nghĩa vụ ..."</div>
 
-|	You are obligated to buy our products for the next three years.	|	Anh phải có nghĩa vụ mua sản phẩm của chúng tôi trong 3 năm tới.	|	Bạn có nghĩa vụ mua sản phẩm của chúng tôi trong ba năm tới.
+|	**You are obligated** *to buy our products* **for the next three years**.	|	Anh phải có nghĩa vụ mua sản phẩm của chúng tôi trong 3 năm tới.
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 <hr>
@@ -179,7 +180,7 @@ date: 2020-05-15 14:26:14 +0700
 - [R] oblige (v) bắt buộc, cưỡng chế
 - [S] commitment, duty, responsibility (n) nghĩa vụ, trách nhiệm
 
-|	According to the contract, you have an obligation to pay.	|	Theo hợp đồng này, anh có nghĩa vụ phải thanh toán.	|	Theo hợp đồng, bạn có nghĩa vụ thanh toán.
+|	{% u According to %} *the contract*, **you have an obligation to pay**.	|	Theo hợp đồng này, anh có nghĩa vụ phải thanh toán.
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 <hr>
@@ -191,7 +192,7 @@ date: 2020-05-15 14:26:14 +0700
 
 <div class="w3-card w3-leftbar w3-border-blue w3-pale-blue w3-panel w3-padding-16">"oblige" cũng có thể chỉ "khiến... cảm động", thường dùng quá khứ phân từ để biểu thị, ví dụ: much obliged, I am obliged to you, hoặc là dùng would/should be obliged để biểu thị, đây đều là những cách dùng chính thức.</div>
 
-|	The law obliges people to pay tax.	|	Luật này buộc người dân phải nộp thuế.	|	Luật pháp bắt buộc mọi người phải nộp thuế.
+|	*The law* **obliges people** *to pay tax*.	|	Luật này buộc người dân phải nộp thuế.
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 <hr>
@@ -204,7 +205,7 @@ date: 2020-05-15 14:26:14 +0700
 
 <div class="w3-card w3-leftbar w3-border-blue w3-pale-blue w3-panel w3-padding-16">Party ngoài ý nghĩa trên, còn có nghĩa là "chính đảng, đảng phái", ví dụ: the Democratic (Đảng Dân chủ).</div>
 
-|	Both parties need to sign the contract.	|	Hai bên cần ký hợp đồng này.	|	Cả hai bên cần phải ký hợp đồng.
+|	*Both parties* **need to sign** *the contract*.	|	Hai bên cần ký hợp đồng này.
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 <hr>
@@ -214,7 +215,7 @@ date: 2020-05-15 14:26:14 +0700
 - [R] persuade (v) thuyết phục
 - [R] persuasive, convincing, inclucing (adj) mang tính thuyết phục, dễ tin
 
-|	It took a lot of persuasion to get her to sign.	|	Phải thuyết phục nhiều cô ấy mới chịu ký.	|	Phải thuyết phục rất nhiều để cô ấy ký.
+|	**It took** {% u a lot of persuasion %} **to get her to sign**.	|	Phải thuyết phục nhiều cô ấy mới chịu ký.
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 <hr>
@@ -227,7 +228,7 @@ date: 2020-05-15 14:26:14 +0700
 
 <div class="w3-card w3-leftbar w3-border-blue w3-pale-blue w3-panel w3-padding-16">Khi protect có nghĩa là "bảo vệ", thường dùng mẫu caauL "{% u protect sb/sth from against sth %}". Protect cũng có thể chỉ "(chính phủ) bảo vệ (tài sản đất nước)", hoặc "bảo hiểm cho tài sản của người nào đó".</div>
 
-|	The contract protects us both from any misunderstandings later.	|	Hợp đồng này bảo vệ cả hai chúng ta khỏi những hiểu lầm sau này.	|	Hợp đồng bảo vệ cả hai chúng tôi khỏi mọi hiểu lầm sau này.
+|	*The contract* **protects us both** *from any misunderstandings later*.	|	Hợp đồng này bảo vệ cả hai chúng ta khỏi những hiểu lầm sau này.
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 <hr>
@@ -239,7 +240,7 @@ date: 2020-05-15 14:26:14 +0700
 
 <div class="w3-card w3-leftbar w3-border-blue w3-pale-blue w3-panel w3-padding-16">Những ý thường gặp khác của satisfy là "khiến... hài lòng, thỏa mãn (kì vọng, tiêu chuẩn), khiến... tin tưởng..."</div>
 
-|	You must satisfy the contract.	|	Các ông phải tuân thủ hợp đồng này.	|	Bạn phải thỏa mãn hợp đồng.
+|	**You must satisfy** *the contract*.	|	Các ông phải tuân thủ hợp đồng này.
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 <hr>
@@ -248,7 +249,7 @@ date: 2020-05-15 14:26:14 +0700
 - **sign** (v, n) ký, ký kết
 - [R] signature (n) chữ ký
 
-|	We just need to sign the contract now.	|	Bây giờ chúng ta chỉ cần ký vào hợp đồng này.	|	Chúng ta chỉ cần ký hợp đồng ngay bây giờ.
+|	**We just need to sign** *the contract now*.	|	Bây giờ chúng ta chỉ cần ký vào hợp đồng này.
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 <hr>
@@ -258,13 +259,14 @@ date: 2020-05-15 14:26:14 +0700
 - [R] signatory (adj, n) thuộc về chữ ký
 - [R] sign (v) ký, ký kết
 
-|	Please put your signature at the bottom of the page.	|	Vui lòng ký tên của ông ở cuối trang giấy.	|	Vui lòng đặt chữ ký của bạn ở cuối trang.
+|	**Please put your signature** *at the bottom of the page*.	|	Vui lòng ký tên của ông ở cuối trang giấy.
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 
 ### 1-2. Negotiations (Đàm phán)
 
 {% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/750-words/TRACK02.mp3 %}
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/750-words/REPEAT_TRACK_TRUNC_SL02.mp3 %}
 
 <hr>
 
@@ -275,7 +277,7 @@ date: 2020-05-15 14:26:14 +0700
 
 <div class="w3-card w3-leftbar w3-border-blue w3-pale-blue w3-panel w3-padding-16">Một nghĩa khác của "accommodate" là "cung cấp chỗ ở", còn danh từ "accommodations" là chỉ "nơi ở", khi dùng với nghĩa này thường dùng với hình thức số nhiều.</div>
 
-|	Can you accommodate us with a better offer?	|	Ông có thể cung cấp cho chúng tôi với giá tốt hơn không?	|	Bạn có thể đáp ứng cho chúng tôi với một đề nghị tốt hơn?
+|	**Can you accommodate us** *with a better offer?*	|	Ông có thể cung cấp cho chúng tôi với giá tốt hơn không?
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 <hr>
@@ -285,7 +287,7 @@ date: 2020-05-15 14:26:14 +0700
 
 <div class="w3-card w3-leftbar w3-border-blue w3-pale-blue w3-panel w3-padding-16">"afford" thường dùng chung với "can, could, be able to", thường dùng trong câu phủ định hoặc nghi vấn</div>
 
-|	I don't think we can afford to hire a new employee until we get more clients.	|	Tôi không nghĩ chúng ta có đủ khả năng để thuê nhân công mới cho đến khi chúng ta có nhiều khách hàng hơn.	|	I don't think we can afford to hire a new employee until we get more clients.
+|	**I don't think** {% u we can afford %} **to hire** *a new employee* **until we get more clients.**	|	Tôi không nghĩ chúng ta có đủ khả năng để thuê nhân công mới cho đến khi chúng ta có nhiều khách hàng hơn.
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 <hr>
@@ -293,7 +295,7 @@ date: 2020-05-15 14:26:14 +0700
 *[**R**]elational Words (từ liên quan/từ loại) [**S**]ynonyms (đồng nghĩa) [**A**]ntonyms (trái nghĩa) [**C**]onfusing Words (gây nhầm lẫn)*
 - **aggressive** (adj) đẩy mạnh, tăng cường, xông xáo, mạnh dạn
 
-|	New companies have to be arrgressive in promoting their products in order to break into the market.	|	Những công ty mới phải xông xáo trong việc quảng bá sản phẩm để xâm nhập vào thị trường.	|	Các công ty mới phải mạnh dạn quảng bá sản phẩm của họ để thâm nhập thị trường.
+|	*New companies* **have to be arrgressive in** *promoting their products* {% u in order to %} **break into the market**.	|	Những công ty mới phải xông xáo trong việc quảng bá sản phẩm để xâm nhập vào thị trường.
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 <hr>
@@ -303,7 +305,7 @@ date: 2020-05-15 14:26:14 +0700
 - [R] apprehension (n) sự lo lắng, lo âu
 - [R] apprehensively (adv) một cách sợ hãi
 
-|	Leslie was a little apprehensive about being in charge of her first project, but she performed well.	|	Leslie lo lắng nhiều về việc chịu trách nhiệm cho dự án đầu tiên của mình, nhưng cô ấy đã thể hiện tốt.	|	Leslie có chút e ngại khi chịu trách nhiệm cho dự án đầu tiên của mình, nhưng cô ấy đã thể hiện rất tốt.
+|	**Leslie was a little apprehensive about** {% u being in charge of %} **her first project**, *but* {% u she performed well %}.	|	Leslie lo lắng nhiều về việc chịu trách nhiệm cho dự án đầu tiên của mình, nhưng cô ấy đã thể hiện tốt.
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 <hr>
@@ -317,7 +319,7 @@ date: 2020-05-15 14:26:14 +0700
 
 <div class="w3-card w3-leftbar w3-border-blue w3-pale-blue w3-panel w3-padding-16">"{% u bargain over sth %}" là "điều đình, trả giá nào đó", {% u bargain for sth %} là "dự tính...", {% u bargain with sb %} là "thương lượng với người nào đó"</div>
 
-|	They are bargaining over the price right now.	|	Bây giờ họ đang thương lượng giá cả.	|	Họ đang mặc cả về giá cả ngay bây giờ.
+|	**They are bargaining** *over the price* right now.	|	Bây giờ họ đang thương lượng giá cả.
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 <hr>
@@ -325,7 +327,7 @@ date: 2020-05-15 14:26:14 +0700
 *[**R**]elational Words (từ liên quan/từ loại) [**S**]ynonyms (đồng nghĩa) [**A**]ntonyms (trái nghĩa) [**C**]onfusing Words (gây nhầm lẫn)*
 - **compromise** (n, v) nhất trí, thống nhất
 
-|	The two sides could not reach a compromise, so the meeting ended without resolving anything.	|	Hai bên không thể đạt được sự nhất trí, vì vậy buổi họp kết thúc mà chưa giải quyết được việc gì.	|	Hai bên không thỏa hiệp được nên cuộc họp kết thúc mà không giải quyết được gì.
+|	*The two sides* **could not reach a compromise**, *so* the meeting {% u ended without resolving anything %}.	|	Hai bên không thể đạt được sự nhất trí, vì vậy buổi họp kết thúc mà chưa giải quyết được việc gì.
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 <hr>
@@ -335,7 +337,7 @@ date: 2020-05-15 14:26:14 +0700
 - [R] concession (n) sự nhượng bộ
 - [R] concessive (adj) nhượng bộ
 
-|	After five years, the company had to concede that the project had been a failure.	|	Sau 5 năm, công ty phải thừa nhận dự án này là một thất bại.	|	Sau năm năm, công ty phải thừa nhận rằng dự án đã thất bại.
+|	*After five years*, the company **had to concede that** *the project had been a failure*.	|	Sau 5 năm, công ty phải thừa nhận dự án này là một thất bại.
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 <hr>
@@ -348,7 +350,7 @@ date: 2020-05-15 14:26:14 +0700
 
 <div class="w3-card w3-leftbar w3-border-blue w3-pale-blue w3-panel w3-padding-16">Sau "consider" phải là một động từ có hình thức V-ing</div>
 
-|	Would you consider lowering the price?	|	Anh sẽ xem xét hạ thấp giá được chứ?	|	Bạn có cân nhắc giảm giá không?
+|	**Would you consider** {% u lowering the price %}?	|	Anh sẽ xem xét hạ thấp giá được chứ?
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 <hr>
@@ -358,7 +360,7 @@ date: 2020-05-15 14:26:14 +0700
 - [R] delicate (adj) tế nhị, khéo léo
 - [R] delicacy (n) sự khéo léo, sự tế nhị, sự duyên dáng
 
-|	Grant delicately asked Jan about her divorce because he knew it was a sensitive subject.	|	Grant hỏi Jan một cách tế nhị về cuộc ly hôn của cô ấy vì anh biết đây là chủ đề nhạy cảm.	|	Grant tế nhị hỏi Jan về việc ly hôn của cô vì anh biết đó là một chủ đề nhạy cảm.
+|	*Grant* **delicately asked** *Jan* **about** *her divorce* {% u because %} **he knew it was a sensitive subject**.	|	Grant hỏi Jan một cách tế nhị về cuộc ly hôn của cô ấy vì anh biết đây là chủ đề nhạy cảm.
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 <hr>
@@ -370,7 +372,7 @@ date: 2020-05-15 14:26:14 +0700
 
 <div class="w3-card w3-leftbar w3-border-blue w3-pale-blue w3-panel w3-padding-16">khi offer làm danh từ, ngoài việc chỉ ý "cung cấp, cho ý kiến" ra, trong giá cả là chỉ ý "ra giá", còn "special offer" có ý là "giá cả đặc biệt, cung cấp giá đặc biệt"</div>
 
-|	Is that your final offer? I was hoping you might lower the price more than that.	|	Đó là giá cuối cùng của anh chưa? Tôi đã hy vọng anh có thể hạ thấp giá hơn thế. |	Đó có phải là đề nghị cuối cùng của bạn không? Tôi đã hy vọng bạn có thể giảm giá nhiều hơn thế.
+|	{% u Is that your final offer? %} **I was hoping** *you might* **lower the price more than that**.	|	Đó là giá cuối cùng của anh chưa? Tôi đã hy vọng anh có thể hạ thấp giá hơn thế.
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 <hr>
@@ -378,7 +380,7 @@ date: 2020-05-15 14:26:14 +0700
 *[**R**]elational Words (từ liên quan/từ loại) [**S**]ynonyms (đồng nghĩa) [**A**]ntonyms (trái nghĩa) [**C**]onfusing Words (gây nhầm lẫn)*
 - **offet** (v) bù cho, bù đắp (thiệt hại)
 
-|	The losses incurred by the luxury car division in the last quarter were offset by the increase in the sales of compacts.	|	Trong quý cuối, sự thua lỗ ở dòng xe hơi sang trọng được bù đắp bằng sự tăng doanh số ở dòng xe hơi nhỏ.	|	Khoản lỗ của mảng xe sang trong quý vừa qua được bù đắp bằng việc doanh số bán xe compact tăng.
+|	{% u The losses incurred %} **by the luxury car division** in the last quarter {% u were offset by %} **the increase in the sales of compacts**.	|	Trong quý cuối, sự thua lỗ ở dòng xe hơi sang trọng được bù đắp bằng sự tăng doanh số ở dòng xe hơi nhỏ.
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 <hr>
@@ -390,12 +392,13 @@ date: 2020-05-15 14:26:14 +0700
 - [A] indecisive (adj) thiếu quả quyết
 - [A] ineffective (adj) không hiệu quả
 
-|	They have a very strong position in the negotiations.	|	Họ có vị thế mạnh trong các cuộc thương lượng.	|	Họ có một vị trí rất vững chắc trong các cuộc đàm phán.
+|	They have **a very strong position** in the negotiations.	|	Họ có vị thế mạnh trong các cuộc thương lượng.
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 ### 1-3. Marketing (Tiếp thị)
 
 {% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/750-words/TRACK03.mp3 %}
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/750-words/REPEAT_TRACK_TRUNC_SL03.mp3 %}
 
 <hr>
 
@@ -570,6 +573,7 @@ date: 2020-05-15 14:26:14 +0700
 ### 1-4. Sales (Bán hàng)
 
 {% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/750-words/TRACK04.mp3 %}
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/750-words/REPEAT_TRACK_TRUNC_SL04.mp3 %}
 
 <hr>
 
@@ -705,6 +709,7 @@ date: 2020-05-15 14:26:14 +0700
 ### 1-5. Conferences (Hội nghị)
 
 {% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/750-words/TRACK05.mp3 %}
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/750-words/REPEAT_TRACK_TRUNC_SL05.mp3 %}
 
 <hr>
 
@@ -814,6 +819,7 @@ date: 2020-05-15 14:26:14 +0700
 ### 1-6. Business Planning (Kế hoạch kinh doanh)
 
 {% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/750-words/TRACK06.mp3 %}
+{% mp3 https://s3-ap-southeast-1.amazonaws.com/donghd.com/assets/toeic/750-words/REPEAT_TRACK_TRUNC_SL06.mp3 %}
 
 <hr>
 
@@ -977,7 +983,7 @@ date: 2020-05-15 14:26:14 +0700
 <hr>
 
 [R]elational Words (từ liên quan/từ loại) [S]ynonyms (đồng nghĩa) [A]ntonyms (trái nghĩa) [C]onfusing Words (gây nhầm lẫn)
-- **joint venture** - liên hoanh
+- **joint venture** - liên doanh
 - [R] venture capital - vốn rủi ro
 
 |	**Most of the foreign investments** *in mainland China* **are joint ventures** {% u between %} **foreign** {% u and %} **local firms**.	|	Hầu hết đầu tư nước ngoài tại Trung Hoa đại lục đều là liên doanh giữa công ty nước ngoài và công ty địa phương.
