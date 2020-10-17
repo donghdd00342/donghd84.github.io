@@ -82,7 +82,7 @@ date: 2020-05-15 14:26:14 +0700
 
 <div class="w3-card w3-leftbar w3-border-blue w3-pale-blue w3-panel w3-padding-16">"amendment" thường dùng để chỉ "sự bổ sung hoặc sửa đổi một hiến pháp hay một đạo luận", ví dụ: {% u a constitutional amendment %} là chỉ "sửa đổi một hiến pháp"</div>
 
-|	**I have made** *the amendments (that) you wanted*; **would you like** *to sign it* now?	|	Tôi đã thực hiện một số sửa đổi như ông muốn, vậy ông sẽ ký bây giờ chứ?
+|	**I have made** *the amendments you wanted*; **would you like** *to sign it* now?	|	Tôi đã thực hiện một số sửa đổi như ông muốn, vậy ông sẽ ký bây giờ chứ?
 {:.w3-table-all.w3-hoverable.w3-card-4.w3-section.th-blue}
 
 <hr>
